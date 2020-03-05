@@ -1,0 +1,21 @@
+{% if post.layout != post %}
+  {% assign words = post.content | strip_html | number_of_words %}
+  {% if words < 180 %}
+    1 dakikadan az yaklaşık okuma süresi
+  {% elsif words < 360 %}
+    1 dakika yaklaşık okuma süresi
+  {% else %}
+    {{ words | divided_by:180 }} dakika yaklaşık okuma süresi
+  {% endif %}
+{% endif %}
+
+{% if post.layout == post %}
+  {% assign words = content | number_of_words %}
+  {% if words < 180 %}
+    1 dakikadan az yaklaşık okuma süresi
+  {% elsif words < 360 %}
+    1 dakika yaklaşık okuma süresi
+  {% else %}
+    {{ words | divided_by:180 }} dakika yaklaşık okuma süresi
+  {% endif %}
+{% endif %}

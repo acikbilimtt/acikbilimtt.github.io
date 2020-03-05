@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Açık Bilim.Türkiye</title>
+		<description>|topluluk içerik platformu</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Demonstration of DOCX support in calibre</title>
+				
+					<dc:creator>Emre Erçin</dc:creator>
+				
+				
+					<description>&lt;p&gt;This document demonstrates the ability of the calibre DOCX Input plugin
+to convert the various typographic features in a Microsoft Word (2007
+and newer) document. Convert this document to a modern ebook format,
+such as AZW3 for Kindles or EPUB for other ebook readers, to see it in
+action.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 12 Feb 2020 00:00:00 +0300</pubDate>
+				<link>/demo.html</link>
+				<guid isPermaLink="true">/demo.html</guid>
+			</item>
+		
+	</channel>
+</rss>
