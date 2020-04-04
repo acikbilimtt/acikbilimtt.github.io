@@ -3,18 +3,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    bibtex-ruby (4.4.7)
-      latex-decode (~> 0.0)
-    citeproc (1.0.10)
-      namae (~> 1.0)
-    citeproc-ruby (1.1.12)
-      citeproc (~> 1.0, >= 1.0.9)
-      csl (~> 1.5)
     colorator (1.1.0)
-    csl (1.5.1)
-      namae (~> 1.0)
-    csl-styles (1.0.1.10)
-      csl (~> 1.0)
     ffi (1.12.2)
     forwardable-extended (2.6.0)
     jekyll (3.6.3)
@@ -35,11 +24,6 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-scholar (5.16.0)
-      bibtex-ruby (~> 4.0, >= 4.0.13)
-      citeproc-ruby (~> 1.0)
-      csl-styles (~> 1.0)
-      jekyll (~> 3.0)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.2.0)
@@ -47,13 +31,11 @@ GEM
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.17.0)
-    latex-decode (0.3.1)
     liquid (4.0.3)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    namae (1.0.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.3)
@@ -76,7 +58,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-menus
   jekyll-paginate
-  jekyll-scholar
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
