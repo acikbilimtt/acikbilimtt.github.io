@@ -2,27 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Açık Bilim.Türkiye</title>
-		<description>|topluluk içerik platformu</description>
+		<description>topluluk içerik platformu</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Demonstration of DOCX support in calibre</title>
+				<title>Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title>
 				
-					<dc:creator>Emre Erçin</dc:creator>
+					<dc:creator>Kutlu Kağan Türkaslan</dc:creator>
 				
 				
-					<description>&lt;p&gt;This document demonstrates the ability of the calibre DOCX Input plugin
-to convert the various typographic features in a Microsoft Word (2007
-and newer) document. Convert this document to a modern ebook format,
-such as AZW3 for Kindles or EPUB for other ebook readers, to see it in
-action.&lt;/p&gt;
+					<description>&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi ile
+boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi
+gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam
+olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için
+çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans
+Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir
+değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı
+bulguların ışığında psikoterapinin nevrotik&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; rahatsızlıklar için
+etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir
+tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı
+olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir
+süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve
+onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak
+eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
 
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
 				
-				<pubDate>Wed, 12 Feb 2020 00:00:00 +0300</pubDate>
-				<link>/demo.html</link>
-				<guid isPermaLink="true">/demo.html</guid>
+				<pubDate>Thu, 20 Feb 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/original/replication/psikoterapi-etkililik-%C3%A7al%C4%B1%C5%9Fmalar%C4%B1.html</link>
+				<guid isPermaLink="true">http://localhost:4000/original/replication/psikoterapi-etkililik-%C3%A7al%C4%B1%C5%9Fmalar%C4%B1.html</guid>
 			</item>
 		
 	</channel>
