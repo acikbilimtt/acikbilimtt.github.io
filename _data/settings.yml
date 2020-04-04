@@ -1,21 +1,19 @@
-# # Change 'comments' to true for Disqus comments
-# disqus:
-#   comments: false
-#   disqus_shortname: 'https-lenpaul-github-io-lagrange'
-
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
 menu:
-- {name: 'Hakkında', path: 'menu', url: 'about.html'}
+- {name: 'Hakkımızda', path: 'menu', url: 'about.html'}
 - {name: 'Yazılar', path: 'menu', url: 'writing.html'}
+- {name: 'Yazarlar', path: 'menu', url: 'writer.html'}
 - {name: 'İletişim', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/acikbilimtt'}
-- {icon: 'twitter', link: 'twitter.com/acikbilim_tt'}
-- {icon: 'linkedin', link: 'instagram.com/acikbilim_tt'}
+- {icon: 'twitter', link: 'https://twitter.com/acikbilim_tt'}
+- {icon: 'instagram', link: 'https://instagram.com/acikbilim_tt'}
+- {icon: 'facebook', link: 'https://facebook.com/acikbilimtt'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/açık-bilim-topluluğu-türkiye-0a951019a'}
 - {icon: 'envelope', link: 'mailto:acikbilimtt@gmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
@@ -27,6 +25,6 @@ pagination:
 
 sharing_button_prompt: 'Paylaşmakta özgürsünüz!'
 
-related_posts: 'Bu yazılar da ilginizi çekebilir:'
+related_posts: <h3>Bu yazılar da ilginizi çekebilir:</h3>
 
-post_date_prefix: 'Yazıldığı tarih:'
+post_date_prefix: 'Yayınlandığı tarih:'

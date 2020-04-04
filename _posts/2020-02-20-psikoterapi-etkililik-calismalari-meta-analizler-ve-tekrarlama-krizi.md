@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi"
-author: "Kutlu Kağan Türkaslan"
-categories: [original, replication]
-tags: klinik psikoloji, psikoterapi, etkililik, meta-analiz, tekrarlama krizi 
-image: research.jpg
+authors: kutlu_kagan_turkaslan
+categories: [originals, replication]
+tags: [originals, replication]
+image: "kutlu1.jpg"
 ---
 
 Son on yıldır psikoloji bilimi genel bir tekrarlama krizi ile
@@ -58,7 +58,7 @@ farklılıkları, psikopatoloji ile ilgili değişkenleri ve kişilik
 Bir terapi yönteminin etkililiğini test etmek için bilimsel bir altın
 standart olarak kabul edilen "seçkisiz kontrollü çalışmalar",
 katılımcıların rastgele bir şekilde psikoterapi ya da kontrol müdahalesi
-alan gruplara atandığı deneysel çalışmaları içerir {% cite chambless1998defining cuijpers2016provepers %}.
+alan gruplara atandığı deneysel çalışmaları içerir {% cite chambless1998defining cuijpers2016prove %}.
 Buna göre bir psikoterapi etkili ise psikoterapi grubundaki
 katılımcıların çalışmanın sonunda rahatsızlıklarıile
 ilgili aldıkları skorların, kontrol grubundaki katılımcıların
@@ -121,11 +121,11 @@ olduğu ibaresi yer almaktadır). Şimdi isterseniz APD tarafından ampirik
 olarak desteklenmiş kabul edilen çalışmaların tekrarlama krizi
 bağlamında değerlendirildiği başka bir çalışmanın sonuçlarına bakalım.
 
-Sakaluk ve arkadaşları (2019), APD'nin internet sitesinde ampirik olarak
+Sakaluk ve arkadaşları, APD'nin internet sitesinde ampirik olarak
 desteklendiği belirtilen 79 psikoterapi yöntemini yanlış raporlanma
 oranları, tahmini istatistiksel güçleri, tekrarlama indeksleri ve Bayes
 faktörleri (p değeri sonuçlarına alternatif bir değerlendirme yöntemi)
-açısından analiz ediyorlar. Sonuçlar çok şaşırtıcı olmayarak, ampirik
+açısından analiz ediyorlar {% cite sakaluk2019evaluating %}. Sonuçlar çok şaşırtıcı olmayarak, ampirik
 olarak desteklenmiş olduğu belirtilen tedavilerin 4 farklı değerlendirme
 değeri açısından, homojen olmayan bir dağılım gösterdiğini ortaya
 çıkarıyor. Çalışmaların ortalama istatistiksel güç değeri, tavsiye
@@ -166,7 +166,7 @@ karar verilecektir.
 Yıllar boyunca kuramsal olarak her şey yolunda gibi gözüküyordu. Ta ki
 bazı meta-analiz çalışmalarına ait bulguların, diğer başka meta-analiz
 çalışmalarının bulguları ile çeliştiğini fark ettiğimiz ana kadar
-(Hengartner, 2018). Çünkü bir meta-analiz çalışmasının sonucunu, analize
+{% cite hengartner2018raising %}. Çünkü bir meta-analiz çalışmasının sonucunu, analize
 hangi çalışmaların dahil edileceğine yönelik kriterler ve analizin nasıl
 yapılacağı belirlemektedir. Bu dahil etme kriterleri ve analizin şekli
 değiştikçe meta-analizin aynı konuda ortaya çıkaracağı sonuç da
@@ -176,7 +176,7 @@ dahil edilen çalışmalar, alanyazındaki çeşitli bilimsel dergilerin
 yayınladığı makalelerden uygun kriterleri sağlayanların seçilmesi ile
 belirlenir. "Yayın yanlılığı" bize alanyazında mevcut olan makalelerin,
 ağırlıklı olarak olumlu sonuçları içeren makalelerden oluştuğunu
-belirtmektedir (Flint ve ark., 2015). Yani bilimsel olduğunu
+belirtmektedir {% cite flint2015there %}. Yani bilimsel olduğunu
 düşündüğümüz dergiler, bir araştırmacının bulduğu olumsuz sonuçları
 yayınlamaktan ziyade, bir etkinin bulunduğu ve olumlu sonuçları olan
 çalışmaları yayınlamaya daha çok meyillidirler. Böyle olunca olumsuz
@@ -205,12 +205,11 @@ sonucu olumlu olan çalışmalar, alanyazında olması gerekenden çok daha
 fazla temsil ediliyor olabilirdi. Bu da meta-analizlerdeki etki
 büyüklüğünün olduğundan daha yüksek gözükmesine neden oluyordu. Aslında
 anti-depresan alanyazınında mevcut olan yayın yanlılığının, psikoterapi
-alanyazınına da sızmış olabileceği ortaya çıkmıştı (Flint ve ark., 2015;
-Turner, Matthews, Linardatos, Tell ve Rosenthal, 2008). Aynı yıl ise
-Driessen, Hollon, Bockting, Cuijpers ve Turner (2015) Amerika'da Milli
+alanyazınına da sızmış olabileceği ortaya çıkmıştı {% cite flint2015there turner2008selective %}. Aynı yıl ise
+Driessen, Hollon, Bockting, Cuijpers ve Turner Amerika'da Milli
 Sağlık Enstitüsü tarafından fonlanan ve psikoterapinin depresyondaki
 etkililiğini değerlendiren 55 çalışmanın, %23.6'sının yayına
-dönüşmediğini tespit ettiler. Bu yayınlanmayan çalışmaların meta-analize
+dönüşmediğini tespit ettiler {% cite driessen2015efficacy %}. Bu yayınlanmayan çalışmaların meta-analize
 dahil edilmesi durumunda bulunan etki büyüklüğünün g = .52'den g = .39'a
 düştüğünü buldular. Araştırmacılar bu düşük etkinin, raporlama yanlılığı
 kontrol edildiğinde daha da düşeceği noktasında okuyucuları
@@ -224,7 +223,7 @@ meta-analizlerdeki etki büyüklüğünü şişirirler {% cite coyne2014salvagin
 Cuijpers, Cristea, Karyotaki, Reijnders ve Huibers 2016 yılında yaptıkları bir meta-analiz
 çalışmasında bilişsel davranışçı terapinin majör depresyon, genel kaygı
 bozukluğu, panik bozukluk ve sosyal kaygı bozukluğu gibi
-rahatsızlıklarda etkili olup olmadığını test ettiler {% cite cuijpers2016provepers %}. İlginç olmayan bir
+rahatsızlıklarda etkili olup olmadığını test ettiler {% cite cuijpers2016prove %}. İlginç olmayan bir
 bulgu, kaygı bozukluğu üzerine yapılan çalışmaların %80'inde kontrol
 grubu olarak alternatif aktif bir tedavi alan kişilerin yerine bekleme
 listesindeki katılımcıların kullanılmış olmasıydı. Bu durum çalışmalarda
@@ -248,14 +247,14 @@ gösteriyor. Bu çalışmanın başka bir sonucu ise distimide ilaç tedavileri
 daha fazla etki gösterirken, obsesif kompulsif bozukluk için
 psikoterapilerin daha etkili olduğu.
 
-Cuijpers ve arkadaşlarının (2013) yaptığı bir çalışmanın bulguları ise
+Cuijpers ve arkadaşlarının yaptığı bir çalışmanın bulguları ise
 çok daha ilginç. Depresyon tedavisinde psikoterapinin placebo haplara
 kıyasla gösterdiği etki büyüklüğü sadece g = .25 kadar. Eğer placebo hap
 yerine psikoterapi alırsanız, Hamilton Depresyon Derecelendirme
 Ölçeğinden ortalama 2.66 puan[^6] daha düşük skor alıyorsunuz {% cite cuijpers2013efficacy %}.
 Anti-depresan tedavisinin depresyon üzerindeki etki gücü ise .30 olarak
-bulunmuş (Khan ve Brown, 2015) {% cite khan2015antidepressants %} . Ancak bu sonuçları yorumlarken dikkat
-edilmesi gereken bir nokta var. Sugarman (2016) anti-depresan etkililik
+bulunmuş {% cite khan2015antidepressants %} . Ancak bu sonuçları yorumlarken dikkat
+edilmesi gereken bir nokta var. Sugarman anti-depresan etkililik
 çalışmalarına katılan kişilerin, gerçek hayatta anti-depresan ilaç
 kullanan kişilere kıyasla çok daha fazla klinik bakıma maruz kalmaları
 ile ilgili bir uyarıda bulunuyor {% cite sugarman2016antidepressants %}. Yani depresyon için anti-depresan
@@ -264,7 +263,7 @@ olmayabilir. Buna ek olarak anti-depresanların depresyon tedavisinde
 placebodan daha etkili olmayabileceğine dair pek çok çalışma ve tartışma
 mevcut {% cite kirsch1999listening kirsch2008initial munder2013researcher rutherford2013model turner2008efficacy %}.
 
-Başka bir Cuijpers ve arkadaşları (2014) çalışmasının bulgusuna göre ise
+Başka bir Cuijpers ve arkadaşları çalışmasının bulgusuna göre ise
 majör depresyon için psikoterapi alan kişilerin %62'si tedavi sonrasında
 artık majör depresyon tanı kriterlerini sağlamazken, psikoterapi yerine
 olağan bakım alan kişiler için bu oran %48 {% cite cuijpers2014comparison %}. Yani psikoterapinin
@@ -278,9 +277,9 @@ yöntemlerinin sonuçları açısından ciddi bir kafa karışıklığı yaratı
 olduğu.
 
 Peki kişilik bozuklukları için nasıl bir durum var? Cristea ve
-arkadaşları (2017), sınır kişilik bozukluğu için diyalektik davranış
+arkadaşları, sınır kişilik bozukluğu için diyalektik davranış
 terapisi ve psikodinamik yaklaşımlı psikoterapilerin etkililik
-çalışmalarını bir meta-analize sokuyorlar. Sonuç olarak semptomlar
+çalışmalarını bir meta-analize sokuyorlar {% cite cristea2017efficacy %}. Sonuç olarak semptomlar
 kendine zarar verme ve intihar değişkenleri beraber ele alındığında,
 psikoterapilerin sınır durum kişilik bozukluğunun tedavisinde g = .32
 civarında, yani düşük ve ortalama arası bir etki büyüklüğüne sahip
@@ -376,10 +375,6 @@ tartışmalı araştırma pratikleri içermeyen daha pek çok etkililik
 gerekliliğin klinik psikolojinin, tekrarlama krizinden çıkarması gereken
 en büyük ders olduğunu söylemek de yanlış olmayacaktır.
 
-#### Kaynaklar
-
-{% bibliography --cited %}
-
 #### Dipnotlar
 
 [^1]: Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif
@@ -394,7 +389,7 @@ en büyük ders olduğunu söylemek de yanlış olmayacaktır.
     varmış gibi göstermesi.
 
 [^4]: Etki büyüklüğü açısından: düşük etki .20, ortalama etki .50, güçlü
-    etki .80 (Lakens, 2013).
+    etki .80 {% cite lakens2013calculating %}.
 
 [^5]: Nocebo etkisi: Placebo etkisinin tersine beklentini olumsuz sonuç
     doğurması

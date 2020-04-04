@@ -10,30 +10,39 @@ layout: default
   <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
 {% endif %}
 
-{{ content }}
-
 <span class="post-date">
   {{ site.data.settings.post_date_prefix }}
-  <!-- {% assign d = page.date | date: "%-d"  %} -->
   {{ page.date | date: "%d/%m/%Y" }}
-  <!-- {% case d %}
-    {% when '1' or '21' or '31' %}{{ d }}st
-    {% when '2' or '22' %}{{ d }}nd
-    {% when '3' or '23' %}{{ d }}rd
-    {% else %}{{ d }}th{% endcase %}, -->
-  <!-- {{ page.date | date: "%Y" }} -->
+</span>
+<span class="author">
   Yazar:
-  {% if page.author %}
-    {{ page.author }}
+  <!-- {% assign authorCount = page.authors | size %}
+  {{ authors }}
+  {% if authorCount == 0 %}
+      <a href="{{ site.url }}">Açık Bilim Topluluğu Türkiye</a>
+  {% elsif authorCount == 1 %}
+      <a href="{{ author.url }}">{{ author.name }}</a>
   {% else %}
-    {{ site.author }}
-  {% endif %}
+      {% for person in page.authors %}
+          {% if forloop.first %}
+            <a href="{{ author.url }}">{{ site.authors.name | where: 'code_name', person }}</a>
+          {% elsif forloop.last %}
+            {% assign author = site.authors | where: 'code_name', person %}
+              ve <a href="{{ author.url }}">{{ author.name }}</a>
+              {{ person }}
+          {% else %}
+            {% assign author = site.authors | where: 'code_name', person %}
+              , <a href="{{ author.url }}">{{ author.name }}</a>
+              {{ person }}
+          {% endif %}
+      {% endfor %}
+  {% endif %} -->
+  {{ site.authors }}
 </span>
 
+{{ content }}
+
+{% bibliography --cited %}
+
 {% include social-sharing.html %}
-
 {% include related-posts.html %}
-
-{% if site.data.settings.disqus.comments %}
-  {% include disqus.html %}
-{% endif %}

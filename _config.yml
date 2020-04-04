@@ -11,18 +11,19 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            7
+paginate:            10
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-scholar, jekyll-sitemap]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Açık Bilim.Türkiye'
-description:	       'topluluk içerik platformu'
-author:              'Açık Bilim Topluluğu Türkiye'
+description:	       'Açık Bilim Topluluğu Türkiye'
+url:                 'acikbilimtt.github.io'
+# author:              ''
 
 # Jekyll scholar configuration
 scholar:
@@ -35,3 +36,7 @@ scholar:
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+collections:
+  authors:
+    output: true

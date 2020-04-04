@@ -2,14 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Açık Bilim.Türkiye</title>
-		<description>topluluk içerik platformu</description>
+		<description>Açık Bilim Topluluğu Türkiye</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title>
+				<title>Tekrarlanamayan Çalışmalar</title>
 				
-					<dc:creator>Kutlu Kağan Türkaslan</dc:creator>
+				
+					<description>&lt;p&gt;Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
+krizi (replication crisis), 2011 yılında  başlamıştır. Krizin
+oluşumunda, bilimsel çalışmaların basılma ve yayımlanma sistemi, bilim
+alanındaki kariyer basamakları ve tekrar çalışmalarına karşı süregelen
+genel bakış açısı gibi birçok etken vardır fakat bu yazı dizisinde
+odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan
+çalışmalar olacak. &lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 08 Mar 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/originals/replication/tekrarlanamayan-calismalar.html</link>
+				<guid isPermaLink="true">http://localhost:4000/originals/replication/tekrarlanamayan-calismalar.html</guid>
+			</item>
+		
+			<item>
+				<title>Ön Kayıt ve Doğrulayıcı Çalışmalar</title>
+				
+				
+					<description>&lt;p&gt;Ön kayıt, yapılan keşif (exploratory) çalışmalarını ve doğrulayıcı
+(confirmatory) çalışmaları birbirinden ayırt ederek daha şeffaf ve
+güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt
+sistemidir &lt;a class=&quot;citation&quot; href=&quot;#cos2020&quot;&gt;(for Open Science, 2020; Lindsay vd., 2016)&lt;/a&gt;. Son yıllarda psikoloji alanında ortaya çıkan kriz,
+alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini
+göstermiştir (&lt;a class=&quot;citation&quot; href=&quot;#open2015estimating&quot;&gt;(Collaboration &amp;amp; others, 2015)&lt;/a&gt;; ayrıca
+&lt;a href=&quot;acikbilimtt.github.io&quot;&gt;tekrar edilemeyen 10 psikoloji çalışması&lt;/a&gt; ve &lt;a href=&quot;acikbilimtt.github.io&quot;&gt;burada olan şey rüzgârın yön değiştirmesi&lt;/a&gt;). Bu
+durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan
+çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle
+yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan
+geleneksel istatistiki yöntemler (yokluk hipotezi anlamlılık testi/null
+hypothesis significance testing), keşif çalışmalarında değil doğrulayıcı
+çalışmalarda daha güçlü ve doğru sonuçlar vermektedir &lt;a class=&quot;citation&quot; href=&quot;#nosek2018preregistration&quot;&gt;(Nosek vd., 2018)&lt;/a&gt;. Bu sebeple yayımlanan bilimsel araştırmaların
+keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok
+büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı
+keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 08 Mar 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/originals/preregistration/on-kay%C4%B1t-ve-dogrulayici-calismalar.html</link>
+				<guid isPermaLink="true">http://localhost:4000/originals/preregistration/on-kay%C4%B1t-ve-dogrulayici-calismalar.html</guid>
+			</item>
+		
+			<item>
+				<title>Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]</title>
+				
+				
+					<description>&lt;hr /&gt;
+
+</description>
+				
+				<pubDate>Sun, 08 Mar 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/translation/replication/burada-olan-sey-ruzgarin-yon-degistirmesi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/translation/replication/burada-olan-sey-ruzgarin-yon-degistirmesi.html</guid>
+			</item>
+		
+			<item>
+				<title>Açık Bilim Nedir, Açık Erişimden Farkı Nedir?</title>
+				
+				
+					<description>&lt;p&gt;Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale
+getirilmesini; bu sayede tekrarlanabilir ve yeniden üretilebilir
+bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır.
+Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi
+anlaşılmasına katkı sağlayacaktır.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 04 Mar 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/originals/introductory/acik-bilim-nedir-acik-erisimden-fark%C4%B1-nedir.html</link>
+				<guid isPermaLink="true">http://localhost:4000/originals/introductory/acik-bilim-nedir-acik-erisimden-fark%C4%B1-nedir.html</guid>
+			</item>
+		
+			<item>
+				<title>Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title>
 				
 				
 					<description>&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi ile
@@ -37,8 +112,8 @@ eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 20 Feb 2020 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/original/replication/psikoterapi-etkililik-%C3%A7al%C4%B1%C5%9Fmalar%C4%B1.html</link>
-				<guid isPermaLink="true">http://localhost:4000/original/replication/psikoterapi-etkililik-%C3%A7al%C4%B1%C5%9Fmalar%C4%B1.html</guid>
+				<link>http://localhost:4000/originals/replication/psikoterapi-etkililik-calismalari-meta-analizler-ve-tekrarlama-krizi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/originals/replication/psikoterapi-etkililik-calismalari-meta-analizler-ve-tekrarlama-krizi.html</guid>
 			</item>
 		
 	</channel>
