@@ -7,7 +7,44 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title>
+				
+					<dc:creator>Kutlu Kağan Türkaslan</dc:creator>
+				
+				
+					<description>&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi ile
+boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi
+gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam
+olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için
+çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans
+Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir
+değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı
+bulguların ışığında psikoterapinin nevrotik&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; rahatsızlıklar için
+etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir
+tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı
+olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir
+süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve
+onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak
+eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+				
+				<pubDate>Thu, 16 Apr 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/originals/replication/kutlu1.html</link>
+				<guid isPermaLink="true">http://localhost:4000/originals/replication/kutlu1.html</guid>
+			</item>
+		
+			<item>
 				<title>Tekrarlanamayan Çalışmalar</title>
+				
+					<dc:creator>Defne Alkan, Hazal Arpacı ve Emine Bilgen</dc:creator>
 				
 				
 					<description>&lt;p&gt;Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
@@ -28,9 +65,21 @@ odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan
 			<item>
 				<title>Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]</title>
 				
+					<dc:creator>Cavit Deniz Pala</dc:creator>
 				
-					<description>&lt;hr /&gt;
+				
+					<description>&lt;p&gt;Bu yazı Andrew Gelman’ın kişisel bloğunda yayımladığı “What has
+happened down here is the winds have changed&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;” başlıklı yazının
+çevirisidir. Yazının orijinaline şu bağlantıdan ulaşabilirsiniz:
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/%20&quot;&gt;https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/&lt;/a&gt;&lt;/p&gt;
 
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Yazının başlıkları Randy Newman’ın Louisiana 1927 şarkısının &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
 				
 				<pubDate>Sun, 08 Mar 2020 00:00:00 +0300</pubDate>
@@ -40,6 +89,8 @@ odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan
 		
 			<item>
 				<title>Açık Bilim Nedir, Açık Erişimden Farkı Nedir?</title>
+				
+					<dc:creator>Esra Ataman ve Ozan Can Çağlar</dc:creator>
 				
 				
 					<description>&lt;p&gt;Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale

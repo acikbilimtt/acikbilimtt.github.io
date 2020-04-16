@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]"
-authors: cavit_deniz_pala
+author: "Cavit Deniz Pala"
 categories: [translation, replication]
 tags: [çeviri, tekrarlama-krizi]
 image: "deniz1.jpg"
----
-
 ---
 
 Bu yazı Andrew Gelman'ın kişisel bloğunda yayımladığı "What has

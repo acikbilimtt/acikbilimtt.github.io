@@ -16,32 +16,10 @@ layout: default
 </span>
 <span class="author">
   Yazar:
-  <!-- {% assign authorCount = page.authors | size %}
-  {{ authors }}
-  {% if authorCount == 0 %}
-      <a href="{{ site.url }}">Açık Bilim Topluluğu Türkiye</a>
-  {% elsif authorCount == 1 %}
-      <a href="{{ author.url }}">{{ author.name }}</a>
-  {% else %}
-      {% for person in page.authors %}
-          {% if forloop.first %}
-            <a href="{{ author.url }}">{{ site.authors.name | where: 'code_name', person }}</a>
-          {% elsif forloop.last %}
-            {% assign author = site.authors | where: 'code_name', person %}
-              ve <a href="{{ author.url }}">{{ author.name }}</a>
-              {{ person }}
-          {% else %}
-            {% assign author = site.authors | where: 'code_name', person %}
-              , <a href="{{ author.url }}">{{ author.name }}</a>
-              {{ person }}
-          {% endif %}
-      {% endfor %}
-  {% endif %} -->
-  {{ site.authors }}
+  {{ page.author }}
 </span>
 
 {{ content }}
-
 
 {% include social-sharing.html %}
 {% include related-posts.html %}

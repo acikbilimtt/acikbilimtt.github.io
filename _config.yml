@@ -25,18 +25,7 @@ description:	       'Açık Bilim Topluluğu Türkiye'
 url:                 'acikbilimtt.github.io'
 # author:              ''
 
-# # Jekyll scholar configuration
-# scholar:
-#   style: apa
-#   locale: tr
-#   source: ./_bibliography
-#   bibliography: references.bib
-
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
-
-collections:
-  authors:
-    output: true

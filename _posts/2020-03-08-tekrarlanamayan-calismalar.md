@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "Tekrarlanamayan Çalışmalar"
-authors:
-  - defne_alkan
-  - hazal_arpaci
-  - emine_bilgen
+author: "Defne Alkan, Hazal Arpacı ve Emine Bilgen"
 categories: [originals, replication]
 tags: [originals, replication]
 image:
@@ -26,7 +23,7 @@ bu çalışmaları yapmaya yönelmiyor, yapsa da çalışmaları basılmıyordu.
 Bu yazı serisinde, tekrarlanamayan çalışmaların birtakım örneklerini
 derlemeye karar verdik. Keyifli okumalar.
 
-**Sosyal Hazırlama**
+## Sosyal Hazırlama
 
 İlk örneğimiz, sosyal psikolojide sıklıkla kullanılan hazırlama
 (priming), ve değişimleme (manipulation) kavramları ile ilgili.
@@ -56,7 +53,7 @@ belirtmediğini ortaya koymuştur. Ayrıca bu çalışmada sosyal hazırlama
 değişimlemesinde çıkan farkın değişimlemeden değil, deneycinin çift
 körlemeye maruz kalıp kalmamasından kaynaklandığı görülmüştür.
 
-**Kalıpyargı Tehdidi**
+## Kalıpyargı Tehdidi
 
 Dezavantajlı gruplara, iç gruplarıyla ilgili olumsuz kalıpyargıları
 hatırlatıldığında grupların test performanslarında düşüşler yaşanması
@@ -80,7 +77,7 @@ ortamda kalıpyargı tehdidinin olup olmadığını test etmiştir. Bu
 çalışmanın bulguları, gerçek ortamda bu etkinin ihmal edilebilecek kadar
 küçük olduğunu göstermiştir.
 
-**Dehşet Yönetim Kuramı**
+## Dehşet Yönetim Kuramı
 
 [Dehşet yönetim
 kuramı](https://link.springer.com/chapter/10.1007/978-1-4613-9564-5_10),
@@ -104,7 +101,7 @@ araştırmanın diğer tekrarlama araştırmalarından önemli bir farkı
 orijinal yazarların da tekrar çalışmasına dâhil edilmiş olmasıdır ve
 kendilerinin dahil olup olmaması sonucu değiştirmemiştir. 
 
-**Macbeth Etkisi**
+## Macbeth Etkisi
 
 Birçok araştırma, ahlaki olarak kendimizi suçlu hissettiğimizde,
 kendimizi fiziksel olarak temizleme ihtiyacı içinde olduğumuzu
@@ -137,7 +134,7 @@ yazarlarından Simone Schnall, [blog
 yazısı](http://www.spsp.org/news-center/blog/simone-schnall-on-her-experience-with-a-registered-replication-project)yla
 bu doğrudan tekrarlama yazısına cevap vermiştir.
 
-**Gözlemci etkisi**
+## Gözlemci etkisi
 
 [Gözlemci etkisi](https://doi.org/10.1037/h0025589),
 kalabalığın artmasıyla, insanların daha az oranda yardım alacağını ileri
@@ -160,7 +157,7 @@ göstermiştir. Klasik gözlemci etkisi araştırmalarının bulgularının
 aksine, bu çalışmada daha fazla gözlemcinin olduğu durumlarda, kişinin
 yardım alma olasılığı daha yüksek olduğu bulunmuştur.
 
-**Benlik Tükenmesi**
+## Benlik Tükenmesi
 
 Baumeister ve ekibinin ilk olarak gösterdiği
 [çalışma](https://doi.org/10.1037//0022-3514.74.5.1252)da
@@ -184,7 +181,7 @@ bulunmuştur. Bununla birlikte, güven aralığı 0'ı barındırmaktadır.
 Baumeister ve Vohs'un bu konuya yazıyla verdiği [bir cevap
 mevcuttur.](https://journals.sagepub.com/doi/10.1177/1745691616652878)
 
-**Kırmızı ve Çekicilik**
+## Kırmızı ve Çekicilik
 
 Kırmızı giyinmenin çekiciliği arttırdığı varsayımı, popüler kültürde ve
 çeşitli reklamlarda sıklıkla yer alır. Yapılan birtakım araştırmada,
@@ -205,7 +202,7 @@ deneyin, doğrudan tekrarlamasını 830 erkekle yaptıkları
 böyle bir etkiye rastlamamış, etkiyi tekrarlamakta başarısız
 olmuşlardır.
 
-**Gülümsemek Mutlu Eder**
+## Gülümsemek Mutlu Eder
 
 Kişisel gelişimle ilgili birçok kitapta ve seminerde bulabileceğiniz bir
 öneri: "Gülümseyin, bu sizi mutlu edecektir!". Peki gerçekten öyle mi?
@@ -222,7 +219,7 @@ sonucuna varılır.
 tekrarlama](https://doi.org/10.1177/1745691616674458)sını
 yapmayı amaçlamıştır, fakat etkiyi tekrarlayamamışlardır.
 
-**Marshmallow Etkisi**
+## Marshmallow Etkisi
 
 Shoda, Mischel ve Peake tarafından (1990) yapılan ve marshmallow
 [çalışması](https://doi.org/10.1037/0012-1649.26.6.978)
@@ -245,7 +242,7 @@ ikinci marshmallowu beklemesini ve ilerideki başarılarını etkileyen, çok
 çocuklar, kendilerini tutup ikinci marshmallowu bekleseler bile,
 akademik anlamda diğer çocuklar kadar başarılı olamamışlardır.
 
-**Bebeklerin Taklit Etme Gücü**
+## Bebeklerin Taklit Etme Gücü
 
 Bebeklerın taklit etme yeteneği olduğuna dair varsayım, 1997 yılında
 12-21 günlük bebekler üzerinde yapılmış [bir

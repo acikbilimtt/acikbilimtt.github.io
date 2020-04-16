@@ -18,7 +18,7 @@
 */
 
 body {
-  font-family: "ReadinessRegular";
+  font-family: "MerriweatherRegular";
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
@@ -44,7 +44,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "MontserratRegular", sans-serif;
+  font-family: "ReadinessRegular", sans-serif;
   color: #333;
 }
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Açık Bilim Nedir, Açık Erişimden Farkı Nedir?"
-authors:
-  - esra_ataman
-  - ozan_caglar
+author: "Esra Ataman ve Ozan Can Çağlar"
 categories: [originals, introductory]
 tags: [originals, introductory]
 image: "esraozan1.jpg"
