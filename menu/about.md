@@ -3,9 +3,9 @@ layout: page
 title: Hakkımızda
 ---
 
-Açık Bilim Topluluğu Türkiye, açık bilim konusunda Türkçe içerik ve eğitim çalışmaları yapmayı amaçlayan bir topluluktur. 2019 yılında Orta Doğu Teknik Üniversitesi akademisyenleri ve öğrencilerinin ortak çalışması ile kurulmuştur. acikbilimtt.github.io özellikle psikoloji bilimi alanında açık bilim, güncel çalışmalar, replikasyon krizi ve  bilim üretim teknikleri ve araçları üzerine özgün yazılar ve güncel tartışmalar üzerine çeviri yazılar yayınlamaktadır. Yine öğrenci ve akademisyenlerin katılımı ile konu üzerinde açık bir tartışma alanı olmayı planlamaktadır.
+Açık Bilim Topluluğu Türkiye, açık bilim konusunda Türkçe içerik ve eğitim çalışmaları yapmayı amaçlayan bir topluluktur. 2019 yılında Orta Doğu Teknik Üniversitesi akademisyenleri ve öğrencilerinin ortak çalışması ile kurulmuştur. acikbilimtt.github.io özellikle psikoloji alanında açık bilim, replikasyon krizi, bilimsel araştırma teknikleri ve araçları üzerine özgün yazılar; güncel tartışmalar ile ilgili çeviri yazılar yayımlamaktadır. Öğrenci ve akademisyenlerin katılımı ile açık bir tartışma alanı olmayı hedeflemektedir.
 
-Topluluk, Türkiye'de açık bilim bakış açısını zenginleştirmek ve yaymak adına akademik buluşmalar ve gönüllü öğrenciler ve öğrenci toplulukları ile bilim üretimi teknikleri ve araçları üzerine atölyeler düzenlemeyi planlamaktadır.
+Topluluk, Türkiye'de açık bilim bakış açısını zenginleştirmek ve yaymak adına akademik buluşmalar ve gönüllü katılımcılar ile atölyeler ve akademik buluşmalar düzenlemeyi planlamaktadır.
 
 
 __*Açık Bilim Topluluğu Türkiye*__

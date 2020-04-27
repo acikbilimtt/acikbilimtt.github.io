@@ -1,0 +1,16 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 615px;
+}
+
+/*48em*/
+
+@media (max-width: 768px) {
+  .container {
+    width: 90vw;
+  }
+  #background-logo{
+    display:none!important;
+  }
+}
