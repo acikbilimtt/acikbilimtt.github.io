@@ -1,5 +1,5 @@
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-165029877-1'
 
 menu:
 - {name: 'Hakkımızda', path: 'menu', url: 'about.html'}
