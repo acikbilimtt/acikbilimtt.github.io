@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/ön-kayıt-preregistration-ve-doğrulayıcı-confirmatory-çalışmalar.md
