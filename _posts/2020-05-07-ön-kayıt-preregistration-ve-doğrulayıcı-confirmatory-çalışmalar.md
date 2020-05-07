@@ -7,8 +7,7 @@ tags: []
 image: "/assets/img/ozge1.jpg"
 
 ---
-# **Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm:  
-Ön Kayıt (Preregistration) ve Doğrulayıcı (Confirmatory) Çalışmalar** 
+### Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm: Ön Kayıt (Preregistration) ve Doğrulayıcı (Confirmatory) Çalışmalar
 
 Ön kayıt, yapılan keşif (exploratory) çalışmalarını ve doğrulayıcı (confirmatory) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, & Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: tekrar edilemeyen 10 psikoloji çalışması ve rüzgârın yön değiştirmesi). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (yokluk hipotezi anlamlılık testi/null hypothesis significance testing), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, & Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.
 
@@ -52,9 +51,7 @@ Yukarıdaki paragrafta belirtildiği gibi pek çok araştırmacı temel istatist
 
 Yukarıda sıralanan bilgiler, ön kayıt sistemine kaydedilip veriler belirlenen işleme uygun bir şekilde toplanıp analiz edildiğinde ve veriler diğer araştırmacılarla paylaşıldığında, elde edilen sonuçların yeniden üretilebilirliği artacaktır. Ön kayıt işlemi sayesinde araştırmacılar sonuçları gördükten sonra hipotez üretme (HARKing) ve _p_ değerini hackleme gibi işlemleri yapamazlar. Ek olarak araştırmacılar yapacakları çoklu keşif analizlerinde alfa değerinde düzeltmeye gitmek ve bu analizlerin sonraki (post-hoc) analiz olduğunu belirtmek durumunda kalırlar. Sonuç olarak ön kayıt işlemi genel olarak bilimsel araştırmaların güvenilirliğini ve şeffaflığını artırmakta ve bulguların yeniden üretilebilirliğine önemli ölçüde katkı sağlamaktadır. Açık Bilim Topluluğu Türkiye olarak şeffaf ve güvenilir çalışma yapmak isteyen tüm araştırmacıları ön kayıt yapmaya davet ediyoruz.
 
-Özge Bozkurt
-
-Kaynaklar
+#### Kaynaklar
 
 Center for Open Science (2020). Retrieved from [https://cos.io/prereg](https://cos.io/prereg "https://cos.io/prereg")
 
