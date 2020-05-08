@@ -2,8 +2,12 @@
 layout: post
 title: Psikoloji Neden Tekrarlama Krizi İçinde?
 author: Emine Bilgen
-categories: []
-tags: []
+categories:
+- replication
+- originals
+tags:
+- tekrarlama krizi
+- açık bilim
 image: ''
 
 ---
