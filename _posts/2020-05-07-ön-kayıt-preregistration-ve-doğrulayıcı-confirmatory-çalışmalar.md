@@ -2,14 +2,20 @@
 layout: post
 title: Ön Kayıt (Preregistration) ve Doğrulayıcı (Confirmatory) Çalışmalar
 author: Özge Bozkurt
-categories: []
-tags: []
+categories:
+- originals
+- preregistration
+tags:
+- ön kayıt
+- preregistration
+- açık bilim
+- open science
 image: "/assets/img/ozge1.jpg"
 
 ---
-### Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm: Ön Kayıt (Preregistration) ve Doğrulayıcı (Confirmatory) Çalışmalar
+### Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm: Ön Kayıt (_Preregistration_) ve Doğrulayıcı (_Confirmatory_) Çalışmalar
 
-Ön kayıt (İng. _preregistration_), yapılan keşif (İng. _exploratory_) çalışmalarını ve doğrulayıcı (İng. _confirmatory_) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, & Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: tekrar edilemeyen 10 psikoloji çalışması ve rüzgârın yön değiştirmesi). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (yokluk hipotezi anlamlılık testi/null hypothesis significance testing), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, & Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.
+Ön kayıt (_preregistration_), yapılan keşif (_exploratory_) çalışmalarını ve doğrulayıcı (_confirmatory_) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, & Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: tekrar edilemeyen 10 psikoloji çalışması ve rüzgârın yön değiştirmesi). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (yokluk hipotezi anlamlılık testi/null hypothesis significance testing), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, & Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.
 
 Eğer bir araştırmacı, _Yokluk Hipotezi Anlamlılık Testi (YHAT)_ gibi yöntemlerle verisini analiz edecekse veriyi toplamadan önce belirli bir hipotez ve analiz yöntemi belirlemeli, daha sonra bunlara riayet ederek veri toplamalı ve önceden belirlenen şekilde veriyi analiz etmelidir. YHAT yöntemi ancak bu şekilde istatiksel olarak güvenilir ve güçlü sonuçlar verebilir (Wagenmakers, Wetzels, Borsboom, van der Maas, & Kievit, 2012). Bu şekilde yapılan araştırmalara _doğrulayıcı araştırmalar_ denir. Önceden belirlenmiş analizler dışında yapılan tüm analizler _sonraki analiz (post-hoc)_ olarak rapor edilmeli ve gerektiğinde alfa değerlerinde düzeltmeye (örn: Bonferroni Düzeltmesi) gidilmelidir (Maxwell & Delaney, 2004). Bu işlemler yapılmadığında Tip I hata (gerçek bir etki olmadığı halde etki varmış gibi bir sonuca ulaşmak), oranları astronomik olarak artmakta ve yapılan çalışmaların tekrar edilebilirliği yüksek oranda düşmektedir.
 
