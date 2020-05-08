@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/psikoloji-neden-tekrarlama-krizi-i̇çinde.md
