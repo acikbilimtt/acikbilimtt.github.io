@@ -11,19 +11,7 @@ tags:
 image: ''
 
 ---
-layout: post
-
-title: " Psikoloji Neden Tekrarlama Krizi İçinde?"
-
-author: "Emine Bilgen"
-
-tags: açık bilim, tekrarlama krizi
-
-categories: \[originals, replication\]
-
-image:
-
-Psikoloji Neden Tekrarlama Krizi İçinde?
+# Psikoloji Neden Tekrarlama Krizi İçinde?
 
 Tekrarlama krizinin _(replication crisis)_ sonuçlarıyla ilgili birçok yazıyı web sitemizde derledik. Sonuçları kadar bu krizin nedenlerine bakmak da önemli. Nitekim bu krize sebebiyet veren etmenleri anlamazsak açık bilim yolunda çok yol katedemeyiz. Birçok yazımızda krizin nedenlerine ufak ufak değinmiş olmamıza karşın, bunların hepsini bir yazıda görmek mevcut durumu daha iyi anlamamıza katkı sağlayacaktır.
 
