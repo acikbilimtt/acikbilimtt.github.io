@@ -9,8 +9,6 @@ tags:
 image: esraozan1.jpg
 ---
 
-<meta property="og:image" content="https://acikbilimtt.github.io/assets/img/esraozan1.jpg" />
-
 Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale getirilmesini; bu sayede tekrarlanabilir (_replicable_) ve yeniden üretilebilir (_reproducible_) bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır. Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi anlaşılmasına katkı sağlayacaktır.
 
 Şeffaflık (_transparency)_, bilimsel bir çalışmanın tüm aşamalarının (örn., varsayımların belirlenmesi, veri toplama aracının geliştirilmesi, verinin toplanması ve ham verinin ortaya çıkarılması vb.) ve bu aşamalarda alınan kararların detaylı bir şekilde anlatılmasını, kullanılan materyal ve ham verilerin okuyucuyla doğrudan paylaşılmasını kapsamaktadır. Bilimsel pratiği daha özenli hale getirmede kullanılabilecek temel yollar aşağıdaki şekilde sıralanabilir:
