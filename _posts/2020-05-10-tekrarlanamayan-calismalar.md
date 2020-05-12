@@ -2,7 +2,7 @@
 layout: post
 title: "Tekrarlanamayan Çalışmalar"
 author: "Defne Alkan, Hazal Arpacı ve Emine Bilgen"
-categories: [originals, replication]
+categories:
 tags: [originals, replication]
 image:
 ---
