@@ -2,12 +2,6 @@
 layout: default
 ---
 
-{% if page.image %}
-  <meta property="og:image" content="path/to/post/image.jpg">
-{% else %}
-  <meta property="og:image" content="path/to/page/image.jpg">
-{% endif %}
-
 <h1>
   {{ page.title | markdownify}}
 </h1>
@@ -29,3 +23,10 @@ layout: default
 
 {% include social-sharing.html %}
 {% include related-posts.html %}
+
+
+{% if page.image %}
+  <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image }}">
+{% else %}
+  <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image }}">
+{% endif %}
