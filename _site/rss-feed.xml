@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title>
+				
+					<dc:creator>Kutlu Kağan Türkaslan</dc:creator>
+				
+				
+					<description>&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (İng. &lt;em&gt;replication crisis&lt;/em&gt;) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 12 May 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/kutlu1.html</link>
+				<guid isPermaLink="true">http://localhost:4000/kutlu1.html</guid>
+			</item>
+		
+			<item>
 				<title>Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm: Ön Kayıt (_Preregistration_) ve Doğrulayıcı (_Confirmatory_) Çalışmalar</title>
 				
 					<dc:creator>Özge Bozkurt</dc:creator>
@@ -16,7 +31,7 @@
 
 </description>
 				
-				<pubDate>Tue, 12 May 2020 00:00:00 +0300</pubDate>
+				<pubDate>Mon, 11 May 2020 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/ozge1.html</link>
 				<guid isPermaLink="true">http://localhost:4000/ozge1.html</guid>
 			</item>
@@ -52,24 +67,9 @@ odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan
 
 </description>
 				
-				<pubDate>Thu, 07 May 2020 00:00:00 +0300</pubDate>
+				<pubDate>Sat, 09 May 2020 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/emine1.html</link>
 				<guid isPermaLink="true">http://localhost:4000/emine1.html</guid>
-			</item>
-		
-			<item>
-				<title>Açık Bilim Nedir, Açık Erişimden Farkı Nedir?</title>
-				
-					<dc:creator>Esra Ataman ve Ozan Can Çağlar</dc:creator>
-				
-				
-					<description>&lt;p&gt;Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale getirilmesini; bu sayede tekrarlanabilir (&lt;em&gt;replicable&lt;/em&gt;) ve yeniden üretilebilir (&lt;em&gt;reproducible&lt;/em&gt;) bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır. Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi anlaşılmasına katkı sağlayacaktır.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 12 Mar 2020 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/esraozan1.html</link>
-				<guid isPermaLink="true">http://localhost:4000/esraozan1.html</guid>
 			</item>
 		
 			<item>
@@ -92,24 +92,24 @@ happened down here is the winds have changed&lt;sup id=&quot;fnref:1&quot;&gt;&l
 &lt;/div&gt;
 </description>
 				
-				<pubDate>Thu, 05 Mar 2020 00:00:00 +0300</pubDate>
+				<pubDate>Fri, 08 May 2020 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/deniz1.html</link>
 				<guid isPermaLink="true">http://localhost:4000/deniz1.html</guid>
 			</item>
 		
 			<item>
-				<title>Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title>
+				<title>Açık Bilim Nedir, Açık Erişimden Farkı Nedir?</title>
 				
-					<dc:creator>Kutlu Kağan Türkaslan</dc:creator>
+					<dc:creator>Esra Ataman ve Ozan Can Çağlar</dc:creator>
 				
 				
-					<description>&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (İng. &lt;em&gt;replication crisis&lt;/em&gt;) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
+					<description>&lt;p&gt;Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale getirilmesini; bu sayede tekrarlanabilir (&lt;em&gt;replicable&lt;/em&gt;) ve yeniden üretilebilir (&lt;em&gt;reproducible&lt;/em&gt;) bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır. Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi anlaşılmasına katkı sağlayacaktır.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Tue, 25 Feb 2020 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/kutlu1.html</link>
-				<guid isPermaLink="true">http://localhost:4000/kutlu1.html</guid>
+				<pubDate>Thu, 07 May 2020 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/esraozan1.html</link>
+				<guid isPermaLink="true">http://localhost:4000/esraozan1.html</guid>
 			</item>
 		
 	</channel>
