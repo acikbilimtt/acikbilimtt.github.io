@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if page.image %}
+  <meta property="og:image" content="path/to/post/image.jpg">
+{% else %}
+  <meta property="og:image" content="path/to/page/image.jpg">
+{% endif %}
+
 <h1>
   {{ page.title | markdownify}}
 </h1>
