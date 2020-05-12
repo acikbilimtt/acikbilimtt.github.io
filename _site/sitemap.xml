@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/originals/introductory/esraozan1.html</loc>
-<lastmod>2020-03-04T00:00:00+03:00</lastmod>
+<loc>http://localhost:4000/originals/replication/kutlu1.html</loc>
+<lastmod>2020-02-25T00:00:00+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/translation/replication/deniz1.html</loc>
-<lastmod>2020-03-08T00:00:00+03:00</lastmod>
+<lastmod>2020-03-05T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/originals/introductory/esraozan1.html</loc>
+<lastmod>2020-03-12T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/replication/originals/emine1.html</loc>
+<lastmod>2020-05-07T00:00:00+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/originals/replication/defnehazalemine1.html</loc>
-<lastmod>2020-04-16T00:00:00+03:00</lastmod>
+<lastmod>2020-05-10T00:00:00+03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/originals/replication/kutlu1.html</loc>
-<lastmod>2020-04-16T00:00:00+03:00</lastmod>
+<loc>http://localhost:4000/originals/preregistration/ozge1.html</loc>
+<lastmod>2020-05-12T00:00:00+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/menu/about.html</loc>
@@ -27,5 +35,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/menu/writing.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/googlee31740df917d4b50.html</loc>
+<lastmod>2020-04-30T12:58:52+03:00</lastmod>
 </url>
 </urlset>

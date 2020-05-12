@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>
-  {{ page.title }}
+  {{ page.title | markdownify}}
 </h1>
 
 {% if page.image %}

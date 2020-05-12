@@ -6,7 +6,7 @@ title: Anasayfa
 {% for post in paginator.posts %}
 <div class="posts">
   <h1>
-    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title | markdownify }}</a>
   </h1>
   {% if post.image %}
   <div class="thumbnail-container">

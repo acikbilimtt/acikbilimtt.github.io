@@ -4,7 +4,7 @@ title: "Tekrarlanamayan Çalışmalar"
 author: "Defne Alkan, Hazal Arpacı ve Emine Bilgen"
 categories: [originals, replication]
 tags: [originals, replication]
-image: ""
+image:
 ---
 
 Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama

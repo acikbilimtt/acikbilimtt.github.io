@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-27T16:46:56+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Açık Bilim.Türkiye</title><subtitle>Açık Bilim Topluluğu Türkiye</subtitle><entry><title type="html">Tekrarlanamayan Çalışmalar</title><link href="http://localhost:4000/originals/replication/defnehazalemine1.html" rel="alternate" type="text/html" title="Tekrarlanamayan Çalışmalar" /><published>2020-04-16T00:00:00+03:00</published><updated>2020-04-16T00:00:00+03:00</updated><id>http://localhost:4000/originals/replication/defnehazalemine1</id><content type="html" xml:base="http://localhost:4000/originals/replication/defnehazalemine1.html">&lt;p&gt;Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-12T10:34:48+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Açık Bilim.Türkiye</title><subtitle>Açık Bilim Topluluğu Türkiye</subtitle><entry><title type="html">Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm: Ön Kayıt (_Preregistration_) ve Doğrulayıcı (_Confirmatory_) Çalışmalar</title><link href="http://localhost:4000/originals/preregistration/ozge1.html" rel="alternate" type="text/html" title="Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm: Ön Kayıt (_Preregistration_) ve Doğrulayıcı (_Confirmatory_) Çalışmalar" /><published>2020-05-12T00:00:00+03:00</published><updated>2020-05-12T00:00:00+03:00</updated><id>http://localhost:4000/originals/preregistration/ozge1</id><content type="html" xml:base="http://localhost:4000/originals/preregistration/ozge1.html">&lt;p&gt;Ön kayıt (&lt;em&gt;preregistration&lt;/em&gt;), yapılan keşif (&lt;em&gt;exploratory&lt;/em&gt;) çalışmalarını ve doğrulayıcı (&lt;em&gt;confirmatory&lt;/em&gt;) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, &amp;amp; Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: tekrar edilemeyen 10 psikoloji çalışması ve rüzgârın yön değiştirmesi). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (yokluk hipotezi anlamlılık testi/null hypothesis significance testing), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, &amp;amp; Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.&lt;/p&gt;
+
+&lt;p&gt;Eğer bir araştırmacı, &lt;em&gt;Yokluk Hipotezi Anlamlılık Testi (YHAT)&lt;/em&gt; gibi yöntemlerle verisini analiz edecekse veriyi toplamadan önce belirli bir hipotez ve analiz yöntemi belirlemeli, daha sonra bunlara riayet ederek veri toplamalı ve önceden belirlenen şekilde veriyi analiz etmelidir. YHAT yöntemi ancak bu şekilde istatiksel olarak güvenilir ve güçlü sonuçlar verebilir (Wagenmakers, Wetzels, Borsboom, van der Maas, &amp;amp; Kievit, 2012). Bu şekilde yapılan araştırmalara &lt;em&gt;doğrulayıcı araştırmalar&lt;/em&gt; denir. Önceden belirlenmiş analizler dışında yapılan tüm analizler &lt;em&gt;sonraki analiz (post-hoc)&lt;/em&gt; olarak rapor edilmeli ve gerektiğinde alfa değerlerinde düzeltmeye (örn: Bonferroni Düzeltmesi) gidilmelidir (Maxwell &amp;amp; Delaney, 2004). Bu işlemler yapılmadığında Tip I hata (gerçek bir etki olmadığı halde etki varmış gibi bir sonuca ulaşmak), oranları astronomik olarak artmakta ve yapılan çalışmaların tekrar edilebilirliği yüksek oranda düşmektedir.&lt;/p&gt;
+
+&lt;p&gt;Doğrulayıcı çalışmaların ilkelerine aykırı şekilde, kimi araştırmacılar önceden belirledikleri hipotezlerini destekleyen sonuçlar bulamadıklarında, alfa oranında düzeltmeye gitmeden veriyi çok defa test edip (bkz: çoklu test etme / &lt;em&gt;multiple testing&lt;/em&gt;), çıkan anlamlı sonuçlara bakarak yeni hipotezler üretmekte (bkz: &lt;em&gt;HARKing&lt;/em&gt;) ve elde edilen bulguları doğrulayıcı sonuçlar gibi sunmaktadır. Bir başka deyişle araştırmacı ilk önce veriye bakıp verinin önerdiği hipotezi üretmekte (Maxwell &amp;amp; Delaney, 2004) ardından bu hipotezi doğrulamak için yeniden veriye bakmaktadır. Bu işleme döngüsel akıl yürütme &lt;em&gt;(circular reasoning&lt;/em&gt;) denir (Nosek vd., 2018) ve mantıksal olarak hatalı bir işlemdir. Bunlara ek olarak kimi araştırmacılar ise istedikleri sonuçları bulamadıklarında, sonuçları değiştirebilecek kimi katılımcıların verisini ana veri kümesinden atarak istatistiksel güç yönünden yetersiz (&lt;em&gt;underpowered&lt;/em&gt;) çalışmalar yapmakta ve bu şekilde arzu ettikleri sonuçları elde etmektedirler. Bu uygulamanın bir başka türünde ise araştırmacılar istedikleri sonuçları elde edene kadar veri toplayıp analiz ederek yaptıkları çalışmaları manipüle etmektedirler (Lindsay, 2015; ayrıca bkz: &lt;em&gt;p&lt;/em&gt;-hacking). Ayrıca araştırmacıların uç değerleri veya katılımcıları eleme konusunda kesin kurallara sahip olmamaları ve bu konuda çok esnek uygulamalar yapmaları da çalışmaların tekrar edilebilirliğini önemli derecede düşürmektedir (bkz: researcher degrees of freedom).&lt;/p&gt;
+
+&lt;p&gt;Yukarıdaki paragrafta belirtildiği gibi pek çok araştırmacı temel istatistiki yöntemlerin gerekliliklerine aykırı şekilde bilerek veya bilmeyerek çeşitli uygulamalar yapmakta ve bu durum psikoloji biliminin güvenilirliği giderek düşürmektedir. Bu uygulamaların önüne geçmek ve psikolojinin güvenilirliğini artırmak için bir grup araştırmacı &lt;em&gt;Açık Bilim Sistemi&lt;/em&gt; (Open Science Framework) adı altında yeni bir sistem önermişlerdir (Nosek vd., 2018; Lindsay, Simons, &amp;amp; Lilienfeld, 2016). Bu sistem, araştırmacıların veri toplamaya başlamadan önce çalışma ile ilgili aşağıda sıralanan bilgileri &lt;a href=&quot;https://osf.io/prereg/&quot;&gt;ilgili web sitesine&lt;/a&gt; kaydetmesini ve çalışmaya başlamadan önce bu bilgilerin sonradan değiştirilemez şekilde dondurmasını gerektirmektedir.&lt;/p&gt;
+
+&lt;p&gt;● Çalışmanın basit bir şekilde tanımlanması&lt;/p&gt;
+
+&lt;p&gt;● Hipotezler&lt;/p&gt;
+
+&lt;p&gt;● Çalışmanın türü (deneysel, korelasyonel vs.) ve deseni&lt;/p&gt;
+
+&lt;p&gt;● Seçkisiz atamanın nasıl yapılacağı (örn: boş bir katılımcı kayıt listesi)&lt;/p&gt;
+
+&lt;p&gt;● Veri toplama yöntemi (katılımcılara nasıl bir işlem uygulanacak)&lt;/p&gt;
+
+&lt;p&gt;● Çalışmada kullanılacak bilgisayar programlarının kodları (örn: deney, analiz kodları vs.)&lt;/p&gt;
+
+&lt;p&gt;● Örneklemde bulunacak katılımcı sayısı ve bu sayısının nasıl belirlendiği&lt;/p&gt;
+
+&lt;p&gt;● Kaçıncı katılımcıda veri toplama işleminin durdurulacağı (stopping rule)&lt;/p&gt;
+
+&lt;p&gt;● Çalışmanın bağımlı ve bağımsız değişkenleri&lt;/p&gt;
+
+&lt;p&gt;● Çalışmada alınan ölçümler (örn: tepki süresi, doğru cevap oranı vs)&lt;/p&gt;
+
+&lt;p&gt;● Analizlerle ilgili ayrıntılar (ortalama mı yoksa medyan analizi mi yapılacak vs. gibi)&lt;/p&gt;
+
+&lt;p&gt;● Kullanılacak istatistiksel modeller (örn: varyans analizi, regresyon analizi vs.)&lt;/p&gt;
+
+&lt;p&gt;● &lt;em&gt;p&lt;/em&gt; değeri için kullanılacak anlamlılık değeri (örn: 0.05, 0.001 vs.)&lt;/p&gt;
+
+&lt;p&gt;● Veri dışlama kriterleri&lt;/p&gt;
+
+&lt;p&gt;● Eksik veri için nasıl bir yöntem izleneceği&lt;/p&gt;
+
+&lt;p&gt;● Eğer yapılacaksa ne tür keşif analizleri yapılacağı&lt;/p&gt;
+
+&lt;p&gt;Yukarıda sıralanan bilgiler, ön kayıt sistemine kaydedilip veriler belirlenen işleme uygun bir şekilde toplanıp analiz edildiğinde ve veriler diğer araştırmacılarla paylaşıldığında, elde edilen sonuçların yeniden üretilebilirliği artacaktır. Ön kayıt işlemi sayesinde araştırmacılar sonuçları gördükten sonra hipotez üretme (HARKing) ve &lt;em&gt;p&lt;/em&gt; değerini hackleme gibi işlemleri yapamazlar. Ek olarak araştırmacılar yapacakları çoklu keşif analizlerinde alfa değerinde düzeltmeye gitmek ve bu analizlerin sonraki (post-hoc) analiz olduğunu belirtmek durumunda kalırlar. Sonuç olarak ön kayıt işlemi genel olarak bilimsel araştırmaların güvenilirliğini ve şeffaflığını artırmakta ve bulguların yeniden üretilebilirliğine önemli ölçüde katkı sağlamaktadır. Açık Bilim Topluluğu Türkiye olarak şeffaf ve güvenilir çalışma yapmak isteyen tüm araştırmacıları ön kayıt yapmaya davet ediyoruz.&lt;/p&gt;
+
+&lt;h4 id=&quot;kaynaklar&quot;&gt;Kaynaklar&lt;/h4&gt;
+
+&lt;p&gt;Center for Open Science (2020). Retrieved from &lt;a href=&quot;https://cos.io/prereg&quot; title=&quot;https://cos.io/prereg&quot;&gt;https://cos.io/prereg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lindsay, D. S. (2015). Replication in Psychological Science. &lt;em&gt;Psychological Science&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(12), 1827–1832. doi: 10.1177/0956797615616374&lt;/p&gt;
+
+&lt;p&gt;Lindsay, D. S., Simons, D. J., &amp;amp; Lilienfeld, S. O. (2016). Research Preregistration 101. Retrieved February 11, 2020, from &lt;a href=&quot;https://www.psychologicalscience.org/observer/research-preregistration-101#.WNuVNhLyuLI&quot; title=&quot;https://www.psychologicalscience.org/observer/research-preregistration-101#.WNuVNhLyuLI&quot;&gt;https://www.psychologicalscience.org/observer/research-preregistration-101#.WNuVNhLyuLI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Maxwell, S. E., &amp;amp; Delaney, H. D. (2004). &lt;em&gt;Designing experiments and analyzing data: a model comparison perspective&lt;/em&gt; (No. BOOK). Lawrence Erlbaum Associates, Inc.&lt;/p&gt;
+
+&lt;p&gt;Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp;amp; Mellor, D. T. (2018). The preregistration revolution. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, &lt;em&gt;115&lt;/em&gt;(11), 2600-2606.&lt;/p&gt;
+
+&lt;p&gt;Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. &lt;em&gt;Science&lt;/em&gt;, &lt;em&gt;349&lt;/em&gt;(6251), 943-951.&lt;/p&gt;
+
+&lt;p&gt;Wagenmakers, E. J., Wetzels, R., Borsboom, D., van der Maas, H. L., &amp;amp; Kievit, R. A. (2012). An agenda for purely confirmatory research. &lt;em&gt;Perspectives on Psychological Science&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(6), 632-638.&lt;/p&gt;</content><author><name>Özge Bozkurt</name></author><category term="ön kayıt" /><category term="preregistration" /><category term="açık bilim" /><category term="open science" /><summary type="html">Ön kayıt (preregistration), yapılan keşif (exploratory) çalışmalarını ve doğrulayıcı (confirmatory) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, &amp;amp; Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: tekrar edilemeyen 10 psikoloji çalışması ve rüzgârın yön değiştirmesi). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (yokluk hipotezi anlamlılık testi/null hypothesis significance testing), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, &amp;amp; Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.</summary></entry><entry><title type="html">Tekrarlanamayan Çalışmalar</title><link href="http://localhost:4000/originals/replication/defnehazalemine1.html" rel="alternate" type="text/html" title="Tekrarlanamayan Çalışmalar" /><published>2020-05-10T00:00:00+03:00</published><updated>2020-05-10T00:00:00+03:00</updated><id>http://localhost:4000/originals/replication/defnehazalemine1</id><content type="html" xml:base="http://localhost:4000/originals/replication/defnehazalemine1.html">&lt;p&gt;Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
 krizi (replication crisis), 2011 yılında  başlamıştır. Krizin
 oluşumunda, bilimsel çalışmaların basılma ve yayımlanma sistemi, bilim
 alanındaki kariyer basamakları ve tekrar çalışmalarına karşı süregelen
@@ -248,20 +304,654 @@ geldiği düşünülmüştür. &lt;/p&gt;
 rastlanmamıştır. Bebeklerin, onlara tekrar edecekleri mimikleri
 sergilemeyen kontrol grubundaki yetişkinlere de, mimik sergileyen
 yetişkinlere verdikleri, benzer mimiklerden oluşan cevapları verdikleri
-gözlemlenmiştir.&lt;/p&gt;</content><author><name>Defne Alkan, Hazal Arpacı ve Emine Bilgen</name></author><category term="originals" /><category term="replication" /><summary type="html">Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama krizi (replication crisis), 2011 yılında  başlamıştır. Krizin oluşumunda, bilimsel çalışmaların basılma ve yayımlanma sistemi, bilim alanındaki kariyer basamakları ve tekrar çalışmalarına karşı süregelen genel bakış açısı gibi birçok etken vardır fakat bu yazı dizisinde odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan çalışmalar olacak. </summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/" /></entry><entry><title type="html">Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title><link href="http://localhost:4000/originals/replication/kutlu1.html" rel="alternate" type="text/html" title="Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi" /><published>2020-04-16T00:00:00+03:00</published><updated>2020-04-16T00:00:00+03:00</updated><id>http://localhost:4000/originals/replication/kutlu1</id><content type="html" xml:base="http://localhost:4000/originals/replication/kutlu1.html">&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi ile
-boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi
-gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam
-olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için
-çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans
-Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir
-değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı
-bulguların ışığında psikoterapinin nevrotik&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; rahatsızlıklar için
-etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir
-tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı
-olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir
-süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve
-onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak
-eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
+gözlemlenmiştir.&lt;/p&gt;</content><author><name>Defne Alkan, Hazal Arpacı ve Emine Bilgen</name></author><category term="originals" /><category term="replication" /><summary type="html">Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama krizi (replication crisis), 2011 yılında  başlamıştır. Krizin oluşumunda, bilimsel çalışmaların basılma ve yayımlanma sistemi, bilim alanındaki kariyer basamakları ve tekrar çalışmalarına karşı süregelen genel bakış açısı gibi birçok etken vardır fakat bu yazı dizisinde odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan çalışmalar olacak. </summary></entry><entry><title type="html">Psikoloji Neden Tekrarlama Krizi İçinde?</title><link href="http://localhost:4000/replication/originals/emine1.html" rel="alternate" type="text/html" title="Psikoloji Neden Tekrarlama Krizi İçinde?" /><published>2020-05-07T00:00:00+03:00</published><updated>2020-05-07T00:00:00+03:00</updated><id>http://localhost:4000/replication/originals/emine1</id><content type="html" xml:base="http://localhost:4000/replication/originals/emine1.html">&lt;p&gt;Tekrarlama krizinin &lt;em&gt;(replication crisis)&lt;/em&gt; sonuçlarıyla ilgili birçok yazıyı web sitemizde derledik. Sonuçları kadar bu krizin nedenlerine bakmak da önemli. Nitekim bu krize sebebiyet veren etmenleri anlamazsak açık bilim yolunda çok yol katedemeyiz. Birçok yazımızda krizin nedenlerine ufak ufak değinmiş olmamıza karşın, bunların hepsini bir yazıda görmek mevcut durumu daha iyi anlamamıza katkı sağlayacaktır.&lt;/p&gt;
+
+&lt;p&gt;Tekrarlama krizini kendi içerisinde neden-sonuç ilişkisi açısından inceleyebiliriz. Daha iyi açıklamak gerekirse araştırmacıların bir sabah kalkıp p-hacklemeye (&lt;em&gt;p-hacking&lt;/em&gt; &lt;a href=&quot;#_ftn1&quot;&gt;[1]&lt;/a&gt;) veya Sonuçlar Belli Olunca Hipotez Üretmeye (&lt;em&gt;HARKing&lt;/em&gt; &lt;a href=&quot;#_ftn2&quot;&gt;[2]&lt;/a&gt;) başladığı söylenemez. Dergiler, yayın yanlılığı (&lt;em&gt;publication bias&lt;/em&gt;), yani sadece anlamlı sonuçlar bulan araştırmaları yayımlama eğiliminde olmasaydı, Tartışmalı Araştırma Uygulamalarının (TAU) [&lt;em&gt;Questionable Research Practices (QRP&lt;/em&gt;&lt;a href=&quot;#_ftn3&quot;&gt;[3]&lt;/a&gt;&lt;em&gt;)&lt;/em&gt;]– – kullanımı da muhtemelen bu kadar fazla olmazdı.&lt;/p&gt;
+
+&lt;p&gt;İlk olarak akademisyenler için yayın yapmanın neden çok önemli olduğundan bahsetmek yerinde bir başlangıç olacaktır. Akademisyenlerin işlerini koruyabilmek için prestijli ve etki faktörü (&lt;em&gt;impact factor&lt;/em&gt;&lt;a href=&quot;#_ftn4&quot;&gt;[4]&lt;/a&gt;) yüksek olan dergilerde yayın yapmaları gerekmektedir. Yani çok fazla seçim hakları olmadığı görülmektedir; ya yayımlayacaklar ya da yok olacaklar (&lt;em&gt;publish or perish&lt;/em&gt;). Bazı üniversiteler senede belli sayıda çalışma yayımlamış olmayı, bazıları da doktora programlarından mezun olmak için en az üç yayın yapmayı şart koşmaktadır. Bir doktora öğrencisinin, dört sene gibi bir sürede iyi bir çalışma tasarlayıp onu yürütecek, istatistiksel gücü yüksek olacak şekilde veri toplayacak, veriyi analiz edecek ve nitelikli bir makale yazacak kadar alan hakimiyeti olmasının çok gerçekçi bir beklenti olmadığı görülmektedir; üstelik doktora öğrencilerinden beklenen başka yükümlülükler olduğu da göz önünde bulundurulmalıdır. Aynı şekilde akademisyenler zaten birçok işle uğraşırken (ders vermek, konferanslara katılmak, idari görevleri yerine getirmek, vb.), kendilerinden çok sayıda da yayın yapmaları beklenmektedir. Üstelik bu durum kimi ülkelerde çok daha rekabetçi bir hal almıştır ve ne yazık ki dünyada genel olarak üniversitelerin, hem öğrencilerden hem de akademisyenlerden beklediği standartlar daha da yükselmektedir. Böyle bir bağlam içerisinde de bilim insanları doğal olarak niceliği niteliğin önüne koyacak şekilde davranmaktadırlar (&lt;a href=&quot;https://press.princeton.edu/books/paperback/9780691192277/the-seven-deadly-sins-of-psychology&quot;&gt;Chambers, 2019&lt;/a&gt;; &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.1177/1056492605276850&quot;&gt;Rond ve Miller, 2005&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Yukarıda bahsi geçen hususlardan da anlaşılacağı üzere yayın yapmak akademisyenlerin işlerine devam edebilmeleri için kritik bir önem taşımaktadır. Peki yayın yapabilmeleri için neler gerekiyor biraz da bunlara değinelim. Öncelikle yayın yanlılığı, bilim insanlarının anlamlı sonuçlar bulma motivasyonuyla hareket etmelerinde önemli rol oynamaktadır. Önde gelen psikoloji dergileri, yeni, farklı, kusursuz ve anlamlı sonuçlar bulan araştırmaları basma eğilimindedir. Sadece bu bile kötü niyetli olmayan araştırmacıları, farkında olmadan anlamlı sonuçlar bulacakları yöntemsel seçimler yapmaya itebilmektedir. Örneğin, araştırmacılar kayıp veri (&lt;em&gt;missing data&lt;/em&gt;) atama yöntemlerine ve uç değerlere (&lt;em&gt;outliers&lt;/em&gt;) ilişkin karar verirken oldukça özgürlerdir. Hiçbir kötü niyetleri olmasa dahi sadece doğrulama yanlılığı&lt;a href=&quot;#_ftn5&quot;&gt;[5]&lt;/a&gt; (&lt;em&gt;confirmation bias&lt;/em&gt;) nedeniyle kendi istedikleri sonucu verecek kararları alma eğiliminde olmaları son derece anlaşılır bir durumdur (&lt;a href=&quot;https://press.princeton.edu/books/paperback/9780691192277/the-seven-deadly-sins-of-psychology&quot;&gt;Chambers, 2019&lt;/a&gt;; &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5122713/&quot;&gt;Wichertsve ark. 2016&lt;/a&gt;). Bu gibi durumlar &lt;em&gt;Tip I hata&lt;/em&gt;&lt;a href=&quot;#_ftn6&quot;&gt;[6]&lt;/a&gt; oranlarını arttırmaktadır. Nitekim, &lt;a href=&quot;https://journals.sagepub.com/doi/full/10.1177/0956797611417632&quot;&gt;Simmon, Nelson ve Simonsohn&lt;/a&gt; (2011) ismli araştırmacılar bir çalışmalarında veri toplama, analiz etme ve raporlama süreçlerinde araştırmacıların birçok konuda vereceği kararlarda oldukça özgür olmalarının Tip I hata oranını arttırdığını göstermişlerdir. Son olarak, dergilerin yenilik ve farklılık talepleri başlı başına araştırmacıların tekrar çalışmaları (&lt;em&gt;replication studies&lt;/em&gt;) yapma konusundaki şevklerini kırmaktadır.&lt;/p&gt;
+
+&lt;p&gt;Dergilerin gerçekçi olmayan bu taleplerini karşılamak için araştırmacılar sakıncalarını bilerek ya da bilmeyerek birçok farklı yönteme başvurmaktadır. Bilerek ya da bilmeyerek demeyi tercih ediyorum çünkü bu yöntemlerden bazıları alanda oldukça fazla kullanılmakta ve olağan kabul edilmektedir. Bu noktada TAU’nun ne olduğundan bahsetmek gerekmektedir. Öncelikle birçok araştırmacı TAU ile sahtekarlığı (&lt;em&gt;fraud&lt;/em&gt;) ayırmaktadır. Gri alan olarak tanımlayabileceğimiz TAU, araştırmacıların veri toplama ve analizi süreçlerinde aldıkları kararlarla serbestlik derecesini (&lt;em&gt;degrees of freedom&lt;/em&gt;) arttırdıkları uygulamaları kapsar (&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/0956797611430953&quot;&gt;John, Loewenstein ve Prelec, 2012&lt;/a&gt;). Bu uygulamalardan birisi olan Sonuçlar Belli Olunca Hipotez Üretme ile başlayalım. Keşif (&lt;em&gt;exploratory&lt;/em&gt;) çalışması sonuçlarını, doğrulayıcı (&lt;em&gt;confirmatory&lt;/em&gt;) çalışma sonuçları gibi sunmak sıklıkla karşılaşılan, hatta dergilerin de talep ettiği bir uygulamadır (&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/26168122&quot;&gt;Wagenmakers ve ark., 2012&lt;/a&gt;). Bir başka TAU olan p-hackleme’den bahsetmeden önce birçok istatistik kitabının &lt;em&gt;p&lt;/em&gt;’nin tanımını yanlış verdiğini göz önünde bulundurarak &lt;em&gt;p&lt;/em&gt;’nin gerçekte ne anlama geldiğinden bahsetmenin önemli olduğunu düşünüyorum. &lt;em&gt;p&lt;/em&gt; değeri, eğer yokluk hipotezi / sıfır hipotezi (&lt;em&gt;null hypothesis&lt;/em&gt;) doğruysa, gözlenen değere eşit ya da onun fazlasını şans eseri elde etme olasılığını vermektedir. &lt;em&gt;p&lt;/em&gt; değerine ilişkin iki önemli yanlış anlaşılma dikkat çekmektedir. İlki, &lt;em&gt;p&lt;/em&gt; değerinin çalışma tekrarlandığında, anlamlı bir sonuç verme olasılığını (1 − &lt;em&gt;p&lt;/em&gt;) vereceği düşüncesidir. Diğer yanlış anlaşılmaysa ilişkinin yönüyle alakalıdır: &lt;em&gt;p&lt;/em&gt; değeri, gözlenen değere bakarak sıfır hipotezinin ne olasılıkla desteklendiğine ilişkin bilgi vermez; sıfır hipotezi doğruysa gözlenen değerin şans eseri çıkma olasılığına ilişkin bilgi verir. (Maxwell, Delaney ve Kelley, 2018). &lt;em&gt;p&lt;/em&gt; değeri her ne kadar sıfır hipotezinin doğru olma olasılığıyla ve elde edilen etkinin büyüklüğü ya da güvenirliğiyle ilgili bir bilgi vermese de, sıkça yanlış anlaşılıp yanlış kullanıldığı için, &lt;em&gt;p&lt;/em&gt; değerini .05’ten küçük bulmak çok önem kazanmıştır. Bu yüzden araştırmacılar p-hackleme yöntemine sıklıkla başvurmuşlardır.&lt;/p&gt;
+
+&lt;p&gt;Tekrarlama krizindeki önemli nedenlerden biri de psikoloji çalışmalarında istatistiksel gücün (&lt;em&gt;statistical power&lt;/em&gt;) düşük olmasıdır. Her ne kadar Cohen 1960’larda psikoloji çalışmalarının düşük istatistiksel güce sahip olduğundan ve istatistiksel gücün etkisinden bahsetse de önemi yeni yeni anlaşılmaktadır. Psikoloji çalışmalarının çoğunlukla istatistiksel güç yönünden yetersiz (&lt;em&gt;underpowered)&lt;/em&gt; olduğu göz önünde bulundurulduğunda çoğu çalışmanın neden tekrarlanamadığı aşikardır. Psikoloji çalışmalarının neden güçsüz olduğu sorusunu yanıtlayabilmek için ise öncelikle istatistiksel gücü nelerin belirlediğine bakmak gerekmektedir. İstatistiksel güç bazı faktörlere bağlıdır: &lt;em&gt;α&lt;/em&gt;, etki büyüklüğü (&lt;em&gt;effect size&lt;/em&gt;) ve örneklem sayısı (&lt;em&gt;s&lt;/em&gt;). İlgilendiğimiz değişkenin etki büyüklüğü araştırmacının elinde olmayan bir faktördür (bir değişkenin doğada var olan etki büyüklüğünü manipüle edemeyiz). Bunun yanı sıra birçok araştırmacının &lt;em&gt;α&lt;/em&gt; değerini .05 olarak kabul ettiğini göz önünde bulundurduğumuzda, geriye değişkenlik gösterebilecek ve kontrol edebileceğimiz tek bir faktör kalmaktadır: Örneklem sayısı. Sorun tam olarak da buradan kaynaklanmaktadır. Psikoloji araştırmalarının örneklem sayıları oldukça düşüktür dolayısıyla da araştırmalar istatistiksel güç yönünden yetersiz kalmaktadır (&lt;a href=&quot;https://press.princeton.edu/books/paperback/9780691192277/the-seven-deadly-sins-of-psychology&quot;&gt;Chambers, 2019&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;TAU’nun ne kadar yaygın olduğunu anlamak için &lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/0956797611430953&quot;&gt;John, Loewenstein ve Prelec&lt;/a&gt; (2012) 2000 psikoloğa anonim bir anket uygulamışlardır. Anket sonuçları durumun ne kadar ciddi olduğunu gözler önüne sermektedir:&lt;/p&gt;
+
+&lt;p&gt;● Çalışmadaki bağımlı değişkenlerin tümünü rapor etmeme: %78 Kendi Kabul oranı (&lt;em&gt;Self-Admission Rate&lt;/em&gt;) (KKO), %90 Kabul Tahmininden Elde Edilen Yaygınlık Tahmini (&lt;em&gt;Prevalence Estimate Derived From Admission Estimate&lt;/em&gt;) (KTEYT).&lt;/p&gt;
+
+&lt;p&gt;● Sonuçların anlamlı olup olmadığına baktıktan sonra veri toplamaya devam etmek: %72 KKO, %90 KTEYT&lt;/p&gt;
+
+&lt;p&gt;● Tüm koşulları rapor etmeme: %42 KKO, %70 KTEYT&lt;/p&gt;
+
+&lt;p&gt;● İstenilen sonuca ulaştıktan sonra veri toplamayı bırakmak: %36 KKO, %50 KTEYT&lt;/p&gt;
+
+&lt;p&gt;● &lt;em&gt;p&lt;/em&gt; değerini aşağı doğru yuvarlama ( örn. .054’ olan bir p değerini .05’ten düşük olarak raporlamak): %39 KKO, %60 KTEYT&lt;/p&gt;
+
+&lt;p&gt;● Seçici olarak “işe yarayan” çalışmaları raporlamak: %67 KKO, %90 KTEYT&lt;/p&gt;
+
+&lt;p&gt;● Uç değerleri yaptığı etkiye bakarak çıkartmak: %62 KKO, %90 KTEYT&lt;/p&gt;
+
+&lt;p&gt;● Beklemediği bulguları en başta yordamış (&lt;em&gt;predict&lt;/em&gt;) gibi raporlamak: %54 KKO, %80 KTEYT&lt;/p&gt;
+
+&lt;p&gt;● Veri uydurmak: %9 KKO, %30 KTEYT&lt;/p&gt;
+
+&lt;p&gt;Her ne kadar oransal olarak araştırmacıların, dergilerin gerçek dışı beklentilerini karşılamak için başvurduğu yöntemlerin çok azını oluştursa da sahtekarlık konusuna da değinmek gerekir; zira yayımla ya da yok ol anlayışı ve yayın yanlılığının insanları getirdiği en uç nokta burası. Bu konuda Diederik Stapel, en çok bilinen vakalardan birisi. Tilburg Üniversitesinde görev yaparken veri uydurmak ve değiştirmekten dolayı araştırmaları geri çekilmiş (&lt;em&gt;retract)&lt;/em&gt; ve işine son verilmişti. Her ne kadar kendisi sahtekarlık denilince akla gelen ilk isimlerden olsa da &lt;a href=&quot;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738&quot;&gt;Daniele Fanelli&lt;/a&gt; (2009) meta-analiz çalışmasında bilim insanlarının %2’sinin sahtekarlık sayılabilecek uygulamalarda bulunduğunu göstermiştir (&lt;a href=&quot;https://press.princeton.edu/books/paperback/9780691192277/the-seven-deadly-sins-of-psychology&quot;&gt;Chambers, 2019&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Görüldüğü üzere şu an içinde bulunulan kriz kaçınılmazdı ve mevcut koşulları iyileştirmeden krizden çıkabilmemiz çok olası görünmemekte. Aslında pek çok ilerleme katedildi &lt;em&gt;(ön kayıt ve doğrulayıcı çalışmalar kısmına link)&lt;/em&gt; fakat daha çok yol alınması gerekmekte. Vurguyu bağlama yapmayı önemsiyoruz, zira yanlış uygulamaları benimseyen bilim insanlarını suçlamak kolaya kaçmak olacaktır ve durumu çözmeyecektir. Elbette ki amacımız Stapel’i ya da yanlış uygulamalarda bulunan diğer bilim insanlarını aklamak değil. Ancak dikkatimizi bu insanların neden bu tür uygulamalarda bulunduğuna yöneltirsek ve kişileri bu tür uygulamalara iten nedenleri ortadan kaldırmaya çalışırsak, gelecekte böyle vakaların önüne geçilmesi daha kolay olacaktır.&lt;/p&gt;
+
+&lt;p&gt;Kaynakça&lt;/p&gt;
+
+&lt;p&gt;Kerr, N. L. (1998). HARKing: Hypothesizing after the results are known. &lt;em&gt;Personality and Social Psychology Review&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(3), 196–217. doi: 10.1207/s15327957pspr0203_4&lt;/p&gt;
+
+&lt;p&gt;Chambers, C. (2019). &lt;em&gt;The seven deadly sins of psychology: a manifesto for reforming the culture of scientific practice&lt;/em&gt;. Princeton, NJ: Princeton University Press.&lt;/p&gt;
+
+&lt;p&gt;Rond, M. D. ve Miller, A. N. (2005). Publish or perish. Journal of Management Inquiry, 14(4), 321–329. doi: 10.1177/1056492605276850&lt;/p&gt;
+
+&lt;p&gt;Wicherts, J. M., Veldkamp, C. L. S., Augusteijn, H. E. M., Bakker, M., Aert, R. C. M. V. ve Marcel A. L. M. Van Assen. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking. &lt;em&gt;Frontiers in Psychology&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;. doi: 10.3389/fpsyg.2016.01832&lt;/p&gt;
+
+&lt;p&gt;Simmons, J. P., Nelson, L. D. ve Simonsohn, U. (2011). False-Positive Psychology. &lt;em&gt;Psychological Science&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(11), 1359–1366. doi: 10.1177/0956797611417632&lt;/p&gt;
+
+&lt;p&gt;John, L. K., Loewenstein, G. ve Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling. &lt;em&gt;Psychological Science&lt;/em&gt;, &lt;em&gt;23&lt;/em&gt;(5), 524–532. doi: 10.1177/0956797611430953&lt;/p&gt;
+
+&lt;p&gt;Wagenmakers, E.-J., Wetzels, R., Borsboom, D., Han L. J. Van Der Maas, ve Kievit, R. A. (2012). An agenda for purely confirmatory research. &lt;em&gt;Perspectives on Psychological Science&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(6), 632–638. doi: 10.1177/1745691612463078&lt;/p&gt;
+
+&lt;p&gt;Maxwell, S. E., Delaney, H. D. ve Kelley, K. (2018). &lt;em&gt;Designing experiments and analyzing data: a model comparison perspective&lt;/em&gt;. New York, NY: Routledge, Taylor &amp;amp; Francis Group.&lt;/p&gt;
+
+&lt;p&gt;Fanelli, D. (2009). How many scientists fabricate and falsify research? A systematic review and meta-analysis of survey data. PLoS ONE, 4(5). doi: 10.1371/journal.pone.0005738&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot;&gt;[1]&lt;/a&gt; &lt;em&gt;p&lt;/em&gt; değerini anlamlı bulana kadar veriyle oynamak ve farklı istatistiksel testler denemek.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#_ftnref2&quot;&gt;[2]&lt;/a&gt; Bu terimi 1998’de psikolog &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/15647155&quot;&gt;Norbert Kerr&lt;/a&gt; alanyazına katmıştır. Araştırmanın sonuçları belli olunca baştaki hipotezlerin değiştirilip sonuçlara göre yeniden hipotez üretilmesi anlamına gelmektedir.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#_ftnref3&quot;&gt;[3]&lt;/a&gt; Bilimsel verilerin ve sonuçlarının bir şekilde bozulmasını içeren uygulamalar.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#_ftnref4&quot;&gt;[4]&lt;/a&gt; Bir akademik derginin, yayınladığı güncel makalelerine bulunulan ortalama atıf sayısını yansıtan bir ölçütüdür.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#_ftnref5&quot;&gt;[5]&lt;/a&gt; İnsanlar kendi inandıkları düşünceyi doğrulayan bilgilere daha çok dikkat etme, o bilgileri arama ve daha iyi hatırlama eğilimindedirler.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#_ftnref6&quot;&gt;[6]&lt;/a&gt; Sıfır/yokluk hipotezinin doğru olmasına rağmen reddedilmesi&lt;/p&gt;</content><author><name>Emine Bilgen</name></author><category term="tekrarlama krizi" /><category term="açık bilim" /><summary type="html">Tekrarlama krizinin (replication crisis) sonuçlarıyla ilgili birçok yazıyı web sitemizde derledik. Sonuçları kadar bu krizin nedenlerine bakmak da önemli. Nitekim bu krize sebebiyet veren etmenleri anlamazsak açık bilim yolunda çok yol katedemeyiz. Birçok yazımızda krizin nedenlerine ufak ufak değinmiş olmamıza karşın, bunların hepsini bir yazıda görmek mevcut durumu daha iyi anlamamıza katkı sağlayacaktır.</summary></entry><entry><title type="html">Açık Bilim Nedir, Açık Erişimden Farkı Nedir?</title><link href="http://localhost:4000/originals/introductory/esraozan1.html" rel="alternate" type="text/html" title="Açık Bilim Nedir, Açık Erişimden Farkı Nedir?" /><published>2020-03-12T00:00:00+03:00</published><updated>2020-03-12T00:00:00+03:00</updated><id>http://localhost:4000/originals/introductory/esraozan1</id><content type="html" xml:base="http://localhost:4000/originals/introductory/esraozan1.html">&lt;p&gt;Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale getirilmesini; bu sayede tekrarlanabilir (&lt;em&gt;replicable&lt;/em&gt;) ve yeniden üretilebilir (&lt;em&gt;reproducible&lt;/em&gt;) bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır. Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi anlaşılmasına katkı sağlayacaktır.&lt;/p&gt;
+
+&lt;p&gt;Şeffaflık (&lt;em&gt;transparency)&lt;/em&gt;, bilimsel bir çalışmanın tüm aşamalarının (örn., varsayımların belirlenmesi, veri toplama aracının geliştirilmesi, verinin toplanması ve ham verinin ortaya çıkarılması vb.) ve bu aşamalarda alınan kararların detaylı bir şekilde anlatılmasını, kullanılan materyal ve ham verilerin okuyucuyla doğrudan paylaşılmasını kapsamaktadır. Bilimsel pratiği daha özenli hale getirmede kullanılabilecek temel yollar aşağıdaki şekilde sıralanabilir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Çalışmanın sağlam bir kuramsal çerçeve üzerine kurulması&lt;/li&gt;
+  &lt;li&gt;Araştırma sorusunu yanıtlamaya uygun yöntemin kullanılması&lt;/li&gt;
+  &lt;li&gt;Verinin nasıl toplanacağının ve veri toplamanın ne zaman sonlandırılacağının süreç öncesinde belirlenmesi&lt;/li&gt;
+  &lt;li&gt;Veri girişi ve analizi aşamalarında sürecin birden fazla kişi tarafından birden fazla kez kontrol edilerek hata oranının en aza indirgenmesi&lt;/li&gt;
+  &lt;li&gt;Çalışma sonucu ne olursa olsun çıktıların gerekli paydaşlarla paylaşılması&lt;/li&gt;
+  &lt;li&gt;Çarpıcı sonuçlar yerine bilimin yığılgan birikimine katkı sağlama potansiyeline sahip sonuçların peşinden koşulması&lt;/li&gt;
+  &lt;li&gt;Eldeki sonuçlardan uygun çıkarımların yapılması&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bu yollar incelendiğinde ise, hemen hemen hepsinin temelinde şeffaflık
+ilkesinin yer aldığı görülmektedir.&lt;/p&gt;
+
+&lt;p&gt;Tekrarlanabilirlik, daha önce yapılmış bir çalışmayla aynı yöntemi kullanarak, aynı şartlar altında aynı bulgulara erişmeyle sağlanır. Yeniden üretilebilirlik ise önceden yapılmış bir çalışmanın orijinal verisini kullanarak yapılan yeni bir analizin, önceki bulgularla örtüşen sonuçlar vermesiyle sağlanır. Yapılan çalışmalar sonucu ulaşılan bilimsel bir etkinin güvenilirliğinin sınanması ve bilimin kendi kendini düzeltebilmesi için tekrarlanabilir ve yeniden üretilebilir bulgular oldukça önemlidir.&lt;/p&gt;
+
+&lt;p&gt;Açık bilim denildiğinde genellikle akla ilk gelen, bilimsel çıktıların
+herkes tarafından ücretsiz olarak erişilebilir, kopyalanabilir ve
+bilimsel amaçlar için kullanılabilir olmasıdır. Fakat bu tanım aslında
+“açık erişim” kavramına karşılık gelmektedir. Açık bilim ise, yukarıda
+da bahsedildiği gibi açıklık, şeffaflık ve yöntemsel özen gibi birçok
+uygulamayı da içine alan daha genel bir bilim anlayışıdır. Açık erişim
+ülkemizde
+&lt;a href=&quot;https://acikerisim.yok.gov.tr/acik-erisim&quot;&gt;YÖK&lt;/a&gt;,
+&lt;a href=&quot;https://cabim.ulakbim.gov.tr/ulakbim-acik-erisim-faaliyetleri/&quot;&gt;TÜBİTAK&lt;/a&gt;
+ve
+&lt;a href=&quot;https://lib.metu.edu.tr/tr/acik-erisim-ve-kurumsal-arsiv-birimi-0&quot;&gt;ODTÜ&lt;/a&gt;
+tarafından desteklenmektedir.&lt;/p&gt;</content><author><name>Esra Ataman ve Ozan Can Çağlar</name></author><category term="originals" /><category term="introductory" /><summary type="html">Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale getirilmesini; bu sayede tekrarlanabilir (replicable) ve yeniden üretilebilir (reproducible) bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır. Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi anlaşılmasına katkı sağlayacaktır.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/esraozan1.jpg" /></entry><entry><title type="html">Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]</title><link href="http://localhost:4000/translation/replication/deniz1.html" rel="alternate" type="text/html" title="Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]" /><published>2020-03-05T00:00:00+03:00</published><updated>2020-03-05T00:00:00+03:00</updated><id>http://localhost:4000/translation/replication/deniz1</id><content type="html" xml:base="http://localhost:4000/translation/replication/deniz1.html">&lt;p&gt;Bu yazı Andrew Gelman’ın kişisel bloğunda yayımladığı “What has
+happened down here is the winds have changed&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;” başlıklı yazının
+çevirisidir. Yazının orijinaline şu bağlantıdan ulaşabilirsiniz:
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/%20&quot;&gt;https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gelman bu yazısında psikoloji alanındaki tekrarlama krizine ve yöntemsel
+tartışmalara dair kapsamlı bir özet yapıyor ve kendi görüşlerini
+paylaşıyor. Yazı, aynı zamanda şeffaf ve açık bilim aktivistlerine
+yönelik eleştirilerde bulunan Susan Fiske’e bir yanıt niteliğinde. Bu
+yazının tekrarlama krizi ve açık bilim tartışmalarına giriş niteliğinde,
+iyi bir başlangıç okuması olacağını düşünerek Türkçeye çevirdik. Bazı
+makale isimleri, terimler ve özel isimlerin orijinallerini ya da Türkçe
+karşılıklarını metinde parantez içinde belirttik. İyi okumalar.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Biri bana Susan Fiske’in &lt;a href=&quot;https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf&quot;&gt;şu
+makalesini&lt;/a&gt;
+gönderdi, Psikolojik Bilimler Derneği’nin (İng. &lt;em&gt;Association for Psychological Science&lt;/em&gt;) bir dergisi APS Observer’da yayımlanacakmış. Makale beni biraz
+üzdü, cevabımı &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/09/20/methodological-terrorism/&quot;&gt;kısa ve
+tatlı&lt;/a&gt;
+tutasım vardı ama sonra konuyu biraz bağlamına oturtmaya değeceğini
+düşündüm.&lt;/p&gt;
+
+&lt;p&gt;Önce sizinle makaleyi paylaşacağım, sonra da daha önemli gördüğüm meselelerde görüşlerimi sunacağım. Bu paylaşımın üst ve alt başlıkları; tekrarlama krizinin (İng. &lt;em&gt;replication crisis&lt;/em&gt;) bilimin, özellikle sosyal psikolojinin, topografyasını değiştirmesi gerçeğine göndermede bulunuyor ve görüyorum ki Fiske gibi arazinin eski biçimine adapte olmuş kişiler için bu değişimler felaket gibi geliyor.&lt;/p&gt;
+
+&lt;p&gt;Fiske’in metnini cümle cümle çürütmeyeceğim çünkü yazdıkları çoğunlukla
+psikoloji alanında neler yaşandığıyla ilgili (kariyerler, kadrolar,
+çamur atma taktikleri, laboratuvarlarını korumaya çalışan insanlar,
+konferans sponsorları, kariyer güvencesizlikleri) ve ben bu konuda
+hiçbir şey bilmiyorum çünkü bu alana yabancıyım ve istatistik ve siyaset
+biliminde bu tür şeylere nadiren tanık oldum. (Tabii ki bütün akademik
+bölümlerde kirli işler dönüyor ama aşina olduğum alanlarda yöntem
+eleştirileri büyük oranda şeffaf ve alanın önde gelen kişileri bir şey
+yayımladıkları zaman diğerlerinin onları eleştirmeye hakları olduğunu
+düşünmelerini sanki sorun etmiyorlar.)&lt;/p&gt;
+
+&lt;p&gt;Fiske’in makalesinin çoğunda bahsettiği psikoloji akademisinin siyasetini bilmediğim için ben çoğunlukla onun, hem içerik hem de ifade açısından nahoş bulduğum tutumunun, psikolojinin yakın tarihinin ve tekrarlama krizinin ışığında nasıl anlaşılabileceği hakkında yazacağım.&lt;/p&gt;
+
+&lt;p&gt;Fiske’in yazısını
+&lt;a href=&quot;https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf&quot;&gt;buradan&lt;/a&gt; okuyabilirsiniz.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Kısaca, Fiske insanların basılı araştırmalar hakkında olumsuz yorum
+yapmak için sosyal medyayı kullanmasını sevmiyor. O, örtük bir şekilde
+benim “araştırma memurluğu” dediğim kuralı takip ediyor: Bir araştırma
+onaylanmış bir yerde yayımlandıysa o artık gerçek olarak kabul
+edilmelidir. &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/02/01/peer-review-make-no-damn-sense/&quot;&gt;Başka bir
+yerde&lt;/a&gt;
+bu tutumla olan sorunum hakkında yazmıştım: Kısaca, (a) yayımlanan
+birçok makale açıkça hatalı, bu hatalar genellikle yalnızca iddiaların
+incelenmesiyle açığa çıkabilir, başarısız bir tekrar çalışmasıyla daha
+da aşikar olur ve (b) yayımlama süreci öyle riskli bir maceradır ki
+yayımlanan ve yayımlanmayan işler arasına net bir çizgi çizmek
+istatistiksel bir hatadır.&lt;/p&gt;
+
+&lt;h1 id=&quot;kuzeyden-bulutlar-geldi-ve-yağmur-başladı&quot;&gt;Kuzeyden bulutlar geldi ve yağmur başladı&lt;/h1&gt;
+
+&lt;p&gt;Her şeyin ne kadar hızlı değiştiğinin farkına varmak Fiske’in tutumunu
+anlamamıza yardımcı olacaktır. (Yazının yayımlanmasından) Beş yıl önce
+(2011) tekrarlama krizi ancak ufuktaki bir buluttu.&lt;/p&gt;
+
+&lt;p&gt;Bana göre önemli olayların zaman çizelgesi şöyle:&lt;/p&gt;
+
+&lt;p&gt;1960’lar-1970’ler: Paul Meehl deneysel psikolojinin standart
+paradigmasının doğru işlemediğini &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/05/06/needed-an-intellectual-history-of-research-criticism-in-psychology/&quot;&gt;öne
+sürdü&lt;/a&gt;:
+“Aşırı hevesli ve akıllı bir araştırmacı, zayıf nomolojik ağlar arasında
+yavaşça ilerleyerek o ağın hiçbir parçasını doğrulamadan ya da
+çürütmeden uzun bir dizi ilişkili deneyler yapabilir; yine de deneyleri
+eleştirel olmayan bir okura ‘bütüncül bir araştırma programı’ gibi
+görünebilir.”&lt;/p&gt;
+
+&lt;p&gt;Bütün psikologlar Paul Meehl’in kim olduğunu biliyordu, yine de uyarılarını görmezden geldiler. Örneğin Robert Rosenthal “çekmecede kalan çalışmalar sorunu” (İng. &lt;em&gt;file drawer problem&lt;/em&gt;) üzerine etkili bir makale yazdı ama galiba bu, dikkatimizi “bir şekilde istatistiksel anlamlılık bul ve zaferini ilan et” paradigmasının daha büyük sorunlarından uzaklaştırdı.&lt;/p&gt;
+
+&lt;p&gt;1960’lar: Jacob Cohen istatistiksel güç hakkında çalışır, deneysel desen
+ve veri toplamanın psikolojide iyi araştırmanın temeli olduğu fikrini
+yayar, nihayetinde “Statistical Power Analysis for the Behavioral
+Sciences” (Davranışsal Bilimler için İstatistiksel Güç Analizi)
+kitabını çıkarır. Araştırmacılar Cohen’in yöntemleri ve terminolojisini
+benimserler ancak gerçek hayat etki büyüklüklerini aşırı abartarak en
+önemli konuda yan çizerler.&lt;/p&gt;
+
+&lt;p&gt;1971: Tversky ve Kahneman, insan bilişinin yanlılıkları hakkındaki ilk
+çalışmalarından biri olan “&lt;a href=&quot;http://stats.org.uk/statistical-inference/TverskyKahneman1971.pdf&quot;&gt;Belief in the law of small
+numbers&lt;/a&gt;“ı
+(Küçük sayılar yasasına inanç) yazar. Bu eski çalışma,
+araştırmacıların belirsizlik ve (özellikle p değeri ve istatistiksel
+anlamlılıkla ilgili ama onunla sınırlı kalmayan) varyasyon hakkındaki
+yanlış anlayışlarına odaklanır ama sonra meslektaşları ile birlikte daha
+genel araştırma konularına geçiş yaparlar ve çalışmalarının araştırma
+pratikleriyle ilgisini tam olarak anlamazlar.&lt;/p&gt;
+
+&lt;p&gt;1980’ler-1990’lar: Yokluk hipotezi anlamlılık testi (İng. &lt;em&gt;null hypothesis significance testing&lt;/em&gt;) psikoloji dünyasında gittikçe daha &lt;a href=&quot;https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1999.10473888#.XfauZvxS_Dc&quot;&gt;tartışmalı&lt;/a&gt;
+hale gelir. Ne yazık ki bu sorun, araştırmadan çok bir yöntem sorunu
+olarak değerlendirilir. Sanırım araştırma protokollerinde sorun
+olmadığını, yalnızca analizlerin biraz geliştirilmesi gerektiğini
+düşünüyorlardı. Basılan birçok araştırmanın manasız olduğunu söyleyen
+Meehl’inki gibi görüşlere fazla rastlamadım.&lt;/p&gt;
+
+&lt;p&gt;2006: Provokatif iddialarda bulunan (“Mühendislerin daha çok erkek
+çocukları, hemşirelerin daha çok kız çocukları olur” vs.) bir dizi
+çalışma yayımlayan, daha sonra iddialarının her birinin istatistiksel
+hatalardan kaynaklandığı ortaya çıkan sosyolog Satoshi Kanazawa’yı ilk
+kez
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2006/04/28/amusing_example/&quot;&gt;duyuyorum&lt;/a&gt;.
+Tabii ki istatistiksel hataların var olduğunu biliyordum; ama henüz bir
+araştırma programının düşük sinyal-gürültü oranı yüzünden tamamen çöpe
+gidebileceğini kabullenmemiştim.&lt;/p&gt;
+
+&lt;p&gt;2008: Edward Vul, Christine Harris, Piotr Winkielman ve Harold Pashler
+tartışmalı
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2009/01/29/more_on_the_so/&quot;&gt;makaleleri&lt;/a&gt;
+“Voodoo correlations in social neuroscience”ı (Sosyal nörobilimde
+voodoo korelasyonları) yazarlar. Yalnızca bazı yayımlanan makalelerin
+teknik sorunları olduğunu değil, aynı zamanda bu istatistiksel
+sorunların araştırma alanını tahrif ettiğini, yayımlanmış birçok ünlü
+iddianın güvenilmez olduğunu öne sürerler. Meehl’in bölgesine doğru
+gidiyoruz.&lt;/p&gt;
+
+&lt;p&gt;2008 aynı zamanda Neuroskeptic bloğunun doğuşuna tanıklık etti. Blog
+(dua çalışmaları, aşı karşıtlığı gibi) basit hedeflerle başladı, sonra
+bilim “hype”ını eleştirmeye başladı (“Makaleyi ya da yazarları
+eleştirmek için yazmıyorum yanlış anlaşılmasın ama… Bence bu
+çalışmanın verisi değerli ve ilgi çekici – bir uzman için. Beni
+endişelendiren şey bu çalışma ve benzerlerinin sunulma biçimi, hatta
+haber olarak sunulması.”), çok geçmeden alana dair daha kapsamlı
+eleştirilere geçiş yaptı. Neuroskeptic bloğu kendi başına büyük bir olay
+mıydı bilmiyorum ama o bilim-görüş blogculuğunun geleneksel politik
+konulardan içsel eleştiriye doğru kaymasının bir belirtisiydi.&lt;/p&gt;
+
+&lt;p&gt;2011: Joseph Simmons, Leif Nelson ve Uri Simonsohn “&lt;a href=&quot;http://pss.sagepub.com/content/22/11/1359.short&quot;&gt;False-positive psychology&lt;/a&gt;” (Yanlış pozitif psikoloji) isimli bir makale yayımlarlar, makalede “araştırmacı serbestlik derecesi” (İng. &lt;em&gt;researcher degrees of freedom&lt;/em&gt;) adını verdikleri kullanışlı terimi tanıtırlar. Daha sonra p-hackleme (İng. &lt;em&gt;p-hacking&lt;/em&gt;) terimini ortaya atarlar ve Eric Loken ve ben &lt;a href=&quot;http://www.stat.columbia.edu/\~gelman/research/unpublished/p_hacking.pdf&quot;&gt;the garden
+of forking
+paths&lt;/a&gt;‘te
+(Çatallanan patikalar bahçesi) araştırmacı serbestlik derecesinin
+istatistiksel anlamlılığa ulaşmak için kullanılması süreçlerini
+anlatırız. &lt;del&gt;Simmons ve arkadaşlarının makalesi aynı zamanda kinayeli
+başlığıyla dikkat çekicidir: Yalnızca pozitif psikoloji alt alanının
+iddialarını sorgulamaz, aynı zamanda onunla alay eder.&lt;/del&gt; (Düzeltme: Uri
+makalelerinin pozitif psikoloji alt alanıyla bir alakası olmadığı, cinas
+yapmak gibi bir niyetlerinin de olmadığı konusunda beni bilgilendiren
+bir e-posta attı.)&lt;/p&gt;
+
+&lt;p&gt;Aynı yıl Simohnson bir diğer
+&lt;a href=&quot;https://psycnet.apa.org/record/2011-02000-001&quot;&gt;makalesinde&lt;/a&gt; “Dennis adındaki dişçi” (İng. &lt;em&gt;dentist-named-Dennis&lt;/em&gt;) makalesini yerden yere vurur. Psikoloji tarihinde çok önemli bir an değil belki ama benim için önemli çünkü bu, sonuçlarını hiç düşünmeden kabul ettiğim bir makaleydi. Ben de ampirik araştırmaların temel zayıflıklarından habersizdim o zamanlar.&lt;/p&gt;
+
+&lt;p&gt;2011: Daryl Bem, “Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect” (Geleceği hissetmek: Bilişte ve duygulanımda anormal retroaktif etkilere dair deneysel kanıt) makalesini psikolojinin üst düzey dergilerinin birinde yayımlar. Çoğu kişi Bem’in duyumötesi algıyı (İng. &lt;em&gt;extrasensory perception&lt;/em&gt;) keşfettiğini düşünmedi ama genel izlenim, yaptığı çalışmanın sağlam olduğu yönündeydi. Bu da psikoloji araştırmalarına dair bir endişe oluşturdu. Örneğin, New York Times &lt;a href=&quot;https://www.nytimes.com/2011/01/06/science/06esp.html&quot;&gt;şöyle
+yazdı&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Derginin editörü, Colorado Üniversitesinden Charles Judd, makalenin
+olağan değerlendirme süreçlerinden geçtiğini söyledi. “Dört kişi metne
+dair değerlendirmede bulundu ve bunlar son derece güvenilir kişiler”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Geçmişe bakınca, Bem’in makalesinde devasa çoklu karşılaştırma (İng. &lt;em&gt;multiple comparisons&lt;/em&gt;) sorunları vardı –editör ve dört hakem neye bakmaları gerektiğini bilmiyorlardı– ama 2011 yılında böyle şeyleri fark etmekte pek iyi değildik.&lt;/p&gt;
+
+&lt;p&gt;Bu noktada şunu belirtelim, bazı eski çalışmalar bu açıdan benzeşiyor:
+Standart pratiklerdeki belirli yöntemsel kusurlar yalnızca tekil
+hatalardan ibaret değiller, aksine bilimsel süreçlere ciddi zararlar
+veriyorlar. Konuyla ilişkili bazı metinler şunlar: Jonn Ioannidis’in
+2005 makalesi “Why most published research findings are false” (Neden
+yayımlanmış araştırma bulgularının çoğu yanlıştır) ve Nicholas
+Christakis ile James Fowler’ın obezitenin bulaşıcı olduğunu iddia
+ettikleri 2007 makaleleri. Ioannidis’in makalesi artık bir klasik ama
+ilk çıktığında muhtemel etkilerinin kapsamını çoğumuzun anlayabildiğini
+sanmıyorum. Christakis ve Fowler’ın makalesi
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2011/06/10/christakis-fowl/&quot;&gt;artık&lt;/a&gt;
+ciddiye alınmıyor ama zamanında önemli görülüyordu. Söylemek istediğim:
+2005 ve 2007’deki bu olayları hikayemize aldık ancak o dönemde tam
+olarak kavranmamıştı. Galiba kötü işlerin istisna değil kural olduğunu
+fark etmemizi sağlayan Bem oldu.&lt;/p&gt;
+
+&lt;p&gt;2011 itibariyle bir şeylerin yanlış olduğu hissi var; ancak bir şeylerin
+&lt;em&gt;ne kadar&lt;/em&gt; yanlış olduğu pek açık değil ve (ben de dahil) gözlemciler
+hala yayımlanan araştırmalardaki felaket karşılaştırma sorunlarının
+yaygınlığını ve barizliğini fark edemiyor. Ya da şöyle diyeyim: Zayıf
+teori ve onu destekleyen, neredeyse tamamı istatistiksel olarak anlamlı
+araştırma sonuçlarının ölümcül kombinasyonu ki o sonuçlar da kontrolsüz
+araştırmacı serbestlik derecesinin ürünü olarak ortaya çıkıyor.&lt;/p&gt;
+
+&lt;p&gt;2011: Bilimsel görevi kötüye kullanımın çeşitli örnekleri bir bir haber
+olur. Diederik Stapel Tilburg Üniversitesinin psikoloji bölümünden
+atılır ve Marc Hauser Harvard’ın psikoloji bölümünden ayrılır. Bu ve
+benzeri örnekler &lt;a href=&quot;http://retractionwatch.com/2011/09/07/dutch-university-investigating-psych-researcher-stapel-for-data-fraud/&quot;&gt;Retraction
+Watch&lt;/a&gt;
+bloğuna dikkatleri çeker. Bilimsel sahtekarlık, özensizlik ve
+beceriksizlik arasında bir bağlantı
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/02/09/28905/&quot;&gt;görüyorum&lt;/a&gt;:
+Bütün vakalarda araştırmacılar hipotezlerine öyle inanıyorlar ki
+hasbelkader onu destekleyebilecek her kanıta atlayacak kadar dikkatsiz
+oluyorlar. &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/&quot;&gt;Clarke
+Kanunu&lt;/a&gt;‘nu
+hatırla (“Yeterince boktan bir araştırma sahtekarlıktan ayırt
+edilemez.”).&lt;/p&gt;
+
+&lt;p&gt;2012: Gregory Francis, “&lt;a href=&quot;http://www1.psych.purdue.edu/\~gfrancis/Publications/GFrancis-R1.pdf&quot;&gt;Too good to be true&lt;/a&gt;“yu (Doğru olmak için fazla iyi) yayımlar, tekrar eden istatistiksel olarak anlamlı sonuçların (yani yayımlanan psikoloji makalelerinin standart pratiğinin), seçme yanlılığının (İng. &lt;em&gt;selection bias&lt;/em&gt;) bir işareti olabileceğini öne süren bir dizi makalenin öncüsü olur. PubPeer başlar.&lt;/p&gt;
+
+&lt;p&gt;2013: Katherine Button, John Ioannidis, Claire Mokrysz, Brian Nosek,
+Jonathan Flint, Emma Robinson ve Marcus Munafo “&lt;a href=&quot;http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html&quot;&gt;Power failure: Why
+small sample size undermines the reliability of
+neuroscience&lt;/a&gt;,”
+(Güç kesintisi: Küçük örneklem neden nörobilimin güvenilirliğini
+baltalar) makalesini yayımlar, seçme yanlılığı ve etki büyüklüğünün
+abartılması arasındaki ilişkiyi kurarak Cohen’in güç analizinden
+Meehl’in daha genel umutsuzluğuna giden döngüyü tamamlar.&lt;/p&gt;
+
+&lt;p&gt;Bu civarlarda insanlar bana kötü veriye dayanan aşırı iddialı makaleleri
+yollamaya
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2013/05/17/how-can-statisticians-help-psychologists-do-their-research-better/&quot;&gt;başlar&lt;/a&gt;.
+İlki, ovulasyon ile oy verme hakkında olanı sanırım; sonra da ovulasyon
+ile giyim, şişman kollar ile politik tutumlar ve diğerlerine geliyoruz.
+“Psikolojik bilimler tipi araştırma” terimi kelime dağarcığımıza girer.&lt;/p&gt;
+
+&lt;p&gt;Ayrıca, tekrar çalışması hareketi hız kazanır ve bir dizi yüksek
+profilli başarısız tekrar çalışması basılır. Öncelikle Bem’in duyumötesi
+algı çalışmasının hiç de sürpriz olmayan başarısız tekrar çalışması,
+(Bem kendisi başarılı tekrar çalışmaları olduğunu iddia ettiği bir
+makale yazdı ama meta analizi tekrar çalışması olmayan
+&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2014/09/24/study-published-2011-followed-successful-replication-2003-cool/&quot;&gt;birçok&lt;/a&gt; çalışma da içeriyordu) arkasından da bedenleşmiş biliş (İng. &lt;em&gt;embodied cognition&lt;/em&gt;), &lt;a href=&quot;http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html&quot;&gt;ego tükenmesi&lt;/a&gt; (İng. &lt;em&gt;ego depletion&lt;/em&gt;) ve sosyal psikolojinin daha birçok saygın bulgusunun başarısız tekrar çalışmaları geldi.&lt;/p&gt;
+
+&lt;p&gt;2015: Araştırma kalitesi ve bilimsel yayımlama sürecine dair birçok
+kaygı Dana Carney, Amy Cuddy ve Andy Yap’in “&lt;a href=&quot;http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html&quot;&gt;güç pozu&lt;/a&gt;” (İng. &lt;em&gt;power pose&lt;/em&gt;) araştırmalarında birleşti. Medya, bu çalışmaya bayıldı ama çalışma artık aşina olduğumuz araştırmacı serbestlik derecesi sorunundan fena halde muzdaripti (Uri Simonsohn’un &lt;a href=&quot;http://datacolada.org/37&quot;&gt;şu&lt;/a&gt; tartışmasına bakınız) ve
+Eva Ranehill, Anna Dreber, Magnus Johannesson, Susanne Leiberg, Sunhae
+Sul ve Roberto Weber tarafından yapılan &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2015/09/25/low-power-pose/&quot;&gt;tekrar
+çalışmasında&lt;/a&gt;
+bu etki gözlenmedi.&lt;/p&gt;
+
+&lt;p&gt;Bu sırada prestijli dergi Proceedings of the National Academy of
+Sciences (PPNAS) oyuna dahil olur ve &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/04/02/himmicanes-and-hurricanes-update/&quot;&gt;erkek isimli kasırgalar&lt;/a&gt; (İng. &lt;em&gt;himmicanes&lt;/em&gt;), &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/05/03/ahhhh-ppnas/&quot;&gt;uçuş sırasındaki öfke patlamaları&lt;/a&gt; (İng. &lt;em&gt;air rage&lt;/em&gt;), ve “&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/11/24/oh-go/&quot;&gt;İnsanlar kronolojik yaşlarında yeni onyıla
+yaklaştıklarında anlam arayışına
+girerler&lt;/a&gt;”
+gibi hakikaten kötü, korkunç derecede hatalı makaleler basar. Bu
+makalelerin hepsinin altında aynı editörün imzası vardır: “Susan T.
+Fiske, Princeton Üniversitesi”. Tam da araştırmacı serbestlik derecesi,
+istatistiksel anlamlılık ve düşük güçteki çalışmaların tehlikeleri
+konuları haber olmaya başlamışken PPNAS ortaya atlayıveriyor. Kötü
+zamanlamanın böylesi.&lt;/p&gt;
+
+&lt;p&gt;2016: Brian Nosek ve diğerleri büyük bir tekrar çalışması projesi için
+işbirliği organize ediyor. Birçok ünlü çalışma tekrarlanamıyor.
+Tekrarlama projesi, bilim insanları arasında ve haberlerde büyük ilgi
+çekiyor ve psikolojinin, hatta belki de bilimsel araştırmaların, kamusal
+güvenilirliğini zedeliyor. Başarısız tekrar çalışmalarını küçümseyenler
+ya da artçı birlik saldırıları olmadı değil ama ikna edici
+&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/03/09/bruised-and-battered-i-couldnt-tell-what-i-felt-i-was-ungeneralizable-to-myself/&quot;&gt;değillerdi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;2016’nın sonları: Artık “kral çıplak” aşamasına geldik. Sosyal
+psikolojinin görünürde sağlam olan bulgularının tekrarlanamadığı ortaya
+çıktığında
+&lt;a href=&quot;http://www.theatlantic.com/science/archive/2016/09/can-simple-tricks-mobilise-voters-and-help-students/499109/&quot;&gt;artık&lt;/a&gt;
+şaşırmıyoruz.&lt;/p&gt;
+
+&lt;h1 id=&quot;şiddetliydi-yağış-ve-dur-durak-bilmeden-yağdı&quot;&gt;Şiddetliydi yağış ve dur durak bilmeden yağdı&lt;/h1&gt;
+
+&lt;p&gt;Evet, oldukça detaylı bir zaman çizelgesi çıkardık. Ama mesele şu: Uzun süredir hiçbir şey olmuyor ve ilk açığa çıkanlar ile teorik makalelerden sonra bile yalnızca araştırmalarınıza ve diğer sorumluluklarınıza odaklanırsanız krizi görmezden gelebilirsiniz. 2011 yılında hâlâ Daniel Kahneman bile hazırlama (İng. &lt;em&gt;priming&lt;/em&gt;) çalışmaları hakkında şöyle &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/&quot;&gt;diyordu&lt;/a&gt;:
+“İnanmama seçeneğiniz yok. Sonuçlar ne uydurma ne de şans eseri. Bu
+çalışmaların temel sonuçlarının doğru olduğunu kabul etmekten başka
+şansınız yok.”&lt;/p&gt;
+
+&lt;p&gt;Sonra birden dünya altüst oldu.&lt;/p&gt;
+
+&lt;p&gt;Eski dünyaya büyük yatırımlar yapmışsanız değişimi düşünmek oldukça
+üzücü olmalı. Fiske şu anda batan bir şirkette hissesi olan biri
+konumunda, bu yüzden onu hevesle savunması da şaşırtıcı değil. Mükemmel
+bir analoji olmadı gerçi; çünkü hisselerini satacağı kimsesi de yok.
+Aslında Fiske’in yapması gereken şey zararını kabullenip kendisinin ve
+meslektaşlarının birçok hata yapmış olduğunu itiraf etmek ve yola devam
+etmek. Kadrosunu almış, PPNAS’ın anahtarları elinde, yani isterse yapar.
+Ama herhalde kısa vadede tekrarlama teröristleri hakkında falan atıp
+tutmak daha konforlu geliyor.&lt;/p&gt;
+
+&lt;h1 id=&quot;evangeline-caddesinde-2-metre-su&quot;&gt;Evangeline Caddesi’nde 2 metre su&lt;/h1&gt;
+
+&lt;p&gt;Susan Fiske kim ve neden ortalıkta yöntem teröristleri diye birilerinin
+dolaştığını sanıyor? İkincisinden emin değilim; çünkü kendisi bu
+teröristlerin kim olduğunu ya da ne tür terör eylemleri
+gerçekleştirdiklerini belirtmeyi reddediyor. Makalesi tam olarak sıfır
+kanıt sunuyor, bunun yerine kontrol edilemeyecek yarı anekdotlar
+veriyor.&lt;/p&gt;
+
+&lt;p&gt;Susan Fiske’in adını ilk kez yukarıda bahsettiğim PPNAS makalelerinin
+(erkek isimli kasırgalar vs.) editörü olarak duydum. Yani en azından
+bazı örnekler için sosyal bilimler araştırmaları konusunda kötü
+muhakemesi olduğunu söyleyebiliriz.&lt;/p&gt;
+
+&lt;p&gt;Ya da şöyle diyelim: 2016’da yaşıyor ama 2006 dönemi düşüncesine
+saplanmış. 10 yıl öncesinde belki ben de erkek isimli kasırgalar ya da
+uçuş öfkeleri makalelerine kanardım. Kanmazdım diye düşünmek istiyorum;
+ama kim bilir? Simonsohn ve diğerlerinin izinde ben de, yayımlanan
+araştırmalar konusunda eskiden olduğumdan çok daha şüpheci olmaya
+başladım. Çoğumuz için Meehl’in elli yıl önce bulunduğu konuma gelmek
+çok uzun sürdü.&lt;/p&gt;
+
+&lt;p&gt;Fiske’in kendi basılı işlerinin de bazı sorunları var. Araştırmaları
+konusunda genel bir beyanda bulunmayacağım; çünkü makalelerinin çoğunu
+okumadım. Nick Brown’ın bana
+&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/07/05/30596/&quot;&gt;gönderdiği&lt;/a&gt;
+kadarını biliyorum:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Çeşitli nedenlerle ben (Brown) kendimi şu makaleyi okurken buldum:
+This Old Stereotype: The Pervasiveness and Persistence of the Elderly
+Stereotype (Bu eski stereotip: Yaşlı stereotipinin yaygınlığı ve
+dayanıklılığı) by Amy J. C. Cuddy, Michael I. Norton, and Susan T.
+Fiske (Journal of Social Issues, 2005)…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bu makale hatalarla doluydu. Öncelikle, temel iddiaları 5.03 ve 11.14 t
+istatistikleriyle destekleniyordu. … Hmmm, tekrar hesaplandığında
+değerler aslında 1.8 ve 3.3 çıkıyor. Yani iddiaların biri “istatistiksel
+olarak anlamlı” bile değil (Böylece, kurallara göre, yayımlanabilir
+değil).&lt;/p&gt;
+
+&lt;p&gt;Ama daha kötüsü de vardı. Rapor edilen bazı sayılar doğru olamazdı.
+Yazarların bazı hesapları yanlış yapmış olması muhtemel, mesela ara
+değerleri yanlış şekilde yuvarlamak gibi. Yuvarlama hatası büyük bir
+mesele değil gibi geliyor, ama yazarlara kendileriyle işbirliği yapmayan
+verilerden istedikleri sonuçları elde edebilmeleri için kullanışlı bir
+dizi “serbestlik derecesi” sunuyor.&lt;/p&gt;
+
+&lt;p&gt;Devamını ilgili bağlantıda bulabilirsiniz. Uzun lafın kısası, Cuddy,
+Norton ve Fiske veride bir sürü hata yapmışlar –ki bu çok kötü ama
+böyle şeyler olur– ve bu hatalar kendilerine gösterildiğinde herhangi
+bir şeyi yeniden değerlendirmeyi reddettiler. Mühim teorileri o kadar
+açık uçlu ki herhangi bir sonucu, herhangi bir yöndeki herhangi bir
+etkileşimi açıklayabiliyor.&lt;/p&gt;
+
+&lt;p&gt;İşte bu yüzden yazarların hataları düzeltmenin “makalenin çıkarımlarını
+değiştirmediğini” &lt;a href=&quot;https://pubpeer.com/publications/E043DD982C3CC7F4B2CB4980522684#fb51945&quot;&gt;iddia
+etmeleri&lt;/a&gt;
+hem çok saçma hem de tamamen doğru. Saçma, çünkü en kritik iddialarından
+biri tamamen istatistiksel olarak anlamlı bir p değerine dayanıyor ki o
+p değeri artık yok. Ama iddiaları doğru; çünkü “makalenin asıl çıkarımı”
+herhangi bir ayrıntıya bağlı değil. Oralarda bir yerlerde p değeri
+.05’ten küçük bir şeyler olsun yeter; çünkü yayımlayabilecekleri,
+reklamını yapabilecekleri iddialarını desteklemek için bu yeterli
+olacak. Konu “yaşlı stereotipinin yaygınlığı ve dayanıklılığı” olabilir
+ya da artık o gün ne yayımlamak isterlerse.&lt;/p&gt;
+
+&lt;p&gt;Yazarlar bu hataların hiçbiri önemli değil diye yırtındığında
+anlıyorsunuz ki zaten bu projelerde veri filan önemli değil.&lt;/p&gt;
+
+&lt;p&gt;Neden bu kadar ayrıntıya giriyorum? Yalnızca çamur mu atıyorum? Fiske
+bilim reformcularına saldırıyor, bilim reformcuları da Fiske’i yerden
+yere vuruyor? Hayır, amaç bu değil. Mesele, Fiske’in veri işleme
+hataları ya da dergi editörü olarak kötü muhakemesi değil, burada önemli
+olan şey onun ölü bir paradigma içinde çalışması. 1960’larda Meehl bu
+konularda yazdığında ölmüş olması gereken; ama Simonsohn, Button ve
+arkadaşları, Nosek ve arkadaşlarının ardından bugün kesinlikle ölü olan
+paradigma bu. Açık uçlu teorinin, başlıca dergilerde basılıp popüler ve
+ticari yayınlarda tanıtılmanın, araştırmacı serbestlik derecesiyle elde
+edilen “p .05’ten küçük” ifadesine dayanmanın paradigması bu. Sosyolog
+Jeremy Freese’in
+&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/&quot;&gt;sözleriyle&lt;/a&gt;
+“empirikten ziyade vampirik” –veriyle öldürülemeyen– teorinin
+paradigması bu. Başarısız tekrarlama çalışmalarının yanlış tarafında
+kalan ve bununla başa çıkamayan ünlü sosyal psikologlar &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/&quot;&gt;Roy
+Baumeister&lt;/a&gt;
+ve &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/02/12/priming-effects-replicate-just-fine-thanks/&quot;&gt;John
+Bargh&lt;/a&gt;‘ın
+izlediği paradigma bu.&lt;/p&gt;
+
+&lt;p&gt;Fiske’in hiçbir çalışması tekrarlanamaz demiyorum, çalışmalarının çoğu
+ya da üçte biri bile tekrarlanamaz da demiyorum. Hiçbir fikrim yok,
+incelemedim. Söylediğim şu: Fiske’in çalışmalarına yapılan eleştirilere
+yaklaşım tarzı on yıl önce psikolojide standarttı ancak artık değil.
+Yani, modern dünyaya dair rahatsızlığı anlaşılır.&lt;/p&gt;
+
+&lt;p&gt;Fiske’in iş arkadaşları ve eski öğrencileri de benzer bir araştırma
+tarzını benimsemiş görünüyorlar; esnek hipotezler,
+istatistiksel anlamlılıkla kanıtlama, eleştiriye karşı ciddiyetsiz
+tavır.&lt;/p&gt;
+
+&lt;p&gt;Şunu da vurgulayayım, evet, istatistikçilerin bu tartışmada yararlı bir rolü olabilir. Fiske vs. istatistik ve araştırma yöntemlerinden nefret ediyorlarsa, sorun değil; her seferinde işleyen şeffaf deneyler tasarlayabilirler. Ama, hayır, iddialarını gürültülü (İng. &lt;em&gt;noisy&lt;/em&gt;) veriden elde ettikleri p değerleriyle haklı çıkaranlar onlar, PPNAS’a gönderilen çalışmaları yeterince heyecan verici olmadıkları için reddedenler onlar, “p değeri .05’ten küçük” olan herhangi bir şeye (örneğin, kadınların oy tercihlerini ayın hangi gününde olduklarına göre yüzde yirmi oranında değiştirdikleri iddiası) inanıyor gibi görünenler onlar. Eğer oynamak istediğiniz oyun buysa, yöntem eleştirisi de tabii ki uygun.&lt;/p&gt;
+
+&lt;h1 id=&quot;nehir-tüm-gün-yükseldi-nehir-tüm-gece-yükseldi&quot;&gt;Nehir tüm gün yükseldi, nehir tüm gece yükseldi&lt;/h1&gt;
+
+&lt;p&gt;Hatalar kendilerini besler. Araştırmacının bir hatasını bir diğeri
+izleyebilir. Sayıları bir umursamaya görün, her şey olabilir. İşte
+çalışması sorgulanan bazı araştırmacılardan hakikaten korkunç bir
+&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/02/09/28905/#comment-262722&quot;&gt;örnek&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Çalışma 3’ün verisinde 8 kodlama hatasının keşfedilmesine ve
+çalışmanın makaleden geri çekilmesine rağmen, makalede gösterdiğim
+gibi, eleştirmenlerin öne sürdüğü argümanlar savunulamaz. … Çalışma
+3’te bulunan hatalara gelince, bulgularıma göre hedef kelime kökleri
+SUPP ve CE bulguları hiçbir şekilde etkilemiyor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hahaha, oldukça komik. Sonuçlar 8 kodlama hatasına karşı o kadar
+dayanıklı ki! Çalışma 3’ü geri çektikleri halde bir türlü boş
+verememeleri de ayrıca gülünç.
+&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/02/09/28905/#comment-263327&quot;&gt;Şuna&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;
+da bakın.&lt;/p&gt;
+
+&lt;p&gt;Bana bir de Richard Tol’un ünlü
+“&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/05/27/whole-fleet-gremlins-looking-carefully-richard-tols-twice-corrected-paper-economic-effects-climate-change/&quot;&gt;gremlinler&lt;/a&gt;”
+makalesi hatırlatıldı: Sonunda neredeyse veri noktası kadar hata
+düzeltmesi yapılmış durumdaydı (Şaka değil!) ama bütün bu düzeltmeler
+kendisinin çıkarımlarını değiştirmesi için yeterli olmadı. Sanki
+neredeyse çıkarımlarına önceden karar vermiş gibi. Şimdi bir dakika,
+bütünüyle teorik bir çalışma yapmakta sorun yok ama o zaman veriyle
+dikkatimizi dağıtmayın.&lt;/p&gt;
+
+&lt;h1 id=&quot;bazıları-selde-kayboldu&quot;&gt;Bazıları selde kayboldu&lt;/h1&gt;
+
+&lt;p&gt;Bakın, bunlar kötü insanlardır demiyorum. Bazı baştan savma işler yapmış
+olabilirler, ya da hatalar yapmışlardır; ama bunlar teknik ayrıntılar
+–en azından kendilerinin öyle düşündüğünü sanıyorum. Cuddy, Norton ve
+Fiske için şöyle bir geri çekilip belki de yıllardır yaptıkları her
+şeyin bir hata olduğunu düşünmek… Çok büyük bir adım olurdu. Doğrusu,
+muhtemelen böyle bir adım atmayacaklar. Tam tersi teşvik ediliyor.&lt;/p&gt;
+
+&lt;p&gt;Bu uzun paylaşımı yazmamın bahanesi olan makalede Fiske arkadaşlarının
+kariyerleri hakkındaki endişelerini dile getiriyor, araştırma
+hatalarının kamuya duyurulması sonucu zarar görebilecek kariyerleri.
+Şunu unutmayın, bu kişilerin her birine karşılık belki de dikkatli,
+ciddi çalışmalar yürüten; fakat en güzel işleri, terfileri alamayan;
+çünkü özensiz ama çarpıcı çalışmalar yapıp Psych Science ya da PPNAS’ta
+yayımlatan diğer adaylarla rekabet edemeyen üç tane genç araştırmacı
+vardır. Bu işin iki yüzü var.&lt;/p&gt;
+
+&lt;h1 id=&quot;bazıları-kurtuldu&quot;&gt;Bazıları kurtuldu&lt;/h1&gt;
+
+&lt;p&gt;Burada üzücü olan bir diğer şey de Fiske’in kendi ilkelerinden taviz vermesi gerektiğini hissetmesi. O, “filtresiz trash-talk’u”&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, “ölçüsüz saldırıları” ve “düşmanca hırçınlığı” kınıyor ve “editöryal denetim ve hakem değerlendirmesinin (İng. &lt;em&gt;peer review&lt;/em&gt;) önemini vurguluyor. Fiske’e göre eleştiriler, “çoğunlukla gizli ve yapıcı (hakem değerlendirmesi), ya da en azından ölçülü diyaloglar (özenli yorumlar ve çürütme yazıları) şeklinde” yapılmalı. Ve “bilimsel standartlar, etik normlar ve karşılıklı saygı”dan bahsediyor.&lt;/p&gt;
+
+&lt;p&gt;Ama Fiske, görüşlerini düşüncesiz saldırılarla moderasyonsuz bir forumda hakem değerlendirmesi veya yorum veya çürütme yazısı yazma fırsatı olmadan ifade ediyor; bu sırada isimsiz düşmanlarından “yöntem teröristleri” diye söz ediyor. Bana filtresiz trash-talk gibi geldi. Ama şunu da ekleyeyim, Fiske’i basketbol sahasında görmedim, yani &lt;em&gt;gerçekten&lt;/em&gt; trash-talk yaparken nasıl olduğu konusunda hiçbir fikrim
+yok.&lt;/p&gt;
+
+&lt;p&gt;Bunu “yakalandın” havasında gündeme getirmiyorum; aksine, Fiske’in ne
+kadar zor bir durumda olduğunu vurgulamak istiyorum. Kişisel dünyasının
+yıkıldığını görüyor (kişisel düzeyde değil, sanıyorum Princeton
+Üniversitesi’nde Eugene Higgins psikoloji profesörü ve halkla ilişkiler
+profesörü unvanlarını kendi istediği sürece koruyacaktır) ama
+kendisinin, arkadaşlarının ve meslektaşlarının çalışmaları on yıl
+öncesinde kimsenin hayal bile edemeyeceği şekilde sorgulanıyor. Bu
+korkutucu, ve isimsiz “teröristler”i suçlamak araştırma yöntemlerine
+dair anlayışındaki eksiklikleri sorgulamaktan daha kolay geliyor olmalı.&lt;/p&gt;
+
+&lt;p&gt;Başka şekilde ifade edelim, Fiske, arkadaşları ve öğrencileri
+kendilerine şöhret, şans ve övgü getiren bir yolu izledi. O yolu
+sorgularsan o yoldan geçen herkesin meşruiyetini de sorgularsın. Ve bu
+da hoş olacak değil.&lt;/p&gt;
+
+&lt;h1 id=&quot;nehir-plaqueminese-kadar-her-şeyi-dümdüz-etti&quot;&gt;Nehir Plaquemines’e kadar her şeyi dümdüz etti&lt;/h1&gt;
+
+&lt;p&gt;Fiske sosyal medyadan rahatsız ve bunu anlayabilirim. Kendisi geleneksel medyanın tepesinde oturuyor. APS Observer’da bir makale yayımlayıp hakem değerlendirmesinden geçmesi gerekmeden bütün bu tartışmalara dahil olabilir, prestijli Proceedings of the National Academy of Sciences dergisine makale kabul etme gücü var; kendisinin ve iş arkadaşlarının çalışmaları ulusal gazeteler, TV, radyo ve hatta Ted konuşmalarında yer buluyor, duyduğum kadarıyla. Geleneksel (İng. &lt;em&gt;top-down&lt;/em&gt;) medya Susan Fiske’in dostu. Sosyal medya, diğer yandan, kontrol sahibi olmadığı bir alan. Bu durum moral bozucu olmalı ve geleneksel medyanın başarılı bir kullanıcısı olarak ben de (Evet, ben de akademik dergilerde yayın yaptım.) yeni gelenler geleneksel yayın kanallarını gözardı ettiklerinde rahatsız olabiliyorum. Fiske ve ben gibi kişiler profesyonel yaşamlarımızı yayın ve atıf biçimindeki paralardan birer servet oluşturarak harcadık. Şimdi bu paraların değerini kaybettiğini görmek ya da eski usul parayla satın alınamayan şeyleri alabilen yeni bir para biriminin dolaşımda olduğunu düşünmek acı verici.&lt;/p&gt;
+
+&lt;p&gt;Fakat bir an kariyerleri unutup bilimi konuşalım.&lt;/p&gt;
+
+&lt;p&gt;Sosyal medya, yayımlanan çalışmalardaki hatalara işaret etmek söz konusu
+olduğunda &lt;em&gt;gerekli&lt;/em&gt;. Başka alternatif yok. Evet, bazen dergilerde basılı çalışmaları eleştiren hakem değerlendirmeli mektuplar yayımlamak mümkün ama bu da aşırı miktarda çaba gerektirebiliyor. Dergiler ve yazarlar genellikle eleştirileri gizlemek için büyük bir direnç gösteriyorlar.&lt;/p&gt;
+
+&lt;p&gt;Ayrıca
+&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/11/22/blogs-twitter/#comment-252332&quot;&gt;şu&lt;/a&gt;
+tartışma da biraz ilişkili:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dergi makalelerine kıyasla blogların neyini seviyorum? Öncelikle blog alanı sınırsız, dergi alanı sınırlı; özellikle Science, Nature, PPNAS gibi yüksek profilli, çok tanınan dergilerde. İkincisi, bloglarda şüphe ifade etmekte sorun yok; ancak dergilerde kesinlik bir normdur. Ben bloğumda yaş düzeltmesi hakkında birçok fikri tartışabilirken Case ve Deaton’ın sayılarında “45-54 yaş grubunda düzeltme yapılmadığı” dışında söyleyecek bir şeyleri yoktu. Bu kadar! Case ve Deaton’ı bu kadar kısa ve öz konuştukları için suçlamıyorum; derginin şartlarına uyuyorlardı, bu da en az düzeyde açıklama, en az düzeyde keşif yapmak demek. … dergi makalelerinde ya da dergi makalesinin ardından basın ile mülakatlarda tekrar tekrar veriyi keşfetmenin ya da şüphe ifade etmenin caydırıldığını görüyoruz. … PPNAS gibi hakem değerlendirmeli dergilerin normu, çalışmaları bir kesinlik maskesiyle sunmak.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tekrar edecek olursak, burada amaç iyi bilim yapmak. Hatalar
+işaretlenmediğinde ve siz her zaman haklıymış gibi, gördüğünüz her veri
+örüntüsü teorinizle tutarlıymış gibi davrandığınızda iyi bilim yapmak
+zor. Bu, orijinal çalışmanın sahibi, yıllarca güvenilirliğini çoktan
+kaybetmiş ipuçlarının peşinden koşan yazarlar için bir sorun; bu, hatalı
+çalışmaların devamını getiren araştırmacılar için bir sorun; titiz
+çalışmalar yürütmek isteyen ama çarpıcı, özensiz uygulamalarla
+“Psychological Science”ta (dergi olan, bilimsel alan değil) gürültü
+madenciliği&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; yapan yazarlarla dolu yayın çevrelerinde rekabet etmekte
+zorlanan araştırmacılar için bir sorun.&lt;/p&gt;
+
+&lt;p&gt;Hata yapmakta sorun yok. Ben de sonradan geri çekmek zorunda kaldığım
+bir çalışma yayımladım, bu yüzden başkalarını özensiz veri analizi ve
+mantık hataları yapmakla suçlayacak bir pozisyonda sayılmam. Ve biri
+hatalarıma işaret ettiğinde onlara teşekkür ederim. Düzeltmeleri “şahsi çamur atma taktikleri” diye etiketlemem; aksine, çalışmalarımı
+geliştirmek için bu türden davetsiz serbest eleştirilerden faydalanırım.
+(&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2009/05/11/discussion_and/&quot;&gt;Burada&lt;/a&gt;
+tam bilgi sahibi olmadan ve biraz da kabaca yapılan ama yine de değerli
+bir eleştiriye cevaben araştırmamda düzeltme yaptığım bir örneği
+bulabilirsiniz.) Susan Fiske’e de aynısını yapmasını öneririm.&lt;/p&gt;
+
+&lt;h1 id=&quot;evangeline-caddesinde-2-metre-su-1&quot;&gt;Evangeline Caddesi’nde 2 metre su&lt;/h1&gt;
+
+&lt;p&gt;Bana göre Fiske’in notunun en üzücü kısmı şurası: “Psikoloji bilimi
+işbirliği yoluyla çok şey başardı, ama aynı zamanda yapıcı muhalifliğe
+yanıt vererek de …”. Fiske, “yapıcı” olmayı vurguluyor, güzel. Neyin
+yapıcı olduğu konusunda farklı tanımlarımız olabilir ama umarım basılı
+çalışmalardaki hatalara işaret etmenin ve tekrar çalışmaları yürütmenin
+yapıcı olduğu konusunda anlaşabiliriz.&lt;/p&gt;
+
+&lt;p&gt;Beni üzen şey Fiske’in eleştirileri “muhalefet” olarak nitelemesi. Ben
+psikoloji bilimine muhalif değilim! Düşük kalitedeki psikoloji bilimine
+bile muhalif değilim: Sıklıkla hatalarımız sayesinde öğreniriz,
+hakikaten, önce çeşitli hatalar yapmadan bir şeyleri öğrenemiyoruz gibi
+görünüyor. Muhalifi olduğum şey ise insanların hatalarını kabul etmemesi
+ve hataları işaret edildiğinde ısrarla sırtlarını dönmeleri.&lt;/p&gt;
+
+&lt;p&gt;Eğer Kanazawa Kanazawa’lığını yaptıysa ve güç pozu tayfası güç pozu
+şeyini yaptılarsa vesaire vesaire; iyi, derim, bunların denemeye değer
+olduğunu görebiliyorum. Ama istatistiksel analiz bu araştırmanın
+imkansız olduğunu gösterirse ya da başarısız tekrar çalışmaları
+yayımlanmış sonuçların hatalı olduğunu gösterirse, ben de sizden tabii
+ki yolunuza devam etmenizi bekleyeceğim, aynı şeyi tekrar tekrar yapıp
+başından beri haklı olduğunuzda ısrar etmenizi değil. Çünkü bu bilim
+falan değil. Ya da şöyle demeliyim, araştırmacı bireylerin hatalarını
+kabul etmeyi reddettikleri için kariyerlerini çıkmaz sokaklara
+adamaları, bilim yapmanın oldukça verimsiz bir yoludur.&lt;/p&gt;
+
+&lt;p&gt;Hatalarımızdan öğreniriz; ama yalnızca onların hata olduğunu kabul edersek. Hata ayıklama (İng. &lt;em&gt;debug&lt;/em&gt;) işbirliğiyle gerçekleşen bir süreçtir. Eğer bir kod yazarsan ve ben onda bir hata bulursam, bu beni muhalif yapmaz, iş ortağı yapar. Eğer hatalarını düzeltmekten kaçınmak için beni muhalif diye resmedersen, bu senin sorunun.&lt;/p&gt;
+
+&lt;h1 id=&quot;bizi-yıkıp-geçmeye-çalışıyorlar-bizi-yıkıp-geçmeye-çalışıyorlar&quot;&gt;Bizi yıkıp geçmeye çalışıyorlar, bizi yıkıp geçmeye çalışıyorlar&lt;/h1&gt;
+
+&lt;p&gt;Fiske ile olan kritik bir anlaşmazlığımızı belirterek kapatayım. O,
+eleştirinin gizli olarak yapıldığı moderasyonlu forumları tercih ediyor.
+Ben açık tartışmayı. Kişisel olarak Twitter’ın hayranı sayılmam; alan
+sınırlaması aceleci, sıklıkla düşmanca diyaloglara teşvik ediyor.
+Blogları, blog yorumlarını seviyorum, çünkü kendimizi tamamen
+açıklayabilmek ve tartışmalarımıza yönelik tam atıflar yapabilmek için
+&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/11/22/blogs-twitter/&quot;&gt;yeterli
+alanımız&lt;/a&gt;
+var.&lt;/p&gt;
+
+&lt;p&gt;Bu yüzden bunu bloğumda paylaşıyorum, herkesin yanıt verme fırsatı var.
+Evet doğru, &lt;em&gt;herkesin&lt;/em&gt;. Susan Fiske yanıt verebilir, başkaları da. Psikoloji bilimiyle ilgilenen ancak APS Observer’da hakem değerlendirmeli olmayan makaleler yazma şansı olmayanlar, büyük üniversitelerde kadrolu profesör olmayanlar vs. dahil. Bu bir açık tartışma, terörizmin tam tersi. Ve bu kadar bariz bir şeyi söylemek zorunda kalmam bence epey komik.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Not.&lt;/strong&gt; &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/09/22/why-is-the-scientific-replication-crisis-centered-on-psychology/&quot;&gt;Dahası
+burada&lt;/a&gt;:
+Neden bilimsel tekrarlama krizinin merkezinde psikoloji var?&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Yazının başlıkları Randy Newman’ın Louisiana 1927 şarkısının dizeleridir. Şarkı, 1927 yılında Mississippi Nehri’nin taşması sonucu yaşanan ABD tarihinin en büyük sel felaketini anlatmaktadır. Şair burada 2011 yılında başlayan tekrarlama krizini psikoloji biliminin büyük sel felaketi olarak niteliyor. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Fiske’in yazısının Türkçe çevirisini sitemizden okuyabilirsiniz. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Paylaşılan bağlantıda söz konusu çalışmanın bir diğer yazarının çalışmadaki hatayı kabul ettiğini ve o çalışmadan çıkarılacak sonuçların güvenilir olmadığını belirttiğini görüyoruz. Hatalarını kabul edebilenler de olduğunu göstermek için not düşmek istedim. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Trash-talk basketbol sahalarında gerçekleşen, rakibi tahrik etmeye yönelik hakaretamiz üslupla yapılan konuşmalara verilen isimdir. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Noise mining. Veriyi didik didik ederek varyansın şu ya da bu kadarını açıklayacak faktörler peşinde koşmak anlamında kullanıyor. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Cavit Deniz Pala</name></author><category term="çeviri" /><category term="tekrarlama-krizi" /><summary type="html">Bu yazı Andrew Gelman’ın kişisel bloğunda yayımladığı “What has happened down here is the winds have changed1” başlıklı yazının çevirisidir. Yazının orijinaline şu bağlantıdan ulaşabilirsiniz: https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/ Yazının başlıkları Randy Newman’ın Louisiana 1927 şarkısının dizeleridir. Şarkı, 1927 yılında Mississippi Nehri’nin taşması sonucu yaşanan ABD tarihinin en büyük sel felaketini anlatmaktadır. Şair burada 2011 yılında başlayan tekrarlama krizini psikoloji biliminin büyük sel felaketi olarak niteliyor. &amp;#8617;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/deniz1.png" /></entry><entry><title type="html">Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title><link href="http://localhost:4000/originals/replication/kutlu1.html" rel="alternate" type="text/html" title="Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi" /><published>2020-02-25T00:00:00+03:00</published><updated>2020-02-25T00:00:00+03:00</updated><id>http://localhost:4000/originals/replication/kutlu1</id><content type="html" xml:base="http://localhost:4000/originals/replication/kutlu1.html">&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (İng. &lt;em&gt;replication crisis&lt;/em&gt;) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
 
 &lt;p&gt;Hans Eysenck’in 1990’lı yıllarda yaptığı, kişilik ve sağlık davranışları
 ilgili çalışmaları bugün ciddi bir inceleme altında. İncelemeler 26
@@ -313,24 +1003,7 @@ bekleme sırasında duran ve yine depresyon tanısı olan kişilerin aynı
 davranışçı terapinin depresyon tanısı alan kişiler için etkili bir
 tedavi imkanı sağladığı çıkarsaması yapılabilecektir.&lt;/p&gt;
 
-&lt;p&gt;Ne yazık ki pek çok araştırmacı, psikoterapi etkililik çalışmaları
-alanyazınının önkayıt&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; açısından sorunlu (Pinto ve ark., 2013),
-örneklem sayısı az (Coyne ve Kok, 2014), istatistiksel gücü düşük
-(Sakaluk, Williams, Kilshaw ve Rhyner, 2019), yöntemsel sorunlar içeren
-(Coyne ve Kok, 2014), araştırmacıların araştırdıkları terapiye
-bağlılıklarının olduğu (Munder, Bruetsch, Leonhart, Gerger ve Barth,
-2013), verilerin analizinin esnek bir şekilde gerçekleştiği (Tackett ve
-ark., 2017), çalışmayı bırakan kişilerin de veri analizine dahil
-edildiği (Cuijpers ve Criste, 2016) ve olumlu sonuç veren değişkenlerin
-seçici olarak rapor edildiği (Hengartner, 2018) çalışmalardan oluştuğunu
-belirtmektedir. Tüm bu tartışmalı araştırma pratiklerinin, çalışmaların
-etki büyüklüklerini olduğundan daha yüksek gösterdiği bilinmektedir.
-Örneğin bir psikoterapi yöntemini geliştiren, psikoterapi yöntemi
-açısından önemli kabul edilen ya da kendini bu psikoterapi yöntemine
-adamış birisini etkililik çalışmasına araştırmacı olarak dahil ederseniz
-daha yüksek bir etki büyüklüğüne ulaşabilirsiniz. Araştırmacılar bu
-garip durumu “bağlılık yanlılığı” olarak adlandırıyorlar (Cuijpers ve
-Criste, 2016; Munder ve ark., 2013).&lt;/p&gt;
+&lt;p&gt;Ne yazık ki pek çok araştırmacı, psikoterapi etkililik çalışmaları alanyazınının ön kayıt[^2] açısından sorunlu (Pinto ve ark., 2013), örneklem sayısı az (Coyne ve Kok, 2014), istatistiksel gücü düşük (Sakaluk, Williams, Kilshaw ve Rhyner, 2019), yöntemsel sorunlar içeren (Coyne ve Kok, 2014), araştırmacıların araştırdıkları terapiye bağlılıklarının olduğu (Munder, Bruetsch, Leonhart, Gerger ve Barth, 2013), verilerin analizinin esnek bir şekilde gerçekleştiği (Tackett ve ark., 2017), çalışmayı bırakan kişilerin de veri analizine dahil edildiği (Cuijpers ve Criste, 2016) ve olumlu sonuç veren değişkenlerin seçici olarak rapor edildiği (Hengartner, 2018) çalışmalardan oluştuğunu belirtmektedir. Tüm bu tartışmalı araştırma pratiklerinin, çalışmaların etki büyüklüklerini olduğundan daha yüksek gösterdiği bilinmektedir. Örneğin bir psikoterapi yöntemini geliştiren, psikoterapi yöntemi açısından önemli kabul edilen ya da kendini bu psikoterapi yöntemine adamış birisini etkililik çalışmasına araştırmacı olarak dahil ederseniz daha yüksek bir etki büyüklüğüne ulaşabilirsiniz. Araştırmacılar bu garip durumu “bağlılık yanlılığı” olarak adlandırıyorlar (Cuijpers ve Criste, 2016; Munder ve ark., 2013).&lt;/p&gt;
 
 &lt;p&gt;Amerikan Psikoloji Derneği’nin (APD) 12. dairesi olan Klinik Psikoloji
 Topluluğu, bir psikoterapinin etkililiğini Chambles ve Hollon’un 1998’de
@@ -363,32 +1036,7 @@ olduğu ibaresi yer almaktadır). Şimdi isterseniz APD tarafından ampirik
 olarak desteklenmiş kabul edilen çalışmaların tekrarlama krizi
 bağlamında değerlendirildiği başka bir çalışmanın sonuçlarına bakalım.&lt;/p&gt;
 
-&lt;p&gt;Sakaluk ve arkadaşları (2019), APD’nin internet sitesinde ampirik olarak
-desteklendiği belirtilen 79 psikoterapi yöntemini yanlış raporlanma
-oranları, tahmini istatistiksel güçleri, tekrarlama indeksleri ve Bayes
-faktörleri (p değeri sonuçlarına alternatif bir değerlendirme yöntemi)
-açısından analiz ediyorlar. Sonuçlar çok şaşırtıcı olmayarak, ampirik
-olarak desteklenmiş olduğu belirtilen tedavilerin 4 farklı değerlendirme
-değeri açısından, homojen olmayan bir dağılım gösterdiğini ortaya
-çıkarıyor. Çalışmaların ortalama istatistiksel güç değeri, tavsiye
-edilen .80 standartının (Cohen, 1992) altında kalarak .58 (SD = .21)
-olarak bulunurken ortalama tekrarlama indeksi .52 (SD = .24) olarak
-bulunuyor. Bu çalışmanın en önemli bulgusu ise APD’nin güçlü ampirik
-desteği olduğunu belirttiği pek çok psikoterapi yönteminin bile, güncel
-standartlar açısından problemli çalışmalar ile destekleniyor
-olduklarıydı. Örneğin, etkililikleri güçlü bir şekilde desteklenmiş
-sınıfında olan depresyon için bilişsel terapi çalışmalarının ulaştığı
-ortalama istatistiksel güç .62 iken, obsesif kompülsif bozukluk için
-maruz bırakma ve tepki önleme müdahalelerinin ulaştığı ortalama
-istatistiksel güç .57’idi. Düşük istatistiksel gücü olan bir çalışma,
-gerçekte olan bir etkiyi bulmak yerine aslında olmayan bir etkiyi varmış
-gibi gösteren bir sonuç çıkartabilir. Yani istatistiksel olarak anlamlı
-bulunan bu sonuç, tip 1 hatadan&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; dolayı anlamlıymış gibi gözüküyor
-olabilir. Düşük istatistiksel gücün diğer bir olumsuz sonucu ise hatalı
-sonucun ortaya gerçekte olandan çok daha büyük bir etki büyüklüğü
-çıkarmasıdır. Bunlar psikolojinin her alanında olduğu gibi psikoterapi
-etkililik çalışmaları için de geçerli olan ciddi ve problematik
-durumlardır.&lt;/p&gt;
+&lt;p&gt;Sakaluk ve arkadaşları (2019), APD’nin internet sitesinde ampirik olarak desteklendiği belirtilen 79 psikoterapi yöntemini yanlış raporlanma oranları, tahmini istatistiksel güçleri, tekrarlama indeksleri ve Bayes faktörleri (p değeri sonuçlarına alternatif bir değerlendirme yöntemi) açısından analiz ediyorlar. Sonuçlar çok şaşırtıcı olmayarak, ampirik olarak desteklenmiş olduğu belirtilen tedavilerin 4 farklı değerlendirme değeri açısından, homojen olmayan bir dağılım gösterdiğini ortaya çıkarıyor. Çalışmaların ortalama istatistiksel güç değeri, tavsiye edilen .80 standartının (Cohen, 1992) altında kalarak .58 (SD = .21) olarak bulunurken ortalama tekrarlama indeksi .52 (SD = .24) olarak bulunuyor. Bu çalışmanın en önemli bulgusu ise APD’nin güçlü ampirik desteği olduğunu belirttiği pek çok psikoterapi yönteminin bile, güncel standartlar açısından problemli çalışmalar ile destekleniyor olduklarıydı. Örneğin, etkililikleri güçlü bir şekilde desteklenmiş sınıfında olan depresyon için bilişsel terapi çalışmalarının ulaştığı ortalama istatistiksel güç .62 iken, obsesif kompülsif bozukluk için maruz bırakma ve tepki önleme müdahalelerinin ulaştığı ortalama istatistiksel güç .57’idi. Düşük istatistiksel gücü olan bir çalışma, gerçekte olan bir etkiyi bulmak yerine aslında olmayan bir etkiyi varmış gibi gösteren bir sonuç çıkartabilir. Yani istatistiksel olarak anlamlı bulunan bu sonuç, tip I hatadan[^3] dolayı anlamlıymış gibi gözüküyor olabilir. Düşük istatistiksel gücün diğer bir olumsuz sonucu ise hatalı sonucun ortaya gerçekte olandan çok daha büyük bir etki büyüklüğü çıkarmasıdır. Bunlar psikolojinin her alanında olduğu gibi psikoterapi etkililik çalışmaları için de geçerli olan ciddi ve problematik durumlardır.&lt;/p&gt;
 
 &lt;h2 id=&quot;meta-analizler-ne-kadar-güvenilir&quot;&gt;Meta-Analizler Ne Kadar Güvenilir?&lt;/h2&gt;
 
@@ -434,7 +1082,7 @@ olduğundan çok daha yüksek gözükmesine neden oluyor. Meta-analiz
 tedavi yöntemi olup olmadığını belirlemeye çalıştılar. İncelikli bir
 taramadan sonra şartlara uyan 149 makaleyi dahil ettikleri meta-analizin
 sonucunda, psikoterapinin depresyon üzerindeki etkisini gösteren
-çalışmaların etki büyüklüğünün d = .55&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; ve ortalama istatistiksel
+çalışmaların etki büyüklüğünün d = .55[^4] ve ortalama istatistiksel
 gücün .49 olduğunu buldular. Sadece bilişsel davranışçı terapileri
 içeren 92 çalışmanın etki büyüklüğü ise d = .58 olarak bulunmuştu. İki
 durumda da bulunan etki büyüklüğünün, ortalama etki seviyesini sadece
@@ -473,7 +1121,7 @@ grubu olarak alternatif aktif bir tedavi alan kişilerin yerine bekleme
 listesindeki katılımcıların kullanılmış olmasıydı. Bu durum çalışmalarda
 daha yüksek seviyede etki büyüklüğü çıkmasının sebeplerinden bir tanesi
 olarak görülmektedir (Coyne ve Kok, 2014). Çünkü bekleme listesinde
-olmak ya da hiçbir aktif tedavi almamak nocebo etkisi&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; sebebiyle
+olmak ya da hiçbir aktif tedavi almamak nocebo etkisi[^5] sebebiyle
 ekstra olumsuz sonuçlara neden olabilmekte ve kontrol grubunun ortalama
 sonuç puanlarını düşük tutabilmektedir (Furukawa ve ark., 2014).
 Çalışmalardan sadece %17.4’ü yüksek kaliteli sayılabilecek seviyedeydi.
@@ -495,7 +1143,7 @@ psikoterapilerin daha etkili olduğu.&lt;/p&gt;
 çok daha ilginç. Depresyon tedavisinde psikoterapinin placebo haplara
 kıyasla gösterdiği etki büyüklüğü sadece g = .25 kadar. Eğer placebo hap
 yerine psikoterapi alırsanız, Hamilton Depresyon Derecelendirme
-Ölçeğinden ortalama 2.66 puan&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; daha düşük skor alıyorsunuz.
+Ölçeğinden ortalama 2.66 puan[^6] daha düşük skor alıyorsunuz.
 Anti-depresan tedavisinin depresyon üzerindeki etki gücü ise .30 olarak
 bulunmuş (Khan ve Brown, 2015). Ancak bu sonuçları yorumlarken dikkat
 edilmesi gereken bir nokta var. Sugarman (2016) anti-depresan etkililik
@@ -535,29 +1183,7 @@ belirtiyorlar.&lt;/p&gt;
 
 &lt;h2 id=&quot;tüm-bu-sonuçları-nasıl-özetleyebiliriz&quot;&gt;Tüm bu sonuçları nasıl özetleyebiliriz?&lt;/h2&gt;
 
-&lt;p&gt;Öncelikle psikoterapilerin düşünüldüğü kadar etkili bir tedavi yöntemi
-olmayabileceğini net bir şekilde görüyoruz. Psikoterapi çalışmalarının
-etki büyüklüğü, psikoterapinin kendi etkililiği dışındaki pek çok
-karıştırıcı faktörden ciddi oranda etkileniyor. Geçmişte yapılan düşük
-katılımcı sayısına sahip ve özensiz araştırma dizaynları içeren
-psikoterapi etkililik çalışmaları ve bu çalışmaların dahil edilmesi ile
-yapılan meta-analizler, psikoterapilerin etki büyüklüğünün olduğundan
-çok daha yüksek gözükmesine sebep olmuştu (Johnsen ve Friborg; 2015;
-Friborg ve Johnsen, 2017). Bunlara ek olarak yüksek katılımcılı ve
-kaliteli çalışmaları içeren meta-analizler bile yayın ya da raporlama
-yanlılığı gibi faktörlerden dolayı gerçekte olduğundan daha yüksek etki
-büyüklükleri hesaplıyorlardı. Psikoterapilerin etkililiğini gösteren
-çalışmaların tekrar edilebilirlik açısından düşük istatistiksel güce
-sahip olduklarını ve bir kısmının sonuçlarının tip 1 hata sebebiyle
-olumlu çıkıyor olabileceğini de artık daha net olarak görebiliyoruz.
-Yine de unutmamamız gerekiyor ki psikoterapi gibi kompleks bir sürecin
-nicel olarak değerlendirilmeye çalışılması, psikoterapinin etkililiğini
-gösteren bazı değişkenlerin sayılara çevrilirken nitel anlamda önemli
-kayıplar yaşamasına neden oluyor olabilir. Ayrıca psikoterapi
-çalışmalarının etkililiklerinin sadece semptom bazında ölçülmesinin
-anlamsız olabileceği ve hayat kalitesi, işlevsellik ve hayat anlamı
-kazanma gibi değişkenlerin de ölçüm kriterlerine dahil edilmesi
-gerektiğine yönelik eleştiriler de var.&lt;/p&gt;
+&lt;p&gt;Öncelikle psikoterapilerin düşünüldüğü kadar etkili bir tedavi yöntemi olmayabileceğini net bir şekilde görüyoruz. Psikoterapi çalışmalarının etki büyüklüğü, psikoterapinin kendi etkililiği dışındaki pek çok karıştırıcı faktörden ciddi oranda etkileniyor. Geçmişte yapılan düşük katılımcı sayısına sahip ve özensiz araştırma dizaynları içeren psikoterapi etkililik çalışmaları ve bu çalışmaların dahil edilmesi ile yapılan meta-analizler, psikoterapilerin etki büyüklüğünün olduğundan çok daha yüksek gözükmesine sebep olmuştu (Johnsen ve Friborg; 2015; Friborg ve Johnsen, 2017). Bunlara ek olarak yüksek katılımcılı ve kaliteli çalışmaları içeren meta-analizler bile yayın ya da raporlama yanlılığı gibi faktörlerden dolayı gerçekte olduğundan daha yüksek etki büyüklükleri hesaplıyorlardı. Psikoterapilerin etkililiğini gösteren çalışmaların tekrar edilebilirlik açısından düşük istatistiksel güce sahip olduklarını ve bir kısmının sonuçlarının tip I hata sebebiyle olumlu çıkıyor olabileceğini de artık daha net olarak görebiliyoruz. Yine de unutmamamız gerekiyor ki psikoterapi gibi kompleks bir sürecin nicel olarak değerlendirilmeye çalışılması, psikoterapinin etkililiğini gösteren bazı değişkenlerin sayılara çevrilirken nitel anlamda önemli kayıplar yaşamasına neden oluyor olabilir. Ayrıca psikoterapi çalışmalarının etkililiklerinin sadece semptom bazında ölçülmesinin anlamsız olabileceği ve hayat kalitesi, işlevsellik ve hayat anlamı kazanma gibi değişkenlerin de ölçüm kriterlerine dahil edilmesi gerektiğine yönelik eleştiriler de var.&lt;/p&gt;
 
 &lt;p&gt;Farklı terapi yöntemleri açısından bir değerlendirme yaparsak, bilişsel
 davranışçı terapiye yönelik yapılan çalışmaların diğer terapi
@@ -668,7 +1294,7 @@ psychotherapy for depression: a meta-analysis. Clinical psychology
 review, 30(1), 25-36.&lt;/p&gt;
 
 &lt;p&gt;Driessen, E., Hegelmaier, L. M., Abbass, A. A., Barber, J. P., Dekker,
-J. J., Van, H. L., ... &amp;amp; Cuijpers, P. (2015). The efficacy of
+J. J., Van, H. L., … &amp;amp; Cuijpers, P. (2015). The efficacy of
 short-term psychodynamic psychotherapy for depression: A meta-analysis
 update. Clinical psychology review, 42, 1-15.&lt;/p&gt;
 
@@ -691,7 +1317,7 @@ cognitive–behavioral therapy as an antidepressive treatment is falling:
 Reply to Ljòtsson et al.(2017) and Cristea et al.(2017).&lt;/p&gt;
 
 &lt;p&gt;Furukawa, T. A., Noma, H., Caldwell, D. M., Honyashiki, M., Shinohara,
-K., Imai, H., ... &amp;amp; Churchill, R. (2014). Waiting list may be a nocebo
+K., Imai, H., … &amp;amp; Churchill, R. (2014). Waiting list may be a nocebo
 condition in psychotherapy trials: A contribution from network
 meta‐analysis. &lt;em&gt;Acta Psychiatrica Scandinavica&lt;/em&gt;, &lt;em&gt;130&lt;/em&gt;(3), 181-192.&lt;/p&gt;
 
@@ -738,7 +1364,7 @@ for depression: a reanalysis of a network meta-analysis. &lt;em&gt;BMJ open&lt;/
 &lt;em&gt;9&lt;/em&gt;(6), e024886.&lt;/p&gt;
 
 &lt;p&gt;Pinto, R. Z., Elkins, M. R., Moseley, A. M., Sherrington, C., Herbert,
-R. D., Maher, C. G., ... &amp;amp; Ferreira, M. L. (2013). Many randomized
+R. D., Maher, C. G., … &amp;amp; Ferreira, M. L. (2013). Many randomized
 trials of physical therapy interventions are not adequately registered:
 a survey of 200 published trials. &lt;em&gt;Physical therapy&lt;/em&gt;, &lt;em&gt;93&lt;/em&gt;(3), 299-309.&lt;/p&gt;
 
@@ -762,7 +1388,7 @@ effective in treating depression? A critical commentary. Journal of
 Mental Health, 25(6), 475–478. doi: 10.3109/09638237.2016.1139071&lt;/p&gt;
 
 &lt;p&gt;Tackett, J. L., Lilienfeld, S. O., Patrick, C. J., Johnson, S. L.,
-Krueger, R. F., Miller, J. D., ... &amp;amp; Shrout, P. E. (2017). It’s time to
+Krueger, R. F., Miller, J. D., … &amp;amp; Shrout, P. E. (2017). It’s time to
 broaden the replicability conversation: Thoughts for and from clinical
 psychological science. &lt;em&gt;Perspectives on Psychological Science&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(5),
 742-756.&lt;/p&gt;
@@ -784,776 +1410,19 @@ review, 30(6), 710-720.&lt;/p&gt;
 (2015). Empirically supported treatment: Recommendations for a new
 model. &lt;em&gt;Clinical Psychology: Science and Practice&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(4), 317-338.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif
+&lt;p&gt;[^1]: Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif
 kompulsif bozukluk gibi psikopatolojileri sınıflandırmak için
-kullanılan bir ifade. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Ön-kayıt (pre-registration): Yapılacak çalışmanın yürütme, veri
-toplama ve analiz süreçlerinin önceden belirlenip açık şekilde kayıt
-altına alınması. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Tip 1 hata: Yanlış pozitif. Analizin gerçekte olmayan bir etkiyi
-varmış gibi göstermesi. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Etki büyüklüğü açısından: düşük etki .20, ortalama etki .50, güçlü
-etki .80 (Lakens, 2013). &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;Nocebo etkisi: Placebo etkisinin tersine beklentini olumsuz sonuç
-doğurması &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;Hamilton Depresyon Değerlendirme Ölçeği için minimum skor: 0,
-maksimum skor: 52. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Kutlu Kağan Türkaslan</name></author><category term="originals" /><category term="replication" /><summary type="html">Son on yıldır psikoloji bilimi genel bir tekrarlama krizi ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik1 rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti. Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif &amp;#8617;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/kutlu1.jpg" /></entry><entry><title type="html">Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]</title><link href="http://localhost:4000/translation/replication/deniz1.html" rel="alternate" type="text/html" title="Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]" /><published>2020-03-08T00:00:00+03:00</published><updated>2020-03-08T00:00:00+03:00</updated><id>http://localhost:4000/translation/replication/deniz1</id><content type="html" xml:base="http://localhost:4000/translation/replication/deniz1.html">&lt;p&gt;Bu yazı Andrew Gelman’ın kişisel bloğunda yayımladığı “What has
-happened down here is the winds have changed&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;” başlıklı yazının
-çevirisidir. Yazının orijinaline şu bağlantıdan ulaşabilirsiniz:
-&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/%20&quot;&gt;https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/&lt;/a&gt;&lt;/p&gt;
+kullanılan bir ifade.&lt;/p&gt;
 
-&lt;p&gt;Gelman bu yazısında psikoloji alanındaki tekrarlama krizine ve yöntemsel
-tartışmalara dair kapsamlı bir özet yapıyor ve kendi görüşlerini
-paylaşıyor. Yazı, aynı zamanda şeffaf ve açık bilim aktivistlerine
-yönelik eleştirilerde bulunan Susan Fiske’e bir yanıt niteliğinde. Bu
-yazının tekrarlama krizi ve açık bilim tartışmalarına giriş niteliğinde,
-iyi bir başlangıç okuması olacağını düşünerek Türkçeye çevirdik. Bazı
-makale isimleri, terimler ve özel isimlerin orijinallerini ya da Türkçe
-karşılıklarını metinde köşeli parantez içinde belirttik. İyi okumalar.&lt;/p&gt;
+&lt;p&gt;[^2]: Ön kayıt (pre-registration): Yapılacak çalışmanın yürütme, veri toplama ve analiz süreçlerinin önceden belirlenip açık şekilde kayıt altına alınması.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;[^3]: Tip I hata: Yanlış pozitif. Analizin gerçekte olmayan bir etkiyi varmış gibi göstermesi.&lt;/p&gt;
 
-&lt;p&gt;Biri bana Susan Fiske’in &lt;a href=&quot;https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf&quot;&gt;şu
-makalesini&lt;/a&gt;
-gönderdi, Association for Psychological Science’ın (Psikolojik Bilimler
-Derneği) bir dergisi APS Observer’da yayımlanacakmış. Makale beni biraz
-üzdü, cevabımı &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/09/20/methodological-terrorism/&quot;&gt;kısa ve
-tatlı&lt;/a&gt;
-tutasım vardı ama sonra konuyu biraz bağlamına oturtmaya değeceğini
-düşündüm.&lt;/p&gt;
+&lt;p&gt;[^4]: Etki büyüklüğü açısından: düşük etki .20, ortalama etki .50, güçlü
+etki .80 (Lakens, 2013).&lt;/p&gt;
 
-&lt;p&gt;Önce sizinle makaleyi paylaşacağım, sonra da daha önemli gördüğüm
-meselelerde görüşlerimi sunacağım. Bu paylaşımın üst ve alt başlıkları;
-tekrarlama (replication) krizinin bilimin, özellikle sosyal
-psikolojinin, topografyasını değiştirmesi gerçeğine göndermede bulunuyor
-ve görüyorum ki Fiske gibi arazinin eski biçimine adapte olmuş kişiler
-için bu değişimler felaket gibi geliyor.&lt;/p&gt;
+&lt;p&gt;[^5]: Nocebo etkisi: Placebo etkisinin tersine beklentini olumsuz sonuç
+doğurması&lt;/p&gt;
 
-&lt;p&gt;Fiske’in metnini cümle cümle çürütmeyeceğim çünkü yazdıkları çoğunlukla
-psikoloji alanında neler yaşandığıyla ilgili (kariyerler, kadrolar,
-çamur atma taktikleri, laboratuvarlarını korumaya çalışan insanlar,
-konferans sponsorları, kariyer güvencesizlikleri) ve ben bu konuda
-hiçbir şey bilmiyorum çünkü bu alana yabancıyım ve istatistik ve siyaset
-biliminde bu tür şeylere nadiren tanık oldum. (Tabii ki bütün akademik
-bölümlerde kirli işler dönüyor ama aşina olduğum alanlarda yöntem
-eleştirileri büyük oranda şeffaf ve alanın önde gelen kişileri bir şey
-yayımladıkları zaman diğerlerinin onları eleştirmeye hakları olduğunu
-düşünmelerini sanki sorun etmiyorlar.)&lt;/p&gt;
-
-&lt;p&gt;Fiske’in makalesinin çoğunda bahsettiği psikoloji akademisinin
-siyasetini bilmediğim için ben çoğunlukla onun, hem içerik hem de ifade
-açısından nahoş bulduğum, tutumunun psikolojinin yakın tarihinin ve
-tekrarlama krizinin ışığında nasıl anlaşılabileceği hakkında yazacağım.&lt;/p&gt;
-
-&lt;p&gt;Fiske’in yazısını
-&lt;a href=&quot;https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf&quot;&gt;buradan&lt;/a&gt;
-okuyabilirsiniz.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Kısaca, Fiske insanların basılı araştırmalar hakkında olumsuz yorum
-yapmak için sosyal medyayı kullanmasını sevmiyor. O, örtük bir şekilde
-benim “araştırma memurluğu” dediğim kuralı takip ediyor: Bir araştırma
-onaylanmış bir yerde yayımlandıysa o artık gerçek olarak kabul
-edilmelidir. &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/02/01/peer-review-make-no-damn-sense/&quot;&gt;Başka bir
-yerde&lt;/a&gt;
-bu tutumla olan sorunum hakkında yazmıştım: Kısaca, (a) yayımlanan
-birçok makale açıkça hatalı, bu hatalar genellikle yalnızca iddiaların
-incelenmesiyle açığa çıkabilir, başarısız bir tekrar çalışmasıyla daha
-da aşikar olur ve (b) yayımlama süreci öyle riskli bir maceradır ki
-yayımlanan ve yayımlanmayan işler arasına net bir çizgi çizmek
-istatistiksel bir hatadır.&lt;/p&gt;
-
-&lt;h1 id=&quot;kuzeyden-bulutlar-geldi-ve-yağmur-başladı&quot;&gt;Kuzeyden bulutlar geldi ve yağmur başladı&lt;/h1&gt;
-
-&lt;p&gt;Her şeyin ne kadar hızlı değiştiğinin farkına varmak Fiske’in tutumunu
-anlamamıza yardımcı olacaktır. (Yazının yayımlanmasından) Beş yıl önce
-(2011) tekrarlama krizi ancak ufuktaki bir buluttu.&lt;/p&gt;
-
-&lt;p&gt;Bana göre önemli olayların zaman çizelgesi şöyle:&lt;/p&gt;
-
-&lt;p&gt;1960’lar-1970’ler: Paul Meehl deneysel psikolojinin standart
-paradigmasının doğru işlemediğini &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/05/06/needed-an-intellectual-history-of-research-criticism-in-psychology/&quot;&gt;öne
-sürdü&lt;/a&gt;:
-“Aşırı hevesli ve akıllı bir araştırmacı, zayıf nomolojik ağlar arasında
-yavaşça ilerleyerek o ağın hiçbir parçasını doğrulamadan ya da
-çürütmeden uzun bir dizi ilişkili deneyler yapabilir; yine de deneyleri
-eleştirel olmayan bir okura ‘bütüncül bir araştırma programı’ gibi
-görünebilir.”&lt;/p&gt;
-
-&lt;p&gt;Bütün psikologlar Paul Meehl’in kim olduğunu biliyordu, yine de
-uyarılarını görmezden geldiler. Örneğin Robert Rosenthal “çekmecedeki
-çalışmalar sorunu” (file drawer problem) üzerine etkili bir makale
-yazdı ama galiba bu, dikkatimizi
-bir-şekilde-istatistiksel-anlamlılık-bul-ve-zaferini-ilan-et
-paradigmasının daha büyük sorunlarından uzaklaştırdı.&lt;/p&gt;
-
-&lt;p&gt;1960’lar: Jacob Cohen istatistiksel güç hakkında çalışır, deneysel desen
-ve veri toplamanın psikolojide iyi araştırmanın temeli olduğu fikrini
-yayar, nihayetinde “Statistical Power Analysis for the Behavioral
-Sciences” (Davranışsal Bilimler için İstatistiksel Güç Analizi)
-kitabını çıkarır. Araştırmacılar Cohen’in yöntemleri ve terminolojisini
-benimserler ancak gerçek hayat etki büyüklüklerini aşırı abartarak en
-önemli konuda yan çizerler.&lt;/p&gt;
-
-&lt;p&gt;1971: Tversky ve Kahneman, insan bilişinin yanlılıkları hakkındaki ilk
-çalışmalarından biri olan “&lt;a href=&quot;http://stats.org.uk/statistical-inference/TverskyKahneman1971.pdf&quot;&gt;Belief in the law of small
-numbers&lt;/a&gt;“ı
-(Küçük sayılar yasasına inanç) yazar. Bu eski çalışma,
-araştırmacıların belirsizlik ve (özellikle p değeri ve istatistiksel
-anlamlılıkla ilgili ama onunla sınırlı kalmayan) varyasyon hakkındaki
-yanlış anlayışlarına odaklanır ama sonra meslektaşları ile birlikte daha
-genel araştırma konularına geçiş yaparlar ve çalışmalarının araştırma
-pratikleriyle ilgisini tam olarak anlamazlar.&lt;/p&gt;
-
-&lt;p&gt;1980’ler-1990’lar: Sıfır hipotezi (null hypothesis) anlamlılık testi
-psikoloji dünyasında gittikçe daha
-&lt;a href=&quot;https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1999.10473888#.XfauZvxS_Dc&quot;&gt;tartışmalı&lt;/a&gt;
-hale gelir. Ne yazık ki bu sorun, araştırmadan çok bir yöntem sorunu
-olarak değerlendirilir. Sanırım araştırma protokollerinde sorun
-olmadığını, yalnızca analizlerin biraz geliştirilmesi gerektiğini
-düşünüyorlardı. Basılan birçok araştırmanın manasız olduğunu söyleyen
-Meehl’inki gibi görüşlere fazla rastlamadım.&lt;/p&gt;
-
-&lt;p&gt;2006: Provokatif iddialarda bulunan (“Mühendislerin daha çok erkek
-çocukları, hemşirelerin daha çok kız çocukları olur” vs.) bir dizi
-çalışma yayımlayan, daha sonra iddialarının her birinin istatistiksel
-hatalardan kaynaklandığı ortaya çıkan sosyolog Satoshi Kanazawa’yı ilk
-kez
-&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2006/04/28/amusing_example/&quot;&gt;duyuyorum&lt;/a&gt;.
-Tabii ki istatistiksel hataların var olduğunu biliyordum; ama henüz bir
-araştırma programının düşük sinyal-gürültü oranı yüzünden tamamen çöpe
-gidebileceğini kabullenmemiştim.&lt;/p&gt;
-
-&lt;p&gt;2008: Edward Vul, Christine Harris, Piotr Winkielman ve Harold Pashler
-tartışmalı
-&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2009/01/29/more_on_the_so/&quot;&gt;makaleleri&lt;/a&gt;
-“Voodoo correlations in social neuroscience”ı (Sosyal nörobilimde
-voodoo korelasyonları) yazarlar. Yalnızca bazı yayımlanan makalelerin
-teknik sorunları olduğunu değil, aynı zamanda bu istatistiksel
-sorunların araştırma alanını tahrif ettiğini, yayımlanmış birçok ünlü
-iddianın güvenilmez olduğunu öne sürerler. Meehl’in bölgesine doğru
-gidiyoruz.&lt;/p&gt;
-
-&lt;p&gt;2008 aynı zamanda Neuroskeptic bloğunun doğuşuna tanıklık etti. Blog
-(dua çalışmaları, aşı karşıtlığı gibi) basit hedeflerle başladı, sonra
-bilim “hype”ını eleştirmeye başladı (“Makaleyi ya da yazarları
-eleştirmek için yazmıyorum yanlış anlaşılmasın ama… Bence bu
-çalışmanın verisi değerli ve ilgi çekici – bir uzman için. Beni
-endişelendiren şey bu çalışma ve benzerlerinin sunulma biçimi, hatta
-haber olarak sunulması.”), çok geçmeden alana dair daha kapsamlı
-eleştirilere geçiş yaptı. Neuroskeptic bloğu kendi başına büyük bir olay
-mıydı bilmiyorum ama o bilim-görüş blogculuğunun geleneksel politik
-konulardan içsel eleştiriye doğru kaymasının bir belirtisiydi.&lt;/p&gt;
-
-&lt;p&gt;2011: Joseph Simmons, Leif Nelson ve Uri Simonsohn “&lt;a href=&quot;http://pss.sagepub.com/content/22/11/1359.short&quot;&gt;False-positive
-psychology&lt;/a&gt;”
-(Yanlış-pozitif psikoloji) isimli bir makale yayımlarlar, makalede
-“araştırmacı serbestlik derecesi” (researcher degrees of freedom)
-adını verdikleri kullanışlı terimi tanıtırlar. Daha sonra p-hackleme
-(p-hacking) terimini ortaya atarlar ve Eric Loken ve ben &lt;a href=&quot;http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf&quot;&gt;the garden
-of forking
-paths&lt;/a&gt;‘te
-(Çatallanan patikalar bahçesi) araştırmacı serbestlik derecesinin
-istatistiksel anlamlılığa ulaşmak için kullanılması süreçlerini
-anlatırız. &lt;del&gt;Simmons ve arkadaşlarının makalesi aynı zamanda kinayeli
-başlığıyla dikkat çekicidir: Yalnızca pozitif psikoloji alt alanının
-iddialarını sorgulamaz, yanı zamanda onunla alay eder.&lt;/del&gt; (Düzeltme: Uri
-makalelerinin pozitif psikoloji alt alanıyla bir alakası olmadığı, cinas
-yapmak gibi bir niyetlerinin de olmadığı konusunda beni bilgilendiren
-bir e-posta attı.)&lt;/p&gt;
-
-&lt;p&gt;Aynı yıl Simohnson bir diğer
-&lt;a href=&quot;https://psycnet.apa.org/record/2011-02000-001&quot;&gt;makalesinde&lt;/a&gt;
-Dennis-adındaki-dişçi (dentist-named-Dennis) makalesini yerden yere
-vurur. Psikoloji tarihinde çok önemli bir an değil belki ama benim için
-önemli çünkü bu, sonuçlarını hiç düşünmeden kabul ettiğim bir makaleydi.
-Ben de ampirik araştırmaların temel zayıflıklarından habersizdim o
-zamanlar.&lt;/p&gt;
-
-&lt;p&gt;2011: Daryl Bem, “Feeling the future: Experimental evidence for
-anomalous retroactive influences on cognition and affect” (Geleceği
-hissetmek: Bilişte ve duygulanımda anormal retroaktif etkilere dair
-deneysel kanıt) makalesini psikolojinin üst düzey dergilerinin birinde
-yayımlar. Çoğu kişi Bem’in duyumötesi algıyı (extrasensory perception)
-keşfettiğini düşünmedi ama genel izlenim, yaptığı çalışmanın sağlam
-olduğu yönündeydi. Bu da psikoloji araştırmalarına dair bir endişe
-oluşturdu. Örneğin, New York Times &lt;a href=&quot;https://www.nytimes.com/2011/01/06/science/06esp.html&quot;&gt;şöyle
-yazdı&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Derginin editörü, Colorado Üniversitesinden Charles Judd, makalenin
-olağan değerlendirme süreçlerinden geçtiğini söyledi. “Dört kişi metne
-dair değerlendirmede bulundu ve bunlar son derece güvenilir kişiler”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Geçmişe bakınca, Bem’in makalesinde devasa çoklu karşılaştırma
-(multiple comparisons) sorunları vardı –editör ve dört hakem neye
-bakmaları gerektiğini bilmiyorlardı– ama 2011 yılında böyle şeyleri
-fark etmekte pek iyi değildik.&lt;/p&gt;
-
-&lt;p&gt;Bu noktada şunu belirtelim, bazı eski çalışmalar bu açıdan benzeşiyor:
-Standart pratiklerdeki belirli yöntemsel kusurlar yalnızca tekil
-hatalardan ibaret değiller, aksine bilimsel süreçlere ciddi zararlar
-veriyorlar. Konuyla ilişkili bazı metinler şunlar: Jonn Ioannidis’in
-2005 makalesi “Why most published research findings are false” (Neden
-yayımlanmış araştırma bulgularının çoğu yanlıştır) ve Nicholas
-Christakis ile James Fowler’ın obezitenin bulaşıcı olduğunu iddia
-ettikleri 2007 makaleleri. Ioannidis’in makalesi artık bir klasik ama
-ilk çıktığında muhtemel etkilerinin kapsamını çoğumuzun anlayabildiğini
-sanmıyorum. Christakis ve Fowler’ın makalesi
-&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2011/06/10/christakis-fowl/&quot;&gt;artık&lt;/a&gt;
-ciddiye alınmıyor ama zamanında önemli görülüyordu. Söylemek istediğim:
-2005 ve 2007’deki bu olayları hikayemize aldık ancak o dönemde tam
-olarak kavranmamıştı. Galiba kötü işlerin istisna değil kural olduğunu
-fark etmemizi sağlayan Bem oldu.&lt;/p&gt;
-
-&lt;p&gt;2011 itibariyle bir şeylerin yanlış olduğu hissi var; ancak bir şeylerin
-&lt;em&gt;ne kadar&lt;/em&gt; yanlış olduğu pek açık değil ve (ben de dahil) gözlemciler
-hala yayımlanan araştırmalardaki felaket karşılaştırma sorunlarının
-yaygınlığını ve barizliğini fark edemiyor. Ya da şöyle diyeyim: Zayıf
-teori ve onu destekleyen, neredeyse tamamı istatistiksel olarak anlamlı
-araştırma sonuçlarının ölümcül kombinasyonu ki o sonuçlar da kontrolsüz
-araştırmacı serbestlik derecesinin ürünü olarak ortaya çıkıyor.&lt;/p&gt;
-
-&lt;p&gt;2011: Bilimsel görevi kötüye kullanımın çeşitli örnekleri bir bir haber
-olur. Diederik Stapel Tilburg Üniversitesinin psikoloji bölümünden
-atılır ve Marc Hauser Harvard’ın psikoloji bölümünden ayrılır. Bu ve
-benzeri örnekler &lt;a href=&quot;http://retractionwatch.com/2011/09/07/dutch-university-investigating-psych-researcher-stapel-for-data-fraud/&quot;&gt;Retraction
-Watch&lt;/a&gt;
-bloğuna dikkatleri çeker. Bilimsel sahtekarlık, özensizlik ve
-beceriksizlik arasında bir bağlantı
-&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2016/02/09/28905/&quot;&gt;görüyorum&lt;/a&gt;:
-Bütün vakalarda araştırmacılar hipotezlerine öyle inanıyorlar ki
-hasbelkader onu destekleyebilecek her kanıta atlayacak kadar dikkatsiz
-oluyorlar. &lt;a href=&quot;https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/&quot;&gt;Clarke
-Kanunu&lt;/a&gt;‘nu
-hatırla (“Yeterince boktan bir araştırma sahtekarlıktan ayırt
-edilemez.”).&lt;/p&gt;
-
-&lt;p&gt;2012: Gregory Francis, “&lt;a href=&quot;http://www1.psych.purdue.edu/~gfrancis/Publications/GFrancis-R1.pdf&quot;&gt;Too good to be
-true&lt;/a&gt;“yu
-(Doğru olmak için fazla iyi) yayımlar, tekrar eden istatistiksel
-olarak anlamlı sonuçların (yani yayımlanan psikoloji makalelerinin
-standart pratiğinin), seçme yanlılığının (selection bias) bir işareti
-olabileceğini öne süren bir dizi makalenin öncüsü olur. PubPeer başlar.&lt;/p&gt;
-
-&lt;p&gt;2013: Katherine Button, John Ioannidis, Claire Mokrysz, Brian Nosek,
-Jonathan Flint, Emma Robinson ve Marcus Munafo “&lt;a href=&quot;http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html&quot;&gt;Power failure: Why
-small sample size undermines the reliability of
-neuroscience&lt;/a&gt;,”
-(Güç kesintisi: Küçük örneklem neden nörobilimin güvenilirliğini
-baltalar) makalesini yayımlar, seçme yanlılığı ve etki büyüklüğünün
-abartılması arasındaki ilişkiyi kurarak Cohen’in güç analizinden
-Meehl’in daha genel umutsuzluğuna giden döngüyü tamamlar.&lt;/p&gt;
-
-&lt;p&gt;Bu civarlarda insanlar bana kötü veriye dayanan aşırı iddialı makaleleri
-yollamaya
-&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2013/05/17/how-can-statisticians-help-psychologists-do-their-research-better/&quot;&gt;başlar&lt;/a&gt;.
-İlki, ovulasyon ile oy verme hakkında olanı sanırım; sonra da ovulasyon
-ile giyim, şişman kollar ile politik tutumlar ve diğerlerine geliyoruz.
-“Psikolojik-bilimler-tipi araştırma” terimi kelime dağarcığımıza girer.&lt;/p&gt;
-
-&lt;p&gt;Ayrıca, tekrar çalışması hareketi hız kazanır ve bir dizi yüksek
-profilli başarısız tekrar çalışması basılır. Öncelikle Bem’in duyumötesi
-algı çalışmasının hiç de sürpriz olmayan başarısız tekrar çalışması,
-(Bem kendisi başarılı tekrar çalışmaları olduğunu iddia ettiği bir
-makale yazdı ama meta-analizi tekrar çalışması olmayan
-&lt;a href=&quot;https://statmodeling.stat.columbia.edu/2014/09/24/study-published-2011-followed-successful-replication-2003-cool/&quot;&gt;birçok&lt;/a&gt;
-çalışma da içeriyordu) arkasından da bedenleşmiş biliş (embodied
-cognition), &lt;a href=&quot;http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html&quot;&gt;ego
-tükenmesi&lt;/a&gt;
-(ego depletion) ve sosyal psikolojinin daha birçok saygın bulgusunun
-başarısız tekrar çalışmaları geldi.&lt;/p&gt;
-
-&lt;p&gt;2015: Araştırma kalitesi ve bilimsel yayımlama sürecine dair birçok
-kaygı Dana Carney, Amy Cuddy ve Andy Yap’in “&lt;a href=&quot;http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html&quot;&gt;güç
-pozu&lt;/a&gt;”
-(power pose) araştırmalarında birleşti. Medya, bu çalışmaya bayıldı
-ama çalışma artık aşina olduğumuz araştırmacı serbestlik derecesi
-sorunundan fena halde muzdaripti (Uri Simonsohn’un
-&lt;a href=&quot;http://datacolada.org/37&quot;&gt;şu&lt;/a&gt; tartışmasına bakınız) ve
-Eva Ranehill, Anna Dreber, Magnus Johannesson, Susanne Leiberg, Sunhae
-Sul ve Roberto Weber tarafından yapılan &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2015/09/25/low-power-pose/&quot;&gt;tekrar
-çalışmasında&lt;/a&gt;
-bu etki gözlenmedi.&lt;/p&gt;
-
-&lt;p&gt;Bu sırada prestijli dergi Proceedings of the National Academy of
-Sciences (PPNAS) oyuna dahil olur ve &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/04/02/himmicanes-and-hurricanes-update/&quot;&gt;erkek isimli
-kasırgalar&lt;/a&gt;
-(himmicanes), &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/05/03/ahhhh-ppnas/&quot;&gt;uçuş sırasındaki öfke
-patlamaları&lt;/a&gt;
-(air rage), ve “&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/11/24/oh-go/&quot;&gt;İnsanlar kronolojik yaşlarında yeni onyıla
-yaklaştıklarında anlam arayışına
-girerler&lt;/a&gt;”
-gibi hakikaten kötü, korkunç derecede hatalı makaleler basar. Bu
-makalelerin hepsinin altında aynı editörün imzası vardır: “Susan T.
-Fiske, Princeton Üniversitesi”. Tam da araştırmacı serbestlik derecesi,
-istatistiksel anlamlılık ve düşük güçteki çalışmaların tehlikeleri
-konuları haber olmaya başlamışken PPNAS ortaya atlayıveriyor. Kötü
-zamanlamanın böylesi.&lt;/p&gt;
-
-&lt;p&gt;2016: Brian Nosek ve diğerleri büyük bir tekrar çalışması projesi için
-işbirliği organize ediyor. Birçok ünlü çalışma tekrarlanamıyor.
-Tekrarlama projesi, bilim insanları arasında ve haberlerde büyük ilgi
-çekiyor ve psikolojinin, hatta belki de bilimsel araştırmaların, kamusal
-güvenilirliğini zedeliyor. Başarısız tekrar çalışmalarını küçümseyenler
-ya da artçı birlik saldırıları olmadı değil ama ikna edici
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/03/09/bruised-and-battered-i-couldnt-tell-what-i-felt-i-was-ungeneralizable-to-myself/&quot;&gt;değillerdi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;2016’nın sonları: Artık “kral çıplak” aşamasına geldik. Sosyal
-psikolojinin görünürde sağlam olan bulgularının tekrarlanamadığı ortaya
-çıktığında
-&lt;a href=&quot;http://www.theatlantic.com/science/archive/2016/09/can-simple-tricks-mobilise-voters-and-help-students/499109/&quot;&gt;artık&lt;/a&gt;
-şaşırmıyoruz.&lt;/p&gt;
-
-&lt;h1 id=&quot;şiddetliydi-yağış-ve-dur-durak-bilmeden-yağdı&quot;&gt;Şiddetliydi yağış ve dur durak bilmeden yağdı&lt;/h1&gt;
-
-&lt;p&gt;Evet, oldukça detaylı bir zaman çizelgesi çıkardık. Ama mesele şu: Uzun
-süredir hiçbir şey olmuyor ve ilk açığa çıkanlar ile teorik makalelerden
-sonra bile yalnızca araştırmalarınıza ve diğer sorumluluklarınıza
-odaklanırsanız krizi görmezden gelebilirsiniz. 2011 yılında hâlâ Daniel
-Kahneman bile hazırlama (priming) çalışmaları hakkında şöyle
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/&quot;&gt;diyordu&lt;/a&gt;:
-“İnanmama seçeneğiniz yok. Sonuçlar ne uydurma ne de şans eseri. Bu
-çalışmaların temel sonuçlarının doğru olduğunu kabul etmekten başka
-şansınız yok.”&lt;/p&gt;
-
-&lt;p&gt;Sonra birden dünya altüst oldu.&lt;/p&gt;
-
-&lt;p&gt;Eski dünyaya büyük yatırımlar yapmışsanız değişimi düşünmek oldukça
-üzücü olmalı. Fiske şu anda batan bir şirkette hissesi olan biri
-konumunda, bu yüzden onu hevesle savunması da şaşırtıcı değil. Mükemmel
-bir analoji olmadı gerçi; çünkü hisselerini satacağı kimsesi de yok.
-Aslında Fiske’in yapması gereken şey zararını kabullenip kendisinin ve
-meslektaşlarının birçok hata yapmış olduğunu itiraf etmek ve yola devam
-etmek. Kadrosunu almış, PPNAS’ın anahtarları elinde, yani isterse yapar.
-Ama herhalde kısa vadede tekrarlama teröristleri hakkında falan atıp
-tutmak daha konforlu geliyor.&lt;/p&gt;
-
-&lt;h1 id=&quot;evangeline-caddesinde-2-metre-su&quot;&gt;Evangeline Caddesi’nde 2 metre su&lt;/h1&gt;
-
-&lt;p&gt;Susan Fiske kim ve neden ortalıkta metodolojik terörist diye birilerinin
-dolaştığını sanıyor? İkincisinden emin değilim; çünkü kendisi bu
-teröristlerin kim olduğunu ya da ne tür terör eylemleri
-gerçekleştirdiklerini belirtmeyi reddediyor. Makalesi tam olarak sıfır
-kanıt sunuyor, bunun yerine kontrol edilemeyecek yarı-anekdotlar
-veriyor.&lt;/p&gt;
-
-&lt;p&gt;Susan Fiske’in adını ilk kez yukarıda bahsettiğim PPNAS makalelerinin
-(erkek isimli kasırgalar vs.) editörü olarak duydum. Yani en azından
-bazı örnekler için sosyal bilimler araştırmaları konusunda kötü
-muhakemesi olduğunu söyleyebiliriz.&lt;/p&gt;
-
-&lt;p&gt;Ya da şöyle diyelim: 2016’da yaşıyor ama 2006 dönemi düşüncesine
-saplanmış. 10 yıl öncesinde belki ben de erkek isimli kasırgalar ya da
-uçuş öfkeleri makalelerine kanardım. Kanmazdım diye düşünmek istiyorum;
-ama kim bilir? Simonsohn ve diğerlerinin izinde ben de, yayımlanan
-araştırmalar konusunda eskiden olduğumdan çok daha şüpheci olmaya
-başladım. Çoğumuz için Meehl’in elli yıl önce bulunduğu konuma gelmek
-çok uzun sürdü.&lt;/p&gt;
-
-&lt;p&gt;Fiske’in kendi basılı işlerinin de bazı sorunları var. Araştırmaları
-konusunda genel bir beyanda bulunmayacağım; çünkü makalelerinin çoğunu
-okumadım. Nick Brown’ın bana
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/07/05/30596/&quot;&gt;gönderdiği&lt;/a&gt;
-kadarını biliyorum:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Çeşitli nedenlerle ben (Brown) kendimi şu makaleyi okurken buldum:
-This Old Stereotype: The Pervasiveness and Persistence of the Elderly
-Stereotype (Bu eski stereotip: Yaşlı stereotipinin yaygınlığı ve
-dayanıklılığı) by Amy J. C. Cuddy, Michael I. Norton, and Susan T.
-Fiske (Journal of Social Issues, 2005)…&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bu makale hatalarla doluydu. Öncelikle, temel iddiaları 5.03 ve 11.14 t
-istatistikleriyle destekleniyordu. ... Hmmm, tekrar hesaplandığında
-değerler aslında 1.8 ve 3.3 çıkıyor. Yani iddiaların biri “istatistiksel
-olarak anlamlı” bile değil (Böylece, kurallara göre, yayımlanabilir
-değil).&lt;/p&gt;
-
-&lt;p&gt;Ama daha kötüsü de vardı. Rapor edilen bazı sayılar doğru olamazdı.
-Yazarların bazı hesapları yanlış yapmış olması muhtemel, mesela ara
-değerleri yanlış şekilde yuvarlamak gibi. Yuvarlama hatası büyük bir
-mesele değil gibi geliyor, ama yazarlara kendileriyle işbirliği yapmayan
-verilerden istedikleri sonuçları elde edebilmeleri için kullanışlı bir
-dizi “serbestlik derecesi” sunuyor.&lt;/p&gt;
-
-&lt;p&gt;Devamını ilgili bağlantıda bulabilirsiniz. Uzun lafın kısası, Cuddy,
-Norton ve Fiske veride bir sürü hata yapmışlar –ki bu çok kötü ama
-böyle şeyler olur– ve bu hatalar kendilerine gösterildiğinde herhangi
-bir şeyi yeniden değerlendirmeyi reddettiler. Mühim teorileri o kadar
-açık uçlu ki herhangi bir sonucu, herhangi bir yöndeki herhangi bir
-etkileşimi açıklayabiliyor.&lt;/p&gt;
-
-&lt;p&gt;İşte bu yüzden yazarların hataları düzeltmenin “makalenin çıkarımlarını
-değiştirmediğini” &lt;a href=&quot;https://pubpeer.com/publications/E043DD982C3CC7F4B2CB4980522684#fb51945&quot;&gt;iddia
-etmeleri&lt;/a&gt;
-hem çok saçma hem de tamamen doğru. Saçma, çünkü en kritik iddialarından
-biri tamamen istatistiksel olarak anlamlı bir p değerine dayanıyor ki o
-p değeri artık yok. Ama iddiaları doğru; çünkü “makalenin asıl çıkarımı”
-herhangi bir ayrıntıya bağlı değil. Oralarda bir yerlerde p değeri
-.05’ten küçük bir şeyler olsun yeter; çünkü yayımlayabilecekleri,
-reklamını yapabilecekleri iddialarını desteklemek için bu yeterli
-olacak. Konu “yaşlı stereotipinin yaygınlığı ve dayanıklılığı” olabilir
-ya da artık o gün ne yayımlamak isterlerse.&lt;/p&gt;
-
-&lt;p&gt;Yazarlar bu hataların hiçbiri önemli değil diye yırtındığında
-anlıyorsunuz ki zaten bu projelerde veri filan önemli değil.&lt;/p&gt;
-
-&lt;p&gt;Neden bu kadar ayrıntıya giriyorum? Yalnızca çamur mu atıyorum? Fiske
-bilim reformcularına saldırıyor, bilim reformcuları da Fiske’i yerden
-yere vuruyor? Hayır, amaç bu değil. Mesele, Fiske’in veri işleme
-hataları ya da dergi editörü olarak kötü muhakemesi değil, burada önemli
-olan şey onun ölü bir paradigma içinde çalışması. 1960’larda Meehl bu
-konularda yazdığında ölmüş olması gereken; ama Simonsohn, Button ve
-arkadaşları, Nosek ve arkadaşlarının ardından bugün kesinlikle ölü olan
-paradigma bu. Açık uçlu teorinin, başlıca dergilerde basılıp popüler ve
-ticari yayınlarda tanıtılmanın, araştırmacı serbestlik derecesiyle elde
-edilen “p .05’ten küçük” ifadesine dayanmanın paradigması bu. Sosyolog
-Jeremy Freese’in
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/&quot;&gt;sözleriyle&lt;/a&gt;
-“empirikten ziyade vampirik” –veriyle öldürülemeyen– teorinin
-paradigması bu. Başarısız tekrarlama çalışmalarının yanlış tarafında
-kalan ve bununla başa çıkamayan ünlü sosyal psikologlar &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/&quot;&gt;Roy
-Baumeister&lt;/a&gt;
-ve &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/02/12/priming-effects-replicate-just-fine-thanks/&quot;&gt;John
-Bargh&lt;/a&gt;‘ın
-izlediği paradigma bu.&lt;/p&gt;
-
-&lt;p&gt;Fiske’in hiçbir çalışması tekrarlanamaz demiyorum, çalışmalarının çoğu
-ya da üçte biri bile tekrarlanamaz da demiyorum. Hiçbir fikrim yok,
-incelemedim. Söylediğim şu: Fiske’in çalışmalarına yapılan eleştirilere
-yaklaşım tarzı on yıl önce psikolojide standarttı ancak artık değil.
-Yani, modern dünyaya dair rahatsızlığı anlaşılır.&lt;/p&gt;
-
-&lt;p&gt;Fiske’in iş arkadaşları ve eski öğrencileri de benzer bir araştırma
-tarzını benimsemiş görünüyorlar; esnek hipotezler,
-istatistiksel-anlamlılıkla-kanıtlama, eleştiriye karşı ciddiyetsiz
-tavır.&lt;/p&gt;
-
-&lt;p&gt;Şunu da vurgulayayım, evet, istatistikçilerin bu tartışmada yararlı bir
-rolü olabilir. Fiske vs. istatistik ve araştırma yöntemlerinden nefret
-ediyorlarsa, sorun değil; her seferinde işleyen şeffaf deneyler
-tasarlayabilirler. Ama, hayır, iddialarını gürültülü (noisy) veriden
-elde ettikleri p değerleriyle haklı çıkaranlar onlar, PPNAS’a gönderilen
-çalışmaları yeterince heyecan verici olmadıkları için reddedenler onlar,
-“p değeri .05’ten küçük” olan herhangi bir şeye (örneğin, kadınların oy
-tercihlerini ayın hangi gününde olduklarına göre yüzde yirmi oranında
-değiştirdikleri iddiası) inanıyor gibi görünenler onlar. Eğer oynamak
-istediğiniz oyun buysa, yöntem eleştirisi de tabii ki uygun.&lt;/p&gt;
-
-&lt;h1 id=&quot;nehir-tüm-gün-yükseldi-nehir-tüm-gece-yükseldi&quot;&gt;Nehir tüm gün yükseldi, nehir tüm gece yükseldi&lt;/h1&gt;
-
-&lt;p&gt;Hatalar kendilerini besler. Araştırmacının bir hatasını bir diğeri
-izleyebilir. Sayıları bir umursamaya görün, her şey olabilir. İşte
-çalışması sorgulanan bazı araştırmacılardan hakikaten korkunç bir
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/02/09/28905/#comment-262722&quot;&gt;örnek&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Çalışma 3’ün verisinde 8 kodlama hatasının keşfedilmesine ve
-çalışmanın makaleden geri çekilmesine rağmen, makalede gösterdiğim
-gibi, eleştirmenlerin öne sürdüğü argümanlar savunulamaz. ... Çalışma
-3’te bulunan hatalara gelince, bulgularıma göre hedef kelime kökleri
-SUPP ve CE bulguları hiçbir şekilde etkilemiyor.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hahaha, oldukça komik. Sonuçlar 8 kodlama hatasına karşı o kadar
-dayanıklı ki! Çalışma 3’ü geri çektikleri halde bir türlü boş
-verememeleri de ayrıca gülünç.
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/02/09/28905/#comment-263327&quot;&gt;Şuna&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;
-da bakın.&lt;/p&gt;
-
-&lt;p&gt;Bana bir de Richard Tol’un ünlü
-“&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/05/27/whole-fleet-gremlins-looking-carefully-richard-tols-twice-corrected-paper-economic-effects-climate-change/&quot;&gt;gremlinler&lt;/a&gt;”
-makalesi hatırlatıldı: Sonunda neredeyse veri noktası kadar hata
-düzeltmesi yapılmış durumdaydı (Şaka değil!) ama bütün bu düzeltmeler
-kendisinin çıkarımlarını değiştirmesi için yeterli olmadı. Sanki
-neredeyse çıkarımlarına önceden karar vermiş gibi. Şimdi bir dakika,
-bütünüyle teorik bir çalışma yapmakta sorun yok ama o zaman veriyle
-dikkatimizi dağıtmayın.&lt;/p&gt;
-
-&lt;h1 id=&quot;bazıları-selde-kayboldu&quot;&gt;Bazıları selde kayboldu&lt;/h1&gt;
-
-&lt;p&gt;Bakın, bunlar kötü insanlardır demiyorum. Bazı baştan savma işler yapmış
-olabilirler, ya da hatalar yapmışlardır; ama bunlar teknik ayrıntılar
-–en azından kendilerinin öyle düşündüğünü sanıyorum. Cuddy, Norton ve
-Fiske için şöyle bir geri çekilip belki de yıllardır yaptıkları her
-şeyin bir hata olduğunu düşünmek... Çok büyük bir adım olurdu. Doğrusu,
-muhtemelen böyle bir adım atmayacaklar. Tam tersi teşvik ediliyor.&lt;/p&gt;
-
-&lt;p&gt;Bu uzun paylaşımı yazmamın bahanesi olan makalede Fiske arkadaşlarının
-kariyerleri hakkındaki endişelerini dile getiriyor, araştırma
-hatalarının kamuya duyurulması sonucu zarar görebilecek kariyerleri.
-Şunu unutmayın, bu kişilerin her birine karşılık belki de dikkatli,
-ciddi çalışmalar yürüten; fakat en güzel işleri, terfileri alamayan;
-çünkü özensiz ama çarpıcı çalışmalar yapıp Psych Science ya da PPNAS’ta
-yayımlatan diğer adaylarla rekabet edemeyen üç tane genç araştırmacı
-vardır. Bu işin iki yüzü var.&lt;/p&gt;
-
-&lt;h1 id=&quot;bazıları-kurtuldu&quot;&gt;Bazıları kurtuldu&lt;/h1&gt;
-
-&lt;p&gt;Burada üzücü olan bir diğer şey de Fiske’in kendi ilkelerinden taviz
-vermesi gerektiğini hissetmesi. O, “filtresiz trash-talk’u”&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;,
-“ölçüsüz saldırıları” ve “düşmanca hırçınlığı” kınıyor ve “editöryal
-denetim ve akran değerlendirmesinin (peer review) önemini vurguluyor.
-Fiske’e göre eleştiriler, “çoğunlukla gizli ve yapıcı (akran
-değerlendirmesi), ya da en azından ölçülü diyaloglar (özenli yorumlar ve
-çürütme yazıları) şeklinde” yapılmalı. Ve “bilimsel standartlar, etik
-normlar ve karşılıklı saygı”dan bahsediyor.&lt;/p&gt;
-
-&lt;p&gt;Ama Fiske, görüşlerini düşüncesiz saldırılarla moderasyonsuz bir forumda
-akran değerlendirmesi veya yorum veya çürütme yazısı yazma fırsatı
-olmadan ifade ediyor; bu sırada isimsiz düşmanlarından “metodolojik
-teröristler” diye söz ediyor. Bana filtresiz trash-talk gibi geldi. Ama
-şunu da ekleyeyim, Fiske’i basketbol sahasında görmedim, yani
-&lt;em&gt;gerçekten&lt;/em&gt; trash-talk yaparken nasıl olduğu konusunda hiçbir fikrim
-yok.&lt;/p&gt;
-
-&lt;p&gt;Bunu “yakalandın” havasında gündeme getirmiyorum; aksine, Fiske’in ne
-kadar zor bir durumda olduğunu vurgulamak istiyorum. Kişisel dünyasının
-yıkıldığını görüyor (kişisel düzeyde değil, sanıyorum Princeton
-Üniversitesi’nde Eugene Higgins psikoloji profesörü ve halkla ilişkiler
-profesörü unvanlarını kendi istediği sürece koruyacaktır) ama
-kendisinin, arkadaşlarının ve meslektaşlarının çalışmaları on yıl
-öncesinde kimsenin hayal bile edemeyeceği şekilde sorgulanıyor. Bu
-korkutucu, ve isimsiz “teröristler”i suçlamak araştırma yöntemlerine
-dair anlayışındaki eksiklikleri sorgulamaktan daha kolay geliyor olmalı.&lt;/p&gt;
-
-&lt;p&gt;Başka şekilde ifade edelim, Fiske, arkadaşları ve öğrencileri
-kendilerine şöhret, şans ve övgü getiren bir yolu izledi. O yolu
-sorgularsan o yoldan geçen herkesin meşruiyetini de sorgularsın. Ve bu
-da hoş olacak değil.&lt;/p&gt;
-
-&lt;h1 id=&quot;nehir-plaqueminese-kadar-her-şeyi-dümdüz-etti&quot;&gt;Nehir Plaquemines’e kadar her şeyi dümdüz etti&lt;/h1&gt;
-
-&lt;p&gt;Fiske sosyal medyadan rahatsız ve bunu anlayabilirim. Kendisi geleneksel
-medyanın tepesinde oturuyor. APS Observer’da bir makale yayımlayıp akran
-değerlendirmesinden geçmesi gerekmeden bütün bu tartışmalara dahil
-olabilir, prestijli Proceedings of the National Academy of Sciences
-dergisine makale kabul etme gücü var; kendisinin ve iş arkadaşlarının
-çalışmaları ulusal gazeteler, TV, radyo ve hatta Ted konuşmalarında yer
-buluyor, duyduğum kadarıyla. Geleneksel (top-down) medya Susan
-Fiske’in dostu. Sosyal medya, diğer yandan, kontrol sahibi olmadığı bir
-alan. Bu durum moral bozucu olmalı ve geleneksel medyanın başarılı bir
-kullanıcısı olarak ben de (Evet, ben de akademik dergilerde yayın
-yaptım.) yeni gelenler geleneksel yayın kanallarını gözardı ettiklerinde
-rahatsız olabiliyorum. Fiske ve ben gibi kişiler profesyonel
-yaşamlarımızı yayın ve atıf biçimindeki paralardan birer servet
-oluşturarak harcadık. Şimdi bu paraların değerini kaybettiğini görmek ya
-da eski usul parayla satın alınamayan şeyleri alabilen yeni bir para
-biriminin dolaşımda olduğunu düşünmek acı verici.&lt;/p&gt;
-
-&lt;p&gt;Fakat bir an kariyerleri unutup bilimi konuşalım.&lt;/p&gt;
-
-&lt;p&gt;Sosyal medya, yayımlanan çalışmalardaki hatalara işaret etmek söz konusu
-olduğunda &lt;em&gt;gerekli&lt;/em&gt;. Başka alternatif yok. Evet, bazen dergilerde basılı
-çalışmaları eleştiren akran değerlendirmeli mektuplar yayımlamak mümkün
-ama bu da aşırı miktarda çaba gerektirebiliyor. Dergiler ve yazarlar
-genellikle eleştirileri gizlemek için büyük bir direnç gösteriyorlar.&lt;/p&gt;
-
-&lt;p&gt;Ayrıca
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/11/22/blogs-twitter/#comment-252332&quot;&gt;şu&lt;/a&gt;
-tartışma da biraz ilişkili:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Dergi makalelerine kıyasla blogların neyini seviyorum? Öncelikle blog
-alanı sınırsız, dergi alanı sınırlı; özellikle Science, Nature, PPNAS
-gibi yüksek profilli, çok tanınan dergilerde. İkincisi, bloglarda
-şüphe ifade etmekte sorun yok; ancak dergilerde kesinlik bir normdur.
-Ben bloğumda yaş düzeltmesi hakkında birçok fikri tartışabilirken Case
-ve Deaton’ın sayılarında “45-54 yaş grubunda düzeltme yapılmadığı”
-dışında söyleyecek bir şeyleri yoktu. Bu kadar! Case ve Deaton’ı bu
-kadar kısa ve öz konuştukları için suçlamıyorum; derginin şartlarına
-uyuyorlardı, bu da en az düzeyde açıklama, en az düzeyde keşif yapmak
-demek. ... dergi makalelerinde ya da dergi makalesinin ardından basın
-ile mülakatlarda tekrar tekrar veriyi keşfetmenin ya da şüphe ifade
-etmenin caydırıldığını görüyoruz. ... PPNAS gibi akran
-değerlendirmeli dergilerin normu, çalışmaları bir kesinlik maskesiyle
-sunmak.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tekrar edecek olursak, burada amaç iyi bilim yapmak. Hatalar
-işaretlenmediğinde ve siz her zaman haklıymış gibi, gördüğünüz her veri
-örüntüsü teorinizle tutarlıymış gibi davrandığınızda iyi bilim yapmak
-zor. Bu, orijinal çalışmanın sahibi, yıllarca güvenilirliğini çoktan
-kaybetmiş ipuçlarının peşinden koşan yazarlar için bir sorun; bu, hatalı
-çalışmaların devamını getiren araştırmacılar için bir sorun; titiz
-çalışmalar yürütmek isteyen ama çarpıcı, özensiz uygulamalarla
-“Psychological Science”ta (dergi olan, bilimsel alan değil) gürültü
-madenciliği&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; yapan yazarlarla dolu yayın çevrelerinde rekabet etmekte
-zorlanan araştırmacılar için bir sorun.&lt;/p&gt;
-
-&lt;p&gt;Hata yapmakta sorun yok. Ben de sonradan geri çekmek zorunda kaldığım
-bir çalışma yayımladım, bu yüzden başkalarını özensiz veri analizi ve
-mantık hataları yapmakla suçlayacak bir pozisyonda sayılmam. Ve biri
-hatalarıma işaret ettiğinde onlara teşekkür ederim. Düzeltmeleri “ad
-hominem çamur atma taktikleri” diye etiketlemem; aksine, çalışmalarımı
-geliştirmek için bu türden davetsiz serbest eleştirilerden faydalanırım.
-(&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2009/05/11/discussion_and/&quot;&gt;Burada&lt;/a&gt;
-tam bilgi sahibi olmadan ve biraz da kabaca yapılan ama yine de değerli
-bir eleştiriye cevaben araştırmamda düzeltme yaptığım bir örneği
-bulabilirsiniz.) Susan Fiske’e de aynısını yapmasını öneririm.&lt;/p&gt;
-
-&lt;h1 id=&quot;evangeline-caddesinde-2-metre-su-1&quot;&gt;Evangeline Caddesi’nde 2 metre su&lt;/h1&gt;
-
-&lt;p&gt;Bana göre Fiske’in notunun en üzücü kısmı şurası: “Psikoloji bilimi
-işbirliği yoluyla çok şey başardı, ama aynı zamanda yapıcı muhalifliğe
-yanıt vererek de ...”. Fiske, “yapıcı” olmayı vurguluyor, güzel. Neyin
-yapıcı olduğu konusunda farklı tanımlarımız olabilir ama umarım basılı
-çalışmalardaki hatalara işaret etmenin ve tekrar çalışmaları yürütmenin
-yapıcı olduğu konusunda anlaşabiliriz.&lt;/p&gt;
-
-&lt;p&gt;Beni üzen şey Fiske’in eleştirileri “muhalefet” olarak nitelemesi. Ben
-psikoloji bilimine muhalif değilim! Düşük kalitedeki psikoloji bilimine
-bile muhalif değilim: Sıklıkla hatalarımız sayesinde öğreniriz,
-hakikaten, önce çeşitli hatalar yapmadan bir şeyleri öğrenemiyoruz gibi
-görünüyor. Muhalifi olduğum şey ise insanların hatalarını kabul etmemesi
-ve hataları işaret edildiğinde ısrarla sırtlarını dönmeleri.&lt;/p&gt;
-
-&lt;p&gt;Eğer Kanazawa Kanazawa’lığını yaptıysa ve güç pozu tayfası güç pozu
-şeyini yaptılarsa vesaire vesaire; iyi, derim, bunların denemeye değer
-olduğunu görebiliyorum. Ama istatistiksel analiz bu araştırmanın
-imkansız olduğunu gösterirse ya da başarısız tekrar çalışmaları
-yayımlanmış sonuçların hatalı olduğunu gösterirse, ben de sizden tabii
-ki yolunuza devam etmenizi bekleyeceğim, aynı şeyi tekrar tekrar yapıp
-başından beri haklı olduğunuzda ısrar etmenizi değil. Çünkü bu bilim
-falan değil. Ya da şöyle demeliyim, araştırmacı bireylerin hatalarını
-kabul etmeyi reddettikleri için kariyerlerini çıkmaz sokaklara
-adamaları, bilim yapmanın oldukça verimsiz bir yoludur.&lt;/p&gt;
-
-&lt;p&gt;Hatalarımızdan öğreniriz; ama yalnızca onların hata olduğunu kabul
-edersek. Hata ayıklama (debug) işbirliğiyle gerçekleşen bir süreçtir.
-Eğer bir kod yazarsan ve ben onda bir hata bulursam, bu beni muhalif
-yapmaz, iş ortağı yapar. Eğer hatalarını düzeltmekten kaçınmak için beni
-muhalif diye resmedersen, bu senin sorunun.&lt;/p&gt;
-
-&lt;h1 id=&quot;bizi-yıkıp-geçmeye-çalışıyorlar-bizi-yıkıp-geçmeye-çalışıyorlar&quot;&gt;Bizi yıkıp geçmeye çalışıyorlar, bizi yıkıp geçmeye çalışıyorlar&lt;/h1&gt;
-
-&lt;p&gt;Fiske ile olan kritik bir anlaşmazlığımızı belirterek kapatayım. O,
-eleştirinin gizli olarak yapıldığı moderasyonlu forumları tercih ediyor.
-Ben açık tartışmayı. Kişisel olarak Twitter’ın hayranı sayılmam; alan
-sınırlaması aceleci, sıklıkla düşmanca diyaloglara teşvik ediyor.
-Blogları, blog yorumlarını seviyorum, çünkü kendimizi tamamen
-açıklayabilmek ve tartışmalarımıza yönelik tam atıflar yapabilmek için
-&lt;a href=&quot;http://statmodeling.stat.columbia.edu/2014/11/22/blogs-twitter/&quot;&gt;yeterli
-alanımız&lt;/a&gt;
-var.&lt;/p&gt;
-
-&lt;p&gt;Bu yüzden bunu bloğumda paylaşıyorum, herkesin yanıt verme fırsatı var.
-Evet doğru, &lt;em&gt;herkesin&lt;/em&gt;. Susan Fiske yanıt verebilir, başkaları da.
-Psikoloji bilimiyle ilgilenen ancak APS Observer’da akran
-değerlendirmeli olmayan makaleler yazma şansı olmayanlar, büyük
-üniversitelerde kadrolu profesör olmayanlar vs. dahil. Bu bir açık
-tartışma, terörizmin tam tersi. Ve bu kadar bariz bir şeyi söylemek
-zorunda kalmam bence epey komik.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Not.&lt;/strong&gt; &lt;a href=&quot;http://statmodeling.stat.columbia.edu/2016/09/22/why-is-the-scientific-replication-crisis-centered-on-psychology/&quot;&gt;Dahası
-burada&lt;/a&gt;:
-Neden bilimsel tekrarlama krizinin merkezinde psikoloji var?&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Yazının başlıkları Randy Newman’ın Louisiana 1927 şarkısının
-dizeleridir. Şarkı, 1927 yılında Mississippi Nehri’nin taşması
-sonucu yaşanan ABD tarihinin en büyük sel felaketini anlatmaktadır.
-Şair burada 2011 yılında başlayan tekrarlama krizini psikoloji
-biliminin büyük sel felaketi olarak niteliyor. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Fiske’in yazısının Türkçe çevirisini yakında sitemizden
-okuyabilirsiniz. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Paylaşılan bağlantıda söz konusu çalışmanın bir diğer yazarının
-çalışmadaki hatayı kabul ettiğini ve o çalışmadan çıkarılacak
-sonuçların güvenilir olmadığını belirttiğini görüyoruz. Hatalarını
-kabul edebilenler de olduğunu göstermek için not düşmek istedim. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Trash-talk basketbol sahalarında gerçekleşen, rakibi tahrik etmeye
-yönelik hakaretamiz üslupla yapılan konuşmalara verilen isimdir. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;Noise mining. Veriyi didik didik ederek varyansın şu ya da bu
-kadarını açıklayacak faktörler peşinde koşmak anlamında kullanıyor. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Cavit Deniz Pala</name></author><category term="çeviri" /><category term="tekrarlama-krizi" /><summary type="html">Bu yazı Andrew Gelman’ın kişisel bloğunda yayımladığı “What has happened down here is the winds have changed1” başlıklı yazının çevirisidir. Yazının orijinaline şu bağlantıdan ulaşabilirsiniz: https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/ Yazının başlıkları Randy Newman’ın Louisiana 1927 şarkısının &amp;#8617;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/deniz1.png" /></entry><entry><title type="html">Açık Bilim Nedir, Açık Erişimden Farkı Nedir?</title><link href="http://localhost:4000/originals/introductory/esraozan1.html" rel="alternate" type="text/html" title="Açık Bilim Nedir, Açık Erişimden Farkı Nedir?" /><published>2020-03-04T00:00:00+03:00</published><updated>2020-03-04T00:00:00+03:00</updated><id>http://localhost:4000/originals/introductory/esraozan1</id><content type="html" xml:base="http://localhost:4000/originals/introductory/esraozan1.html">&lt;p&gt;Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale
-getirilmesini; bu sayede tekrarlanabilir ve yeniden üretilebilir
-bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır.
-Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi
-anlaşılmasına katkı sağlayacaktır.&lt;/p&gt;
-
-&lt;p&gt;Şeffaflık, bilimsel bir çalışmanın tüm aşamalarının (örn., varsayımların
-belirlenmesi, veri toplama aracının geliştirilmesi, verinin toplanması
-ve ham verinin ortaya çıkarılması vb.) ve bu aşamalarda alınan
-kararların detaylı bir şekilde anlatılmasını, kullanılan materyal ve ham
-verilerin okuyucuyla doğrudan paylaşılmasını kapsamaktadır. Bilimsel
-pratiği daha özenli hale getirmede kullanılabilecek temel yollar
-aşağıdaki şekilde sıralanabilir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Çalışmanın sağlam bir kuramsal çerçeve üzerine kurulması&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Araştırma sorusunu yanıtlamaya uygun yöntemin kullanılması&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Verinin nasıl toplanacağının ve veri toplamanın ne zaman sonlandırılacağının süreç öncesinde belirlenmesi&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Veri girişi ve analizi aşamalarında sürecin birden fazla kişi tarafından birden fazla kez kontrol edilerek hata oranının minimuma indirgenmesi&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Çalışma sonucu ne olursa olsun çıktıların gerekli paydaşlarla paylaşılması&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Çarpıcı sonuçlar yerine bilimin yığılgan birikimine katkı sağlama potansiyeline sahip sonuçların peşinden koşulması&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Eldeki sonuçlardan uygun çıkarımların yapılması&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bu yollar incelendiğinde ise, hemen hemen hepsinin temelinde şeffaflık
-prensibinin yer aldığı görülmektedir.&lt;/p&gt;
-
-&lt;p&gt;Tekrarlanabilirlik (replicability), daha önce yapılmış bir çalışmayla
-aynı yöntemi kullanarak, aynı şartlar altında aynı bulgulara erişmeyle
-sağlanır. Yeniden üretilebilirlik (reproducibility) ise önceden yapılmış
-bir çalışmanın orijinal verisini kullanarak yapılan yeni bir analizin,
-önceki bulgularla örtüşen sonuçlar vermesiyle sağlanır. Yapılan
-çalışmalar sonucu ulaşılan bilimsel bir etkinin güvenilirliğinin
-sınanması ve bilimin kendi kendini düzeltebilmesi için tekrarlanabilir
-ve yeniden üretilebilir bulgular oldukça önemlidir.&lt;/p&gt;
-
-&lt;p&gt;Açık bilim denildiğinde genellikle akla ilk gelen, bilimsel çıktıların
-herkes tarafından ücretsiz olarak erişilebilir, kopyalanabilir ve
-bilimsel amaçlar için kullanılabilir olmasıdır. Fakat bu tanım aslında
-“açık erişim” kavramına karşılık gelmektedir. Açık bilim ise, yukarıda
-da bahsedildiği gibi açıklık, şeffaflık ve yöntemsel özen gibi birçok
-uygulamayı da içine alan daha genel bir bilim anlayışıdır. Açık erişim
-ülkemizde
-&lt;a href=&quot;https://acikerisim.yok.gov.tr/acik-erisim&quot;&gt;YÖK&lt;/a&gt;,
-&lt;a href=&quot;https://cabim.ulakbim.gov.tr/ulakbim-acik-erisim-faaliyetleri/&quot;&gt;TÜBİTAK&lt;/a&gt;
-ve
-&lt;a href=&quot;https://lib.metu.edu.tr/tr/acik-erisim-ve-kurumsal-arsiv-birimi-0&quot;&gt;ODTÜ&lt;/a&gt;
-tarafından desteklenmektedir.&lt;/p&gt;</content><author><name>Esra Ataman ve Ozan Can Çağlar</name></author><category term="originals" /><category term="introductory" /><summary type="html">Açık Bilim, bilimsel pratiğin daha açık, şeffaf ve özenli hale getirilmesini; bu sayede tekrarlanabilir ve yeniden üretilebilir bulgulara ulaşılmasını amaçlayan bir hareket olarak ortaya çıkmıştır. Yukarıda bahsi geçen temel kavramların özümsenmesi açık bilimin daha iyi anlaşılmasına katkı sağlayacaktır.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/esraozan1.png" /></entry></feed>
+&lt;p&gt;[^6]: Hamilton Depresyon Değerlendirme Ölçeği için minimum skor: 0,
+maksimum skor: 52.&lt;/p&gt;</content><author><name>Kutlu Kağan Türkaslan</name></author><category term="clinical-psychology" /><category term="meta-analysis" /><category term="replication" /><summary type="html">Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (İng. replication crisis) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.</summary></entry></feed>
