@@ -189,7 +189,7 @@ insanların kırmızı ile romantizmi ve cinselliği özdeştirdiğine dair
 [bulgu](https://doi.org/10.1080/13527260500247827)lar olsa
 da, bu konuda en çok akla gelen çalışmalardan birisi Elliot ve
 Niesta'nın (2008 )[deney
-serileri]{.underline}(https://doi.org/10.1037/0022-3514.95.5.1150)dir. 
+serileri](https://doi.org/10.1037/0022-3514.95.5.1150)dir. 
 Bu çalışmaya göre erkekler, kırmızı giyen kadınları daha çekici ve
 cinsel olarak daha arzulanabilir bulmuştur fakat buna benzer bir etki
 kadınlarda görülmemiştir. Buna benzer bir çalışma Elsevier'de, 2012
