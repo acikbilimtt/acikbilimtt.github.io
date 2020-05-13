@@ -77,4 +77,4 @@ Fanelli, D. (2009). How many scientists fabricate and falsify research? A system
 
 [^5]: İnsanlar kendi inandıkları düşünceyi doğrulayan bilgilere daha çok dikkat etme, o bilgileri arama ve daha iyi hatırlama eğilimindedirler.
 
-[^6]: Sıfır/yokluk hipotezinin doğru olmasına rağmen reddedilmesi
+[^6]: Yokluk hipotezinin doğru olmasına rağmen reddedilmesi
