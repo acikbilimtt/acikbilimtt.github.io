@@ -11,7 +11,7 @@ image:
 ---
 Tekrarlama krizinin _(replication crisis)_ sonuçlarıyla ilgili birçok yazıyı web sitemizde derledik. Sonuçları kadar bu krizin nedenlerine bakmak da önemli. Nitekim bu krize sebebiyet veren etmenleri anlamazsak açık bilim yolunda çok yol katedemeyiz. Birçok yazımızda krizin nedenlerine ufak ufak değinmiş olmamıza karşın, bunların hepsini bir yazıda görmek mevcut durumu daha iyi anlamamıza katkı sağlayacaktır.
 
-Tekrarlama krizini kendi içerisinde neden-sonuç ilişkisi açısından inceleyebiliriz. Daha iyi açıklamak gerekirse araştırmacıların bir sabah kalkıp p-hacklemeye (_p-hacking_\[^1\]) veya Sonuçları Öğrenip Hipotez Oluşturmaya (_HARKing_\[^2\]) başladığı söylenemez. Dergiler, yayın yanlılığı (_publication bias_), yani sadece anlamlı sonuçlar bulan araştırmaları yayımlama eğiliminde olmasaydı, Tartışmalı Araştırma Uygulamalarının (TAU) --_Questionable Research Practices (QRP_\[^3\]_)_-- kullanımı da muhtemelen bu kadar fazla olmazdı.
+Tekrarlama krizini kendi içerisinde neden-sonuç ilişkisi açısından inceleyebiliriz. Daha iyi açıklamak gerekirse araştırmacıların bir sabah kalkıp p-hacklemeye (_p-hacking_[^1]) veya Sonuçları Öğrenip Hipotez Oluşturmaya (_HARKing_[^2]) başladığı söylenemez. Dergiler, yayın yanlılığı (_publication bias_), yani sadece anlamlı sonuçlar bulan araştırmaları yayımlama eğiliminde olmasaydı, Tartışmalı Araştırma Uygulamalarının (TAU) --_Questionable Research Practices (QRP_[^3]_)_-- kullanımı da muhtemelen bu kadar fazla olmazdı.
 
 İlk olarak akademisyenler için yayın yapmanın neden çok önemli olduğundan bahsetmek yerinde bir başlangıç olacaktır. Akademisyenlerin işlerini koruyabilmek için prestijli ve etki faktörü (_impact factor_[4](#_ftn4)) yüksek olan dergilerde yayın yapmaları gerekmektedir. Yani çok fazla seçim hakları olmadığı görülmektedir; ya yayımlayacaklar ya da yok olacaklar (_publish or perish_). Bazı üniversiteler senede belli sayıda çalışma yayımlamış olmayı, bazıları da doktora programlarından mezun olmak için en az üç yayın yapmayı şart koşmaktadır. Bir doktora öğrencisinin, dört sene gibi bir sürede iyi bir çalışma tasarlayıp onu yürütecek, istatistiksel gücü yüksek olacak şekilde veri toplayacak, veriyi analiz edecek ve nitelikli bir makale yazacak kadar alan hakimiyeti olmasının çok gerçekçi bir beklenti olmadığı görülmektedir; üstelik doktora öğrencilerinden beklenen başka yükümlülükler olduğu da göz önünde bulundurulmalıdır. Aynı şekilde akademisyenler zaten birçok işle uğraşırken (ders vermek, konferanslara katılmak, idari görevleri yerine getirmek, vb.), kendilerinden çok sayıda da yayın yapmaları beklenmektedir. Üstelik bu durum kimi ülkelerde çok daha rekabetçi bir hal almıştır ve ne yazık ki dünyada genel olarak üniversitelerin, hem öğrencilerden hem de akademisyenlerden beklediği standartlar daha da yükselmektedir. Böyle bir bağlam içerisinde de bilim insanları doğal olarak niceliği niteliğin önüne koyacak şekilde davranmaktadırlar ([Chambers, 2019](https://press.princeton.edu/books/paperback/9780691192277/the-seven-deadly-sins-of-psychology); [Rond ve Miller, 2005](https://journals.sagepub.com/doi/abs/10.1177/1056492605276850)).
 
@@ -67,11 +67,11 @@ Fanelli, D. (2009). How many scientists fabricate and falsify research? A system
 
 ***
 
-[1](#_ftnref1) _p_ değerini anlamlı bulana kadar veriyle oynamak ve farklı istatistiksel testler denemek.
+[^1] _p_ değerini anlamlı bulana kadar veriyle oynamak ve farklı istatistiksel testler denemek.
 
-[2](#_ftnref2) Bu terimi 1998’de psikolog [Norbert Kerr](https://www.ncbi.nlm.nih.gov/pubmed/15647155) alanyazına katmıştır. Araştırmanın sonuçları belli olunca baştaki hipotezlerin değiştirilip sonuçlara göre yeniden hipotez üretilmesi anlamına gelmektedir.
+[^2] Bu terimi 1998’de psikolog [Norbert Kerr](https://www.ncbi.nlm.nih.gov/pubmed/15647155) alanyazına katmıştır. Araştırmanın sonuçları belli olunca baştaki hipotezlerin değiştirilip sonuçlara göre yeniden hipotez üretilmesi anlamına gelmektedir.
 
-[3](#_ftnref3) Bilimsel verilerin ve sonuçlarının bir şekilde bozulmasını içeren uygulamalar.
+[^3] Bilimsel verilerin ve sonuçlarının bir şekilde bozulmasını içeren uygulamalar.
 
 [4](#_ftnref4) Bir akademik derginin, yayınladığı güncel makalelerine bulunulan ortalama atıf sayısını yansıtan bir ölçütüdür.
 
