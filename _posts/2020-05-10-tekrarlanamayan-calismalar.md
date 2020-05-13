@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "Tekrarlanamayan Çalışmalar"
-author: "Defne Alkan, Hazal Arpacı ve Emine Bilgen"
-categories:
-tags: [originals, replication]
-image:
----
+title: Tekrarlanamayan Çalışmalar
+author: Defne Alkan, Hazal Arpacı ve Emine Bilgen
+categories: 
+tags:
+- originals
+- replication
+image: 
 
+---
 Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
-krizi (replication crisis), 2011 yılında  başlamıştır. Krizin
+krizi (_replication crisis_), 2011 yılında  başlamıştır. Krizin
 oluşumunda, bilimsel çalışmaların basılma ve yayımlanma sistemi, bilim
 alanındaki kariyer basamakları ve tekrar çalışmalarına karşı süregelen
 genel bakış açısı gibi birçok etken vardır fakat bu yazı dizisinde
 odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan
-çalışmalar olacak. 
+çalışmalar olacak.
 
 Kriz öncesinde, çalışmaların tekrarlanamaması çok büyük bir problem
 olarak görülmüyor; dergiler, tekrarlama çalışmalarını ve istatistiksel
@@ -36,7 +38,7 @@ psikoloji alanında çok yankı uyandırmıştır. Bu makalenin ikinci
 çalışmasında, hazırlama kısmında yaşlılıkla ilgili kelimelere maruz
 kalan katılımcıların, bu kelimelere maruz kalmayan katılımcılara
 kıyasla, laboratuvardan daha yavaş hareket ederek ayrıldığı
-bulunmuştur. 
+bulunmuştur.
 
 2012 yılında birkaç araştırmacı, bu çalışmayı tekrarlamaya çalışmıştır
 fakat daha büyük bir örneklem ve otomatik zamanlama yöntemi kullanmış
@@ -65,7 +67,7 @@ matematik testinde, erkeklerden daha düşük performans göstermişlerdir.
 [Diğer çalışma](https://doi.org/10.1037/0022-3514.69.5.797)da ise
 siyahi katılımcılar, beyaz katılımcılara kıyasla yeteneklerinin
 belirleneceği koşullarda, kalıpyargı tehdidi varken, daha düşük
-performans göstermiştir. 
+performans göstermiştir.
 
 2015 yılında yapılan bir [meta-analiz
 çalışması](https://doi.org/10.1016/j.jsp.2014.10.002)nda, 
@@ -92,14 +94,14 @@ birçok etki ve olay bu kuramla açıklanmaya çalışılmıştır. Örneğin,
 araştırma](https://doi.org/10.1037/0022-3514.77.5.905)da,
 ölümlülüğünü düşünmesi istenen katılımcıların önyargı puanları daha
 yüksek çıkmıştır çünkü kurama göre, kendi iç gruplarının devamlılığı
-sayesinde onlar da bir şekilde yeryüzünde kalmaya devam edeceklerdir. 
+sayesinde onlar da bir şekilde yeryüzünde kalmaya devam edeceklerdir.
 
 Bütün bu etki ve sebeplendirmelere karşın, yapılan [bir Many Lab
 Araştırması](https://doi.org/10.1037/abn0000421), bu
 kuramın ölümlülük etkisini hatırlatma sonucunu tekrarlayamamıştır. Bu
 araştırmanın diğer tekrarlama araştırmalarından önemli bir farkı
 orijinal yazarların da tekrar çalışmasına dâhil edilmiş olmasıdır ve
-kendilerinin dahil olup olmaması sonucu değiştirmemiştir. 
+kendilerinin dahil olup olmaması sonucu değiştirmemiştir.
 
 ## Macbeth Etkisi
 
@@ -143,7 +145,7 @@ dağılacaktır. Gözlemci etkisiyle ilgili bulgular, laboratuvarda yapılan
 deneylerden gelmektedir. Bu bulgular doğrultusunda, uzunca bir süre
 insanlara, eğer kalabalık bir ortamda yardıma ihtiyaç duyarlarsa, bu
 yardımı alma ihtimallerinin gözlemci etkisi dolayısıyla, kalabalığın
-boyutuyla doğru orantılı olarak azalacağı belirtilmiştir. 
+boyutuyla doğru orantılı olarak azalacağı belirtilmiştir.
 
 Fakat yakın zamanda yapılan [bir
 çalışma](https://www.ncbi.nlm.nih.gov/m/pubmed/31157529/#), 
@@ -170,7 +172,7 @@ katılımcılara duygusal (olumlu ya da olumsuz) içerikli bir film
 izletilmiştir. Katılımcıların bir kısmına, videoyu izlerken duygularını
 bastırması, diğer kısmına ise duygularını bastırmaması söylenmiştir.
 Duygularını bastırması istenen katılımcıların, çözülebilir anagramda
-daha düşük bir performans gösterdikleri gözlemlenmiştir. 
+daha düşük bir performans gösterdikleri gözlemlenmiştir.
 
 2016 senesinde Psychological Science'da çıkan [bir
 makale](https://doi.org/10.1177/1745691616652873)de, 23
@@ -249,7 +251,7 @@ Bebeklerın taklit etme yeteneği olduğuna dair varsayım, 1997 yılında
 çalışma](https://doi.org/10.1126/science.897687)ya
 dayanmaktadır. Çalışmada bebeklerin, yetişkinlerin mimiklerini taklit
 edebildikleri görülmüştür. Böylece taklit etme becerisinin doğuştan
-geldiği düşünülmüştür. 
+geldiği düşünülmüştür.
 
 Fakat 2016'da yapılan bir tekrarlama
 [çalışması](https://doi.org/10.1016/j.cub.2016.03.047)nda,
