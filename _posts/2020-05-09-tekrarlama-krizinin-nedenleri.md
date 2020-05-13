@@ -67,14 +67,14 @@ Fanelli, D. (2009). How many scientists fabricate and falsify research? A system
 
 ***
 
-[^1] _p_ değerini anlamlı bulana kadar veriyle oynamak ve farklı istatistiksel testler denemek.
+[^1]: _p_ değerini anlamlı bulana kadar veriyle oynamak ve farklı istatistiksel testler denemek.
 
-[^2] Bu terimi 1998’de psikolog [Norbert Kerr](https://www.ncbi.nlm.nih.gov/pubmed/15647155) alanyazına katmıştır. Araştırmanın sonuçları belli olunca baştaki hipotezlerin değiştirilip sonuçlara göre yeniden hipotez üretilmesi anlamına gelmektedir.
+[^2]: Bu terimi 1998’de psikolog [Norbert Kerr](https://www.ncbi.nlm.nih.gov/pubmed/15647155) alanyazına katmıştır. Araştırmanın sonuçları belli olunca baştaki hipotezlerin değiştirilip sonuçlara göre yeniden hipotez üretilmesi anlamına gelmektedir.
 
-[^3] Bilimsel verilerin ve sonuçlarının bir şekilde bozulmasını içeren uygulamalar.
+[^3]: Bilimsel verilerin ve sonuçlarının bir şekilde bozulmasını içeren uygulamalar.
 
-[^4] Bir akademik derginin, yayınladığı güncel makalelerine bulunulan ortalama atıf sayısını yansıtan bir ölçütüdür.
+[^4]: Bir akademik derginin, yayınladığı güncel makalelerine bulunulan ortalama atıf sayısını yansıtan bir ölçütüdür.
 
-[^5] İnsanlar kendi inandıkları düşünceyi doğrulayan bilgilere daha çok dikkat etme, o bilgileri arama ve daha iyi hatırlama eğilimindedirler.
+[^5]: İnsanlar kendi inandıkları düşünceyi doğrulayan bilgilere daha çok dikkat etme, o bilgileri arama ve daha iyi hatırlama eğilimindedirler.
 
-[^6] Sıfır/yokluk hipotezinin doğru olmasına rağmen reddedilmesi
+[^6]: Sıfır/yokluk hipotezinin doğru olmasına rağmen reddedilmesi
