@@ -28,7 +28,7 @@ derlemeye karar verdik. Keyifli okumalar.
 ## Sosyal Hazırlama
 
 İlk örneğimiz, sosyal psikolojide sıklıkla kullanılan hazırlama
-(priming), ve değişimleme (manipulation) kavramları ile ilgili.
+(_priming_), ve manipülasyon kavramları ile ilgili.
 Hazırlama, insanların davranışlarını, onlar farkında olmadan dolaylı
 ipuçlarıyla etkilemeye çalışmayı amaçlamaktır. Barg ve arkadaşlarının
 1996 yılında Journal of Personality and Social Psychology'de (JPSP)
@@ -50,9 +50,9 @@ katılımcının daha yavaş yürüyeceğini düşündüğü zaman katılımcıl
 gerçekten de daha yavaş yürüdüğü gözlemlenmiştir. Sosyal hazırlama
 deneylerini inceleyen bir
 [çalışma](https://doi.org/10.1177/0956797617737128), çoğu
-araştırmacının, çift körleme tipi desen kullanıp kullanmadıklarını
+araştırmacının, çift kör tipi desen kullanıp kullanmadıklarını
 belirtmediğini ortaya koymuştur. Ayrıca bu çalışmada sosyal hazırlama
-değişimlemesinde çıkan farkın değişimlemeden değil, deneycinin çift
+manipülasyonunda çıkan farkın manipülasyondan değil, deneycinin çift
 körlemeye maruz kalıp kalmamasından kaynaklandığı görülmüştür.
 
 ## Kalıpyargı Tehdidi
@@ -177,7 +177,7 @@ daha düşük bir performans gösterdikleri gözlemlenmiştir.
 2016 senesinde Psychological Science'da çıkan [bir
 makale](https://doi.org/10.1177/1745691616652873)de, 23
 laboratuvar, bu çalışmayı tekrarlamıştır. Bu çalışmadan önce yapılan
-meta-analizlerde, benlik tükenmesinin orta büyüklükte bir etkiye sahip
+meta analizlerde, benlik tükenmesinin orta büyüklükte bir etkiye sahip
 olduğu belirtilmiştir fakat bu makalede, çok küçük bir etki büyüklüğü
 bulunmuştur. Bununla birlikte, güven aralığı 0'ı barındırmaktadır.
 Baumeister ve Vohs'un bu konuya yazıyla verdiği [bir cevap
