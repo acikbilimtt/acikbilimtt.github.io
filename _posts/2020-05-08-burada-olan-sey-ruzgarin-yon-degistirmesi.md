@@ -2,7 +2,7 @@
 layout: post
 title: Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]
 author: Cavit Deniz Pala
-categories:
+categories: 
 tags:
 - çeviri
 - tekrarlama-krizi
@@ -27,13 +27,13 @@ karşılıklarını metinde parantez içinde belirttik. İyi okumalar.
 
 Biri bana Susan Fiske'in [şu
 makalesini](https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf)
-gönderdi, Psikolojik Bilimler Derneği'nin (İng. _Association for Psychological Science_) bir dergisi APS Observer'da yayımlanacakmış. Makale beni biraz
+gönderdi, Psikolojik Bilimler Derneği'nin (_Association for Psychological Science_) bir dergisi APS Observer'da yayımlanacakmış. Makale beni biraz
 üzdü, cevabımı [kısa ve
 tatlı](https://statmodeling.stat.columbia.edu/2016/09/20/methodological-terrorism/)
 tutasım vardı ama sonra konuyu biraz bağlamına oturtmaya değeceğini
 düşündüm.
 
-Önce sizinle makaleyi paylaşacağım, sonra da daha önemli gördüğüm meselelerde görüşlerimi sunacağım. Bu paylaşımın üst ve alt başlıkları; tekrarlama krizinin (İng. _replication crisis_) bilimin, özellikle sosyal psikolojinin, topografyasını değiştirmesi gerçeğine göndermede bulunuyor ve görüyorum ki Fiske gibi arazinin eski biçimine adapte olmuş kişiler için bu değişimler felaket gibi geliyor.
+Önce sizinle makaleyi paylaşacağım, sonra da daha önemli gördüğüm meselelerde görüşlerimi sunacağım. Bu paylaşımın üst ve alt başlıkları; tekrarlama krizinin (_replication crisis_) bilimin, özellikle sosyal psikolojinin, topografyasını değiştirmesi gerçeğine göndermede bulunuyor ve görüyorum ki Fiske gibi arazinin eski biçimine adapte olmuş kişiler için bu değişimler felaket gibi geliyor.
 
 Fiske'in metnini cümle cümle çürütmeyeceğim çünkü yazdıkları çoğunlukla
 psikoloji alanında neler yaşandığıyla ilgili (kariyerler, kadrolar,
@@ -81,7 +81,7 @@ yavaşça ilerleyerek o ağın hiçbir parçasını doğrulamadan ya da
 eleştirel olmayan bir okura 'bütüncül bir araştırma programı' gibi
 görünebilir."
 
-Bütün psikologlar Paul Meehl'in kim olduğunu biliyordu, yine de uyarılarını görmezden geldiler. Örneğin Robert Rosenthal "çekmecede kalan çalışmalar sorunu" (İng. _file drawer problem_) üzerine etkili bir makale yazdı ama galiba bu, dikkatimizi "bir şekilde istatistiksel anlamlılık bul ve zaferini ilan et" paradigmasının daha büyük sorunlarından uzaklaştırdı.
+Bütün psikologlar Paul Meehl'in kim olduğunu biliyordu, yine de uyarılarını görmezden geldiler. Örneğin Robert Rosenthal "çekmecede kalan çalışmalar sorunu" (_file drawer problem_) üzerine etkili bir makale yazdı ama galiba bu, dikkatimizi "bir şekilde istatistiksel anlamlılık bul ve zaferini ilan et" paradigmasının daha büyük sorunlarından uzaklaştırdı.
 
 1960'lar: Jacob Cohen istatistiksel güç hakkında çalışır, deneysel desen
 ve veri toplamanın psikolojide iyi araştırmanın temeli olduğu fikrini
@@ -101,7 +101,7 @@ yanlış anlayışlarına odaklanır ama sonra meslektaşları ile birlikte daha
 genel araştırma konularına geçiş yaparlar ve çalışmalarının araştırma
 pratikleriyle ilgisini tam olarak anlamazlar.
 
-1980'ler-1990'lar: Yokluk hipotezi anlamlılık testi (İng. _null hypothesis significance testing_) psikoloji dünyasında gittikçe daha [tartışmalı](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1999.10473888#.XfauZvxS_Dc)
+1980'ler-1990'lar: Yokluk hipotezi anlamlılık testi (_null hypothesis significance testing_) psikoloji dünyasında gittikçe daha [tartışmalı](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1999.10473888#.XfauZvxS_Dc)
 hale gelir. Ne yazık ki bu sorun, araştırmadan çok bir yöntem sorunu
 olarak değerlendirilir. Sanırım araştırma protokollerinde sorun
 olmadığını, yalnızca analizlerin biraz geliştirilmesi gerektiğini
@@ -139,10 +139,10 @@ eleştirilere geçiş yaptı. Neuroskeptic bloğu kendi başına büyük bir ola
 mıydı bilmiyorum ama o bilim-görüş blogculuğunun geleneksel politik
 konulardan içsel eleştiriye doğru kaymasının bir belirtisiydi.
 
-2011: Joseph Simmons, Leif Nelson ve Uri Simonsohn "[False-positive psychology](http://pss.sagepub.com/content/22/11/1359.short)" (Yanlış pozitif psikoloji) isimli bir makale yayımlarlar, makalede "araştırmacı serbestlik derecesi" (İng. _researcher degrees of freedom_) adını verdikleri kullanışlı terimi tanıtırlar. Daha sonra p-hackleme (İng. _p-hacking_) terimini ortaya atarlar ve Eric Loken ve ben [the garden
+2011: Joseph Simmons, Leif Nelson ve Uri Simonsohn "[False-positive psychology](http://pss.sagepub.com/content/22/11/1359.short)" (Yanlış pozitif psikoloji) isimli bir makale yayımlarlar, makalede "araştırmacı serbestlik derecesi" (_researcher degrees of freedom_) adını verdikleri kullanışlı terimi tanıtırlar. Daha sonra p-hackleme (İng. _p-hacking_) terimini ortaya atarlar ve Eric Loken ve ben [the garden
 of forking
 paths](http://www.stat.columbia.edu/\~gelman/research/unpublished/p_hacking.pdf)'te
-(Çatallanan patikalar bahçesi) araştırmacı serbestlik derecesinin
+(Yolları çatallanan bahçe) araştırmacı serbestlik derecesinin
 istatistiksel anlamlılığa ulaşmak için kullanılması süreçlerini
 anlatırız. ~~Simmons ve arkadaşlarının makalesi aynı zamanda kinayeli
 başlığıyla dikkat çekicidir: Yalnızca pozitif psikoloji alt alanının
@@ -152,16 +152,16 @@ yapmak gibi bir niyetlerinin de olmadığı konusunda beni bilgilendiren
 bir e-posta attı.)
 
 Aynı yıl Simohnson bir diğer
-[makalesinde](https://psycnet.apa.org/record/2011-02000-001) "Dennis adındaki dişçi" (İng. _dentist-named-Dennis_) makalesini yerden yere vurur. Psikoloji tarihinde çok önemli bir an değil belki ama benim için önemli çünkü bu, sonuçlarını hiç düşünmeden kabul ettiğim bir makaleydi. Ben de ampirik araştırmaların temel zayıflıklarından habersizdim o zamanlar.
+[makalesinde](https://psycnet.apa.org/record/2011-02000-001) "Dennis adındaki dişçi" (_dentist-named-Dennis_) makalesini yerden yere vurur. Psikoloji tarihinde çok önemli bir an değil belki ama benim için önemli çünkü bu, sonuçlarını hiç düşünmeden kabul ettiğim bir makaleydi. Ben de ampirik araştırmaların temel zayıflıklarından habersizdim o zamanlar.
 
-2011: Daryl Bem, "Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect" (Geleceği hissetmek: Bilişte ve duygulanımda anormal retroaktif etkilere dair deneysel kanıt) makalesini psikolojinin üst düzey dergilerinin birinde yayımlar. Çoğu kişi Bem'in duyumötesi algıyı (İng. _extrasensory perception_) keşfettiğini düşünmedi ama genel izlenim, yaptığı çalışmanın sağlam olduğu yönündeydi. Bu da psikoloji araştırmalarına dair bir endişe oluşturdu. Örneğin, New York Times [şöyle
+2011: Daryl Bem, "Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect" (Geleceği hissetmek: Bilişte ve duygulanımda anormal retroaktif etkilere dair deneysel kanıt) makalesini psikolojinin üst düzey dergilerinin birinde yayımlar. Çoğu kişi Bem'in duyumötesi algıyı (_extrasensory perception_) keşfettiğini düşünmedi ama genel izlenim, yaptığı çalışmanın sağlam olduğu yönündeydi. Bu da psikoloji araştırmalarına dair bir endişe oluşturdu. Örneğin, New York Times [şöyle
 yazdı](https://www.nytimes.com/2011/01/06/science/06esp.html):
 
 > Derginin editörü, Colorado Üniversitesinden Charles Judd, makalenin
 > olağan değerlendirme süreçlerinden geçtiğini söyledi. "Dört kişi metne
 > dair değerlendirmede bulundu ve bunlar son derece güvenilir kişiler".
 
-Geçmişe bakınca, Bem'in makalesinde devasa çoklu karşılaştırma (İng. _multiple comparisons_) sorunları vardı --editör ve dört hakem neye bakmaları gerektiğini bilmiyorlardı-- ama 2011 yılında böyle şeyleri fark etmekte pek iyi değildik.
+Geçmişe bakınca, Bem'in makalesinde devasa çoklu karşılaştırma (_multiple comparisons_) sorunları vardı --editör ve dört hakem neye bakmaları gerektiğini bilmiyorlardı-- ama 2011 yılında böyle şeyleri fark etmekte pek iyi değildik.
 
 Bu noktada şunu belirtelim, bazı eski çalışmalar bu açıdan benzeşiyor:
 Standart pratiklerdeki belirli yöntemsel kusurlar yalnızca tekil
@@ -202,7 +202,7 @@ Kanunu](https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/)'nu
 hatırla ("Yeterince boktan bir araştırma sahtekarlıktan ayırt
 edilemez.").
 
-2012: Gregory Francis, "[Too good to be true](http://www1.psych.purdue.edu/\~gfrancis/Publications/GFrancis-R1.pdf)"yu (Doğru olmak için fazla iyi) yayımlar, tekrar eden istatistiksel olarak anlamlı sonuçların (yani yayımlanan psikoloji makalelerinin standart pratiğinin), seçme yanlılığının (İng. _selection bias_) bir işareti olabileceğini öne süren bir dizi makalenin öncüsü olur. PubPeer başlar.
+2012: Gregory Francis, "[Too good to be true](http://www1.psych.purdue.edu/\~gfrancis/Publications/GFrancis-R1.pdf)"yu (Doğru olmak için fazla iyi) yayımlar, tekrar eden istatistiksel olarak anlamlı sonuçların (yani yayımlanan psikoloji makalelerinin standart pratiğinin), seçme yanlılığının (_selection bias_) bir işareti olabileceğini öne süren bir dizi makalenin öncüsü olur. PubPeer başlar.
 
 2013: Katherine Button, John Ioannidis, Claire Mokrysz, Brian Nosek,
 Jonathan Flint, Emma Robinson ve Marcus Munafo "[Power failure: Why
@@ -225,7 +225,7 @@ profilli başarısız tekrar çalışması basılır. Öncelikle Bem'in duyumöt
 algı çalışmasının hiç de sürpriz olmayan başarısız tekrar çalışması,
 (Bem kendisi başarılı tekrar çalışmaları olduğunu iddia ettiği bir
 makale yazdı ama meta analizi tekrar çalışması olmayan
-[birçok](https://statmodeling.stat.columbia.edu/2014/09/24/study-published-2011-followed-successful-replication-2003-cool/) çalışma da içeriyordu) arkasından da bedenleşmiş biliş (İng. _embodied cognition_), [ego tükenmesi](http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html) (İng. _ego depletion_) ve sosyal psikolojinin daha birçok saygın bulgusunun başarısız tekrar çalışmaları geldi.
+[birçok](https://statmodeling.stat.columbia.edu/2014/09/24/study-published-2011-followed-successful-replication-2003-cool/) çalışma da içeriyordu) arkasından da bedenleşmiş biliş (_embodied cognition_), [ego tükenmesi](http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html) (İng. _ego depletion_) ve sosyal psikolojinin daha birçok saygın bulgusunun başarısız tekrar çalışmaları geldi.
 
 2015: Araştırma kalitesi ve bilimsel yayımlama sürecine dair birçok
 kaygı Dana Carney, Amy Cuddy ve Andy Yap'in "[güç pozu](http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html)" (İng. _power pose_) araştırmalarında birleşti. Medya, bu çalışmaya bayıldı ama çalışma artık aşina olduğumuz araştırmacı serbestlik derecesi sorunundan fena halde muzdaripti (Uri Simonsohn'un [şu](http://datacolada.org/37) tartışmasına bakınız) ve
@@ -261,7 +261,7 @@ psikolojinin görünürde sağlam olan bulgularının tekrarlanamadığı ortaya
 
 # Şiddetliydi yağış ve dur durak bilmeden yağdı
 
-Evet, oldukça detaylı bir zaman çizelgesi çıkardık. Ama mesele şu: Uzun süredir hiçbir şey olmuyor ve ilk açığa çıkanlar ile teorik makalelerden sonra bile yalnızca araştırmalarınıza ve diğer sorumluluklarınıza odaklanırsanız krizi görmezden gelebilirsiniz. 2011 yılında hâlâ Daniel Kahneman bile hazırlama (İng. _priming_) çalışmaları hakkında şöyle [diyordu](http://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/):
+Evet, oldukça detaylı bir zaman çizelgesi çıkardık. Ama mesele şu: Uzun süredir hiçbir şey olmuyor ve ilk açığa çıkanlar ile teorik makalelerden sonra bile yalnızca araştırmalarınıza ve diğer sorumluluklarınıza odaklanırsanız krizi görmezden gelebilirsiniz. 2011 yılında hâlâ Daniel Kahneman bile hazırlama (_priming_) çalışmaları hakkında şöyle [diyordu](http://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/):
 "İnanmama seçeneğiniz yok. Sonuçlar ne uydurma ne de şans eseri. Bu
 çalışmaların temel sonuçlarının doğru olduğunu kabul etmekten başka
 şansınız yok."
@@ -378,7 +378,7 @@ tarzını benimsemiş görünüyorlar; esnek hipotezler,
 istatistiksel anlamlılıkla kanıtlama, eleştiriye karşı ciddiyetsiz
 tavır.
 
-Şunu da vurgulayayım, evet, istatistikçilerin bu tartışmada yararlı bir rolü olabilir. Fiske vs. istatistik ve araştırma yöntemlerinden nefret ediyorlarsa, sorun değil; her seferinde işleyen şeffaf deneyler tasarlayabilirler. Ama, hayır, iddialarını gürültülü (İng. _noisy_) veriden elde ettikleri p değerleriyle haklı çıkaranlar onlar, PPNAS'a gönderilen çalışmaları yeterince heyecan verici olmadıkları için reddedenler onlar, "p değeri .05'ten küçük" olan herhangi bir şeye (örneğin, kadınların oy tercihlerini ayın hangi gününde olduklarına göre yüzde yirmi oranında değiştirdikleri iddiası) inanıyor gibi görünenler onlar. Eğer oynamak istediğiniz oyun buysa, yöntem eleştirisi de tabii ki uygun.
+Şunu da vurgulayayım, evet, istatistikçilerin bu tartışmada yararlı bir rolü olabilir. Fiske vs. istatistik ve araştırma yöntemlerinden nefret ediyorlarsa, sorun değil; her seferinde işleyen şeffaf deneyler tasarlayabilirler. Ama, hayır, iddialarını gürültülü (_noisy_) veriden elde ettikleri p değerleriyle haklı çıkaranlar onlar, PPNAS'a gönderilen çalışmaları yeterince heyecan verici olmadıkları için reddedenler onlar, "p değeri .05'ten küçük" olan herhangi bir şeye (örneğin, kadınların oy tercihlerini ayın hangi gününde olduklarına göre yüzde yirmi oranında değiştirdikleri iddiası) inanıyor gibi görünenler onlar. Eğer oynamak istediğiniz oyun buysa, yöntem eleştirisi de tabii ki uygun.
 
 # Nehir tüm gün yükseldi, nehir tüm gece yükseldi
 
@@ -428,7 +428,7 @@ vardır. Bu işin iki yüzü var.
 
 # Bazıları kurtuldu
 
-Burada üzücü olan bir diğer şey de Fiske'in kendi ilkelerinden taviz vermesi gerektiğini hissetmesi. O, "filtresiz trash-talk'u"[^4], "ölçüsüz saldırıları" ve "düşmanca hırçınlığı" kınıyor ve "editöryal denetim ve hakem değerlendirmesinin (İng. _peer review_) önemini vurguluyor. Fiske'e göre eleştiriler, "çoğunlukla gizli ve yapıcı (hakem değerlendirmesi), ya da en azından ölçülü diyaloglar (özenli yorumlar ve çürütme yazıları) şeklinde" yapılmalı. Ve "bilimsel standartlar, etik normlar ve karşılıklı saygı"dan bahsediyor.
+Burada üzücü olan bir diğer şey de Fiske'in kendi ilkelerinden taviz vermesi gerektiğini hissetmesi. O, "filtresiz trash-talk'u"[^4], "ölçüsüz saldırıları" ve "düşmanca hırçınlığı" kınıyor ve "editöryal denetim ve hakem değerlendirmesinin (_peer review_) önemini vurguluyor. Fiske'e göre eleştiriler, "çoğunlukla gizli ve yapıcı (hakem değerlendirmesi), ya da en azından ölçülü diyaloglar (özenli yorumlar ve çürütme yazıları) şeklinde" yapılmalı. Ve "bilimsel standartlar, etik normlar ve karşılıklı saygı"dan bahsediyor.
 
 Ama Fiske, görüşlerini düşüncesiz saldırılarla moderasyonsuz bir forumda hakem değerlendirmesi veya yorum veya çürütme yazısı yazma fırsatı olmadan ifade ediyor; bu sırada isimsiz düşmanlarından "yöntem teröristleri" diye söz ediyor. Bana filtresiz trash-talk gibi geldi. Ama şunu da ekleyeyim, Fiske'i basketbol sahasında görmedim, yani _gerçekten_ trash-talk yaparken nasıl olduğu konusunda hiçbir fikrim
 yok.
@@ -450,7 +450,7 @@ da hoş olacak değil.
 
 # Nehir Plaquemines'e kadar her şeyi dümdüz etti
 
-Fiske sosyal medyadan rahatsız ve bunu anlayabilirim. Kendisi geleneksel medyanın tepesinde oturuyor. APS Observer'da bir makale yayımlayıp hakem değerlendirmesinden geçmesi gerekmeden bütün bu tartışmalara dahil olabilir, prestijli Proceedings of the National Academy of Sciences dergisine makale kabul etme gücü var; kendisinin ve iş arkadaşlarının çalışmaları ulusal gazeteler, TV, radyo ve hatta Ted konuşmalarında yer buluyor, duyduğum kadarıyla. Geleneksel (İng. _top-down_) medya Susan Fiske'in dostu. Sosyal medya, diğer yandan, kontrol sahibi olmadığı bir alan. Bu durum moral bozucu olmalı ve geleneksel medyanın başarılı bir kullanıcısı olarak ben de (Evet, ben de akademik dergilerde yayın yaptım.) yeni gelenler geleneksel yayın kanallarını gözardı ettiklerinde rahatsız olabiliyorum. Fiske ve ben gibi kişiler profesyonel yaşamlarımızı yayın ve atıf biçimindeki paralardan birer servet oluşturarak harcadık. Şimdi bu paraların değerini kaybettiğini görmek ya da eski usul parayla satın alınamayan şeyleri alabilen yeni bir para biriminin dolaşımda olduğunu düşünmek acı verici.
+Fiske sosyal medyadan rahatsız ve bunu anlayabilirim. Kendisi geleneksel medyanın tepesinde oturuyor. APS Observer'da bir makale yayımlayıp hakem değerlendirmesinden geçmesi gerekmeden bütün bu tartışmalara dahil olabilir, prestijli Proceedings of the National Academy of Sciences dergisine makale kabul etme gücü var; kendisinin ve iş arkadaşlarının çalışmaları ulusal gazeteler, TV, radyo ve hatta Ted konuşmalarında yer buluyor, duyduğum kadarıyla. Geleneksel (_top-down_) medya Susan Fiske'in dostu. Sosyal medya, diğer yandan, kontrol sahibi olmadığı bir alan. Bu durum moral bozucu olmalı ve geleneksel medyanın başarılı bir kullanıcısı olarak ben de (Evet, ben de akademik dergilerde yayın yaptım.) yeni gelenler geleneksel yayın kanallarını gözardı ettiklerinde rahatsız olabiliyorum. Fiske ve ben gibi kişiler profesyonel yaşamlarımızı yayın ve atıf biçimindeki paralardan birer servet oluşturarak harcadık. Şimdi bu paraların değerini kaybettiğini görmek ya da eski usul parayla satın alınamayan şeyleri alabilen yeni bir para biriminin dolaşımda olduğunu düşünmek acı verici.
 
 Fakat bir an kariyerleri unutup bilimi konuşalım.
 
@@ -511,7 +511,7 @@ falan değil. Ya da şöyle demeliyim, araştırmacı bireylerin hatalarını
 kabul etmeyi reddettikleri için kariyerlerini çıkmaz sokaklara
 adamaları, bilim yapmanın oldukça verimsiz bir yoludur.
 
-Hatalarımızdan öğreniriz; ama yalnızca onların hata olduğunu kabul edersek. Hata ayıklama (İng. _debug_) işbirliğiyle gerçekleşen bir süreçtir. Eğer bir kod yazarsan ve ben onda bir hata bulursam, bu beni muhalif yapmaz, iş ortağı yapar. Eğer hatalarını düzeltmekten kaçınmak için beni muhalif diye resmedersen, bu senin sorunun.
+Hatalarımızdan öğreniriz; ama yalnızca onların hata olduğunu kabul edersek. Hata ayıklama (_debug_) işbirliğiyle gerçekleşen bir süreçtir. Eğer bir kod yazarsan ve ben onda bir hata bulursam, bu beni muhalif yapmaz, iş ortağı yapar. Eğer hatalarını düzeltmekten kaçınmak için beni muhalif diye resmedersen, bu senin sorunun.
 
 # Bizi yıkıp geçmeye çalışıyorlar, bizi yıkıp geçmeye çalışıyorlar
 
