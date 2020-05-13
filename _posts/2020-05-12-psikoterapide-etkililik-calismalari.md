@@ -10,7 +10,7 @@ tags:
 image: 
 
 ---
-Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (_replication crisis_) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı "Psikoterapinin etkileri: bir değerlendirme" makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck'in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.
+Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (_replication crisis_) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı "Psikoterapinin etkileri: bir değerlendirme" makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik\[^1\] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck'in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.
 
 Hans Eysenck'in 1990'lı yıllarda yaptığı, kişilik ve sağlık davranışları
 ilgili çalışmaları bugün ciddi bir inceleme altında. İncelemeler 26
@@ -62,7 +62,7 @@ bekleme sırasında duran ve yine depresyon tanısı olan kişilerin aynı
 davranışçı terapinin depresyon tanısı alan kişiler için etkili bir
 tedavi imkanı sağladığı çıkarsaması yapılabilecektir.
 
-Ne yazık ki pek çok araştırmacı, psikoterapi etkililik çalışmaları alanyazınının ön kayıt[^2] açısından sorunlu (Pinto ve ark., 2013), örneklem sayısı az (Coyne ve Kok, 2014), istatistiksel gücü düşük (Sakaluk, Williams, Kilshaw ve Rhyner, 2019), yöntemsel sorunlar içeren (Coyne ve Kok, 2014), araştırmacıların araştırdıkları terapiye bağlılıklarının olduğu (Munder, Bruetsch, Leonhart, Gerger ve Barth, 2013), verilerin analizinin esnek bir şekilde gerçekleştiği (Tackett ve ark., 2017), çalışmayı bırakan kişilerin de veri analizine dahil edildiği (Cuijpers ve Criste, 2016) ve olumlu sonuç veren değişkenlerin seçici olarak rapor edildiği (Hengartner, 2018) çalışmalardan oluştuğunu belirtmektedir. Tüm bu tartışmalı araştırma pratiklerinin, çalışmaların etki büyüklüklerini olduğundan daha yüksek gösterdiği bilinmektedir. Örneğin bir psikoterapi yöntemini geliştiren, psikoterapi yöntemi açısından önemli kabul edilen ya da kendini bu psikoterapi yöntemine adamış birisini etkililik çalışmasına araştırmacı olarak dahil ederseniz daha yüksek bir etki büyüklüğüne ulaşabilirsiniz. Araştırmacılar bu garip durumu "bağlılık yanlılığı" olarak adlandırıyorlar (Cuijpers ve Criste, 2016; Munder ve ark., 2013).
+Ne yazık ki pek çok araştırmacı, psikoterapi etkililik çalışmaları alanyazınının ön kayıt\[^2\] açısından sorunlu (Pinto ve ark., 2013), örneklem sayısı az (Coyne ve Kok, 2014), istatistiksel gücü düşük (Sakaluk, Williams, Kilshaw ve Rhyner, 2019), yöntemsel sorunlar içeren (Coyne ve Kok, 2014), araştırmacıların araştırdıkları terapiye bağlılıklarının olduğu (Munder, Bruetsch, Leonhart, Gerger ve Barth, 2013), verilerin analizinin esnek bir şekilde gerçekleştiği (Tackett ve ark., 2017), çalışmayı bırakan kişilerin de veri analizine dahil edildiği (Cuijpers ve Criste, 2016) ve olumlu sonuç veren değişkenlerin seçici olarak rapor edildiği (Hengartner, 2018) çalışmalardan oluştuğunu belirtmektedir. Tüm bu tartışmalı araştırma pratiklerinin, çalışmaların etki büyüklüklerini olduğundan daha yüksek gösterdiği bilinmektedir. Örneğin bir psikoterapi yöntemini geliştiren, psikoterapi yöntemi açısından önemli kabul edilen ya da kendini bu psikoterapi yöntemine adamış birisini etkililik çalışmasına araştırmacı olarak dahil ederseniz daha yüksek bir etki büyüklüğüne ulaşabilirsiniz. Araştırmacılar bu garip durumu "bağlılık yanlılığı" olarak adlandırıyorlar (Cuijpers ve Criste, 2016; Munder ve ark., 2013).
 
 Amerikan Psikoloji Derneği'nin (APD) 12. dairesi olan Klinik Psikoloji
 Topluluğu, bir psikoterapinin etkililiğini Chambles ve Hollon'un 1998'de
@@ -78,142 +78,30 @@ edilirken, psikoterapinin etkililiği ile ilgili olarak tutarsız
 sonuçların olduğu durumlarda ise psikoterapi yöntemi tartışmalı desteğe
 sahip olarak nitelendirilmektedir.
 
-Görüldüğü gibi APD'nin bir psikoterapi yöntemini ampirik olarak destekli
-tedavi olarak nitelendirmesi, keyfi sayılabilecek kriterlere göre
-gerçekleşmektedir. Örneğin, iki bağımsız destekleyici çalışmanın
-varlığına rağmen, pek çok başka olumsuz sonuç veren çalışma varsa bu
-durumda ne yapılacaktır? Tabii ki Chambles ve Hollon (1998) böyle bir
-durumun farkında olarak bir psikoterapi yönteminin etkililiği ile ilgili
-yapılan çalışmaların daha kapsamlı olarak mümkünse meta-analizlerle
-değerlendirilmesi gerektiğini belirtirler. Birkaç sene önce ise Tolin,
-McKay, Forman, Klonsky ve Thombs (2015) psikoterapilerin etkililiğini
-değerlendirmek için daha kapsamlı ve bütüncül bir model önerisinde
-bulunmuşlardır (şu an 12. dairenin [internet
+Görüldüğü gibi APD'nin bir psikoterapi yöntemini ampirik olarak destekli tedavi olarak nitelendirmesi, keyfi sayılabilecek kriterlere göre gerçekleşmektedir. Örneğin, iki bağımsız destekleyici çalışmanın varlığına rağmen, pek çok başka olumsuz sonuç veren çalışma varsa bu durumda ne yapılacaktır? Tabii ki Chambles ve Hollon (1998) böyle bir durumun farkında olarak bir psikoterapi yönteminin etkililiği ile ilgili yapılan çalışmaların daha kapsamlı olarak mümkünse meta analizlerle değerlendirilmesi gerektiğini belirtirler. Birkaç sene önce ise Tolin, McKay, Forman, Klonsky ve Thombs (2015) psikoterapilerin etkililiğini değerlendirmek için daha kapsamlı ve bütüncül bir model önerisinde bulunmuşlardır (şu an 12. dairenin [internet
 sitesinde](https://www.div12.org/psychological-treatments/frequently-asked-questions/),
 önerilen psikoterapilerin yeni kriterlere göre değerlendirilme sürecinde
 olduğu ibaresi yer almaktadır). Şimdi isterseniz APD tarafından ampirik
 olarak desteklenmiş kabul edilen çalışmaların tekrarlama krizi
 bağlamında değerlendirildiği başka bir çalışmanın sonuçlarına bakalım.
 
-Sakaluk ve arkadaşları (2019), APD'nin internet sitesinde ampirik olarak desteklendiği belirtilen 79 psikoterapi yöntemini yanlış raporlanma oranları, tahmini istatistiksel güçleri, tekrarlama indeksleri ve Bayes faktörleri (p değeri sonuçlarına alternatif bir değerlendirme yöntemi) açısından analiz ediyorlar. Sonuçlar çok şaşırtıcı olmayarak, ampirik olarak desteklenmiş olduğu belirtilen tedavilerin 4 farklı değerlendirme değeri açısından, homojen olmayan bir dağılım gösterdiğini ortaya çıkarıyor. Çalışmaların ortalama istatistiksel güç değeri, tavsiye edilen .80 standartının (Cohen, 1992) altında kalarak .58 (SD = .21) olarak bulunurken ortalama tekrarlama indeksi .52 (SD = .24) olarak bulunuyor. Bu çalışmanın en önemli bulgusu ise APD'nin güçlü ampirik desteği olduğunu belirttiği pek çok psikoterapi yönteminin bile, güncel standartlar açısından problemli çalışmalar ile destekleniyor olduklarıydı. Örneğin, etkililikleri güçlü bir şekilde desteklenmiş sınıfında olan depresyon için bilişsel terapi çalışmalarının ulaştığı ortalama istatistiksel güç .62 iken, obsesif kompülsif bozukluk için maruz bırakma ve tepki önleme müdahalelerinin ulaştığı ortalama istatistiksel güç .57'idi. Düşük istatistiksel gücü olan bir çalışma, gerçekte olan bir etkiyi bulmak yerine aslında olmayan bir etkiyi varmış gibi gösteren bir sonuç çıkartabilir. Yani istatistiksel olarak anlamlı bulunan bu sonuç, tip I hatadan[^3] dolayı anlamlıymış gibi gözüküyor olabilir. Düşük istatistiksel gücün diğer bir olumsuz sonucu ise hatalı sonucun ortaya gerçekte olandan çok daha büyük bir etki büyüklüğü çıkarmasıdır. Bunlar psikolojinin her alanında olduğu gibi psikoterapi etkililik çalışmaları için de geçerli olan ciddi ve problematik durumlardır.
+Sakaluk ve arkadaşları (2019), APD'nin internet sitesinde ampirik olarak desteklendiği belirtilen 79 psikoterapi yöntemini yanlış raporlanma oranları, tahmini istatistiksel güçleri, tekrarlama indeksleri ve Bayes faktörleri (p değeri sonuçlarına alternatif bir değerlendirme yöntemi) açısından analiz ediyorlar. Sonuçlar çok şaşırtıcı olmayarak, ampirik olarak desteklenmiş olduğu belirtilen tedavilerin 4 farklı değerlendirme değeri açısından, homojen olmayan bir dağılım gösterdiğini ortaya çıkarıyor. Çalışmaların ortalama istatistiksel güç değeri, tavsiye edilen .80 standartının (Cohen, 1992) altında kalarak .58 (SD = .21) olarak bulunurken ortalama tekrarlama indeksi .52 (SD = .24) olarak bulunuyor. Bu çalışmanın en önemli bulgusu ise APD'nin güçlü ampirik desteği olduğunu belirttiği pek çok psikoterapi yönteminin bile, güncel standartlar açısından problemli çalışmalar ile destekleniyor olduklarıydı. Örneğin, etkililikleri güçlü bir şekilde desteklenmiş sınıfında olan depresyon için bilişsel terapi çalışmalarının ulaştığı ortalama istatistiksel güç .62 iken, obsesif kompülsif bozukluk için maruz bırakma ve tepki önleme müdahalelerinin ulaştığı ortalama istatistiksel güç .57'idi. Düşük istatistiksel gücü olan bir çalışma, gerçekte olan bir etkiyi bulmak yerine aslında olmayan bir etkiyi varmış gibi gösteren bir sonuç çıkartabilir. Yani istatistiksel olarak anlamlı bulunan bu sonuç, tip I hatadan\[^3\] dolayı anlamlıymış gibi gözüküyor olabilir. Düşük istatistiksel gücün diğer bir olumsuz sonucu ise hatalı sonucun ortaya gerçekte olandan çok daha büyük bir etki büyüklüğü çıkarmasıdır. Bunlar psikolojinin her alanında olduğu gibi psikoterapi etkililik çalışmaları için de geçerli olan ciddi ve problematik durumlardır.
 
-## Meta-Analizler Ne Kadar Güvenilir?
+## Meta Analizler Ne Kadar Güvenilir?
 
-Yıllar geçtikçe psikoterapilerin etkililiği ile ilgili yapılan
-çalışmaların sayısı arttıkça, tüm bu çalışmaların etkilerini bir bütün
-olarak değerlendirebilecek meta-analiz yöntemlerini çok daha sık olarak
-kullanmaya başladık. Meta-analiz yöntemini çok kabaca, pek çok farklı
-çalışma bulgusunun gösterdiği etkilerin ortalamasının alınması olarak
-tanımlayabiliriz. Böylece artık ampirik olarak desteklenmiş tedavileri
-belirlemek için iki tane altın standardımız vardır. İlki, bir
-psikoterapinin etkililiğini gösteren çalışmalar "seçkisiz kontrollü"
-şekilde gerçekleştirilecektir. Daha sonra, biriken "seçkisiz kontrollü
-çalışma" bulguları meta-analiz yöntemi ile değerlendirilerek bir
-psikoterapinin bilimsel olarak etkili bir tedavi yöntemi olup olmadığına
-karar verilecektir.
+Yıllar geçtikçe psikoterapilerin etkililiği ile ilgili yapılan çalışmaların sayısı arttıkça, tüm bu çalışmaların etkilerini bir bütün olarak değerlendirebilecek meta analiz yöntemlerini çok daha sık olarak kullanmaya başladık. Meta analiz yöntemini çok kabaca, pek çok farklı çalışma bulgusunun gösterdiği etkilerin ortalamasının alınması olarak tanımlayabiliriz. Böylece artık ampirik olarak desteklenmiş tedavileri belirlemek için iki tane altın standardımız vardır. İlki, bir psikoterapinin etkililiğini gösteren çalışmalar "seçkisiz kontrollü" şekilde gerçekleştirilecektir. Daha sonra, biriken "seçkisiz kontrollü çalışma" bulguları meta analiz yöntemi ile değerlendirilerek bir psikoterapinin bilimsel olarak etkili bir tedavi yöntemi olup olmadığına karar verilecektir.
 
-Yıllar boyunca kuramsal olarak her şey yolunda gibi gözüküyordu. Ta ki
-bazı meta-analiz çalışmalarına ait bulguların, diğer başka meta-analiz
-çalışmalarının bulguları ile çeliştiğini fark ettiğimiz ana kadar
-(Hengartner, 2018). Çünkü bir meta-analiz çalışmasının sonucunu, analize
-hangi çalışmaların dahil edileceğine yönelik kriterler ve analizin nasıl
-yapılacağı belirlemektedir. Bu dahil etme kriterleri ve analizin şekli
-değiştikçe meta-analizin aynı konuda ortaya çıkaracağı sonuç da
-değişecektir. Buna ek olarak meta-analiz çalışmaları ile ilgili başka
-pek çok problemin var olduğunu fark etmeye başladık. Bir meta-analize
-dahil edilen çalışmalar, alanyazındaki çeşitli bilimsel dergilerin
-yayınladığı makalelerden uygun kriterleri sağlayanların seçilmesi ile
-belirlenir. "Yayın yanlılığı" bize alanyazında mevcut olan makalelerin,
-ağırlıklı olarak olumlu sonuçları içeren makalelerden oluştuğunu
-belirtmektedir (Flint ve ark., 2015). Yani bilimsel olduğunu
-düşündüğümüz dergiler, bir araştırmacının bulduğu olumsuz sonuçları
-yayınlamaktan ziyade, bir etkinin bulunduğu ve olumlu sonuçları olan
-çalışmaları yayınlamaya daha çok meyillidirler. Böyle olunca olumsuz
-sonucu olan çalışmalar yayınlanamadığı için meta-analiz çalışmalarına da
-dahil edilemezler. Diyelim ki elinizde artı ve eksi pek çok sayı var ve
-bunların ortalamasını almanız gerekiyor. Ama siz işleminize ağırlıklı
-olarak sadece artı sayıları dahil ediyorsunuz. Bu da ortalamanızın
-olduğundan çok daha yüksek gözükmesine neden oluyor. Meta-analiz
-çalışmalarında olan durum da aşağı yukarı böyle bir şeydi.
+Yıllar boyunca kuramsal olarak her şey yolunda gibi gözüküyordu. Ta ki bazı meta analiz çalışmalarına ait bulguların, diğer başka meta analiz çalışmalarının bulguları ile çeliştiğini fark ettiğimiz ana kadar (Hengartner, 2018). Çünkü bir meta analiz çalışmasının sonucunu, analize hangi çalışmaların dahil edileceğine yönelik kriterler ve analizin nasıl yapılacağı belirlemektedir. Bu dahil etme kriterleri ve analizin şekli değiştikçe meta analizin aynı konuda ortaya çıkaracağı sonuç da değişecektir. Buna ek olarak meta analiz çalışmaları ile ilgili başka pek çok problemin var olduğunu fark etmeye başladık. Bir meta analize dahil edilen çalışmalar, alanyazındaki çeşitli bilimsel dergilerin yayınladığı makalelerden uygun kriterleri sağlayanların seçilmesi ile belirlenir. "Yayın yanlılığı" bize alanyazında mevcut olan makalelerin, ağırlıklı olarak olumlu sonuçları içeren makalelerden oluştuğunu belirtmektedir (Flint ve ark., 2015). Yani bilimsel olduğunu düşündüğümüz dergiler, bir araştırmacının bulduğu olumsuz sonuçları yayınlamaktan ziyade, bir etkinin bulunduğu ve olumlu sonuçları olan çalışmaları yayınlamaya daha çok meyillidirler. Böyle olunca olumsuz sonucu olan çalışmalar yayınlanamadığı için meta analiz çalışmalarına da dahil edilemezler. Diyelim ki elinizde artı ve eksi pek çok sayı var ve bunların ortalamasını almanız gerekiyor. Ama siz işleminize ağırlıklı olarak sadece artı sayıları dahil ediyorsunuz. Bu da ortalamanızın olduğundan çok daha yüksek gözükmesine neden oluyor. Meta analiz çalışmalarında olan durum da aşağı yukarı böyle bir şeydi.
 
-Flint ve arkadaşları 2015 yılında yaptıkları bir meta-analiz
-çalışmasında psikoterapinin depresyon rahatsızlığı için etkili bir
-tedavi yöntemi olup olmadığını belirlemeye çalıştılar. İncelikli bir
-taramadan sonra şartlara uyan 149 makaleyi dahil ettikleri meta-analizin
-sonucunda, psikoterapinin depresyon üzerindeki etkisini gösteren
-çalışmaların etki büyüklüğünün d = .55[^4] ve ortalama istatistiksel
-gücün .49 olduğunu buldular. Sadece bilişsel davranışçı terapileri
-içeren 92 çalışmanın etki büyüklüğü ise d = .58 olarak bulunmuştu. İki
-durumda da bulunan etki büyüklüğünün, ortalama etki seviyesini sadece
-biraz geçebilmiş olduğunu görüyoruz.
+Flint ve arkadaşları 2015 yılında yaptıkları bir meta analiz çalışmasında psikoterapinin depresyon rahatsızlığı için etkili bir tedavi yöntemi olup olmadığını belirlemeye çalıştılar. İncelikli bir taramadan sonra şartlara uyan 149 makaleyi dahil ettikleri meta analizin sonucunda, psikoterapinin depresyon üzerindeki etkisini gösteren çalışmaların etki büyüklüğünün d = .55\[^4\] ve ortalama istatistiksel gücün .49 olduğunu buldular. Sadece bilişsel davranışçı terapileri içeren 92 çalışmanın etki büyüklüğü ise d = .58 olarak bulunmuştu. İki durumda da bulunan etki büyüklüğünün, ortalama etki seviyesini sadece biraz geçebilmiş olduğunu görüyoruz.
 
-Bu değerler ışığında analize dahil edilen çalışmalardan 104 tanesinin
-istatistiksel olarak anlamlı ve olumlu sonuç vermesi bekleniyordu. Ancak
-istatistiksel olarak anlamlı sonuç veren çalışma sayısı 123'tü. Yani
-sonucu olumlu olan çalışmalar, alanyazında olması gerekenden çok daha
-fazla temsil ediliyor olabilirdi. Bu da meta-analizlerdeki etki
-büyüklüğünün olduğundan daha yüksek gözükmesine neden oluyordu. Aslında
-anti-depresan alanyazınında mevcut olan yayın yanlılığının, psikoterapi
-alanyazınına da sızmış olabileceği ortaya çıkmıştı (Flint ve ark., 2015;
-Turner, Matthews, Linardatos, Tell ve Rosenthal, 2008). Aynı yıl ise
-Driessen, Hollon, Bockting, Cuijpers ve Turner (2015) Amerika'da Milli
-Sağlık Enstitüsü tarafından fonlanan ve psikoterapinin depresyondaki
-etkililiğini değerlendiren 55 çalışmanın, %23.6'sının yayına
-dönüşmediğini tespit ettiler. Bu yayınlanmayan çalışmaların meta-analize
-dahil edilmesi durumunda bulunan etki büyüklüğünün g = .52'den g = .39'a
-düştüğünü buldular. Araştırmacılar bu düşük etkinin, raporlama yanlılığı
-kontrol edildiğinde daha da düşeceği noktasında okuyucuları
-uyarıyorlardı.
+Bu değerler ışığında analize dahil edilen çalışmalardan 104 tanesinin istatistiksel olarak anlamlı ve olumlu sonuç vermesi bekleniyordu. Ancak istatistiksel olarak anlamlı sonuç veren çalışma sayısı 123'tü. Yani sonucu olumlu olan çalışmalar, alanyazında olması gerekenden çok daha fazla temsil ediliyor olabilirdi. Bu da meta analizlerdeki etki büyüklüğünün olduğundan daha yüksek gözükmesine neden oluyordu. Aslında antidepresan alanyazınında mevcut olan yayın yanlılığının, psikoterapi alanyazınına da sızmış olabileceği ortaya çıkmıştı (Flint ve ark., 2015; Turner, Matthews, Linardatos, Tell ve Rosenthal, 2008). Aynı yıl ise Driessen, Hollon, Bockting, Cuijpers ve Turner (2015) Amerika'da Milli Sağlık Enstitüsü tarafından fonlanan ve psikoterapinin depresyondaki etkililiğini değerlendiren 55 çalışmanın, %23.6'sının yayına dönüşmediğini tespit ettiler. Bu yayınlanmayan çalışmaların meta analize dahil edilmesi durumunda bulunan etki büyüklüğünün g = .52'den g = .39'a düştüğünü buldular. Araştırmacılar bu düşük etkinin, raporlama yanlılığı kontrol edildiğinde daha da düşeceği noktasında okuyucuları uyarıyorlardı.
 
-Meta-analizlerle ilgili diğer bir problem ise az katılımcının olduğu ve
-iyi dizayn edilmemiş çalışmaların hesaplamalara dahil edilmesidir. Bu
-çalışmalar, istatistiksel yetersizlikleri sebebiyle çok yüksek etki
-büyüklükleri varmış gibi sonuçlar ortaya çıkarırlar ve
-meta-analizlerdeki etki büyüklüğünü şişirirler (Coyne ve Kok, 2014;
-Cuijpers ve Cristea, 2016; Hengartner, 2018). Cuijpers, Cristea,
-Karyotaki, Reijnders ve Huibers 2016 yılında yaptıkları bir meta-analiz
-çalışmasında bilişsel davranışçı terapinin majör depresyon, genel kaygı
-bozukluğu, panik bozukluk ve sosyal kaygı bozukluğu gibi
-rahatsızlıklarda etkili olup olmadığını test ettiler. İlginç olmayan bir
-bulgu, kaygı bozukluğu üzerine yapılan çalışmaların %80'inde kontrol
-grubu olarak alternatif aktif bir tedavi alan kişilerin yerine bekleme
-listesindeki katılımcıların kullanılmış olmasıydı. Bu durum çalışmalarda
-daha yüksek seviyede etki büyüklüğü çıkmasının sebeplerinden bir tanesi
-olarak görülmektedir (Coyne ve Kok, 2014). Çünkü bekleme listesinde
-olmak ya da hiçbir aktif tedavi almamak nocebo etkisi[^5] sebebiyle
-ekstra olumsuz sonuçlara neden olabilmekte ve kontrol grubunun ortalama
-sonuç puanlarını düşük tutabilmektedir (Furukawa ve ark., 2014).
-Çalışmalardan sadece %17.4'ü yüksek kaliteli sayılabilecek seviyedeydi.
-Bulunan şişmiş haldeki etki büyüklükleri yayın yanlılığı açısından
-kontrol edildiğinde ise etki büyüklüğü majör depresyon için g = .75'den
-g = .59'a, genel kaygı bozukluğu için g = .80'den g = .65'e düşüyordu.
+Meta analizlerle ilgili diğer bir problem ise az katılımcının olduğu ve iyi dizayn edilmemiş çalışmaların hesaplamalara dahil edilmesidir. Bu çalışmalar, istatistiksel yetersizlikleri sebebiyle çok yüksek etki büyüklükleri varmış gibi sonuçlar ortaya çıkarırlar ve meta analizlerdeki etki büyüklüğünü şişirirler (Coyne ve Kok, 2014; Cuijpers ve Cristea, 2016; Hengartner, 2018). Cuijpers, Cristea, Karyotaki, Reijnders ve Huibers 2016 yılında yaptıkları bir meta analiz çalışmasında bilişsel davranışçı terapinin majör depresyon, genel kaygı bozukluğu, panik bozukluk ve sosyal kaygı bozukluğu gibi rahatsızlıklarda etkili olup olmadığını test ettiler. İlginç olmayan bir bulgu, kaygı bozukluğu üzerine yapılan çalışmaların %80'inde kontrol grubu olarak alternatif aktif bir tedavi alan kişilerin yerine bekleme listesindeki katılımcıların kullanılmış olmasıydı. Bu durum çalışmalarda daha yüksek seviyede etki büyüklüğü çıkmasının sebeplerinden bir tanesi olarak görülmektedir (Coyne ve Kok, 2014). Çünkü bekleme listesinde olmak ya da hiçbir aktif tedavi almamak nocebo etkisi\[^5\] sebebiyle ekstra olumsuz sonuçlara neden olabilmekte ve kontrol grubunun ortalama sonuç puanlarını düşük tutabilmektedir (Furukawa ve ark., 2014). Çalışmalardan sadece %17.4'ü yüksek kaliteli sayılabilecek seviyedeydi. Bulunan şişmiş haldeki etki büyüklükleri yayın yanlılığı açısından kontrol edildiğinde ise etki büyüklüğü majör depresyon için g = .75'den g = .59'a, genel kaygı bozukluğu için g = .80'den g = .65'e düşüyordu.
 
-Bu sonuçların ne manaya geldiğini daha iyi anlamak için başka
-çalışmalara da bakmamız gerekiyor. Cuijpers ve arkadaşları 2013 yılında
-psikoterapiyi depresyon ve kaygı bozuklukları açısından ilaç tedavileri
-ile kıyaslayan bir meta-analiz çalışması yapıyorlar. Sonuçlar depresyon,
-panik bozukluğu ve sosyal kaygı bozukluğu için psikoterapi ve ilaç
-tedavileri arasında istatistiksel olarak anlamlı bir fark olmadığını
-gösteriyor. Bu çalışmanın başka bir sonucu ise distimide ilaç tedavileri
-daha fazla etki gösterirken, obsesif kompulsif bozukluk için
-psikoterapilerin daha etkili olduğu.
+Bu sonuçların ne manaya geldiğini daha iyi anlamak için başka çalışmalara da bakmamız gerekiyor. Cuijpers ve arkadaşları 2013 yılında psikoterapiyi depresyon ve kaygı bozuklukları açısından ilaç tedavileri ile kıyaslayan bir meta analiz çalışması yapıyorlar. Sonuçlar depresyon, panik bozukluğu ve sosyal kaygı bozukluğu için psikoterapi ve ilaç tedavileri arasında istatistiksel olarak anlamlı bir fark olmadığını gösteriyor. Bu çalışmanın başka bir sonucu ise distimide ilaç tedavileri daha fazla etki gösterirken, obsesif kompulsif bozukluk için psikoterapilerin daha etkili olduğu.
 
-Cuijpers ve arkadaşlarının (2013) yaptığı bir çalışmanın bulguları ise
-çok daha ilginç. Depresyon tedavisinde psikoterapinin placebo haplara
-kıyasla gösterdiği etki büyüklüğü sadece g = .25 kadar. Eğer placebo hap
-yerine psikoterapi alırsanız, Hamilton Depresyon Derecelendirme
-Ölçeğinden ortalama 2.66 puan[^6] daha düşük skor alıyorsunuz.
-Anti-depresan tedavisinin depresyon üzerindeki etki gücü ise .30 olarak
-bulunmuş (Khan ve Brown, 2015). Ancak bu sonuçları yorumlarken dikkat
-edilmesi gereken bir nokta var. Sugarman (2016) anti-depresan etkililik
-çalışmalarına katılan kişilerin, gerçek hayatta anti-depresan ilaç
-kullanan kişilere kıyasla çok daha fazla klinik bakıma maruz kalmaları
-ile ilgili bir uyarıda bulunuyor. Yani depresyon için anti-depresan
-tedavisinin etki büyüklüğünü olduğu gibi gerçek hayata taşımamız mümkün
-olmayabilir. Buna ek olarak anti-depresanların depresyon tedavisinde
-placebodan daha etkili olmayabileceğine dair pek çok çalışma ve tartışma
-mevcut (Kirsch ve Sapirtein, 1999; Kirsch ve ark., 2008; Munder ve ark.,
-2013; Rutherford ve Roose, 2013; Turner ve Rosenthal, 2008).
+Cuijpers ve arkadaşlarının (2013) yaptığı bir çalışmanın bulguları ise çok daha ilginç. Depresyon tedavisinde psikoterapinin placebo haplara kıyasla gösterdiği etki büyüklüğü sadece g = .25 kadar. Eğer placebo hap yerine psikoterapi alırsanız, Hamilton Depresyon Derecelendirme Ölçeğinden ortalama 2.66 puan\[^6\] daha düşük skor alıyorsunuz. Antidepresan tedavisinin depresyon üzerindeki etki gücü ise .30 olarak bulunmuş (Khan ve Brown, 2015). Ancak bu sonuçları yorumlarken dikkat edilmesi gereken bir nokta var. Sugarman (2016) antidepresan etkililik çalışmalarına katılan kişilerin, gerçek hayatta antidepresan ilaç kullanan kişilere kıyasla çok daha fazla klinik bakıma maruz kalmaları ile ilgili bir uyarıda bulunuyor. Yani depresyon için antidepresan tedavisinin etki büyüklüğünü olduğu gibi gerçek hayata taşımamız mümkün olmayabilir. Buna ek olarak antidepresanların depresyon tedavisinde placebodan daha etkili olmayabileceğine dair pek çok çalışma ve tartışma mevcut (Kirsch ve Sapirtein, 1999; Kirsch ve ark., 2008; Munder ve ark., 2013; Rutherford ve Roose, 2013; Turner ve Rosenthal, 2008).
 
 Başka bir Cuijpers ve arkadaşları (2014) çalışmasının bulgusuna göre ise
 majör depresyon için psikoterapi alan kişilerin %62'si tedavi sonrasında
@@ -228,42 +116,15 @@ iyileşme oranlarının yüksekliğinin, etkili olduğu iddia edilen tedavi
 yöntemlerinin sonuçları açısından ciddi bir kafa karışıklığı yaratıyor
 olduğu.
 
-Peki kişilik bozuklukları için nasıl bir durum var? Cristea ve
-arkadaşları (2017), sınır kişilik bozukluğu için diyalektik davranış
-terapisi ve psikodinamik yaklaşımlı psikoterapilerin etkililik
-çalışmalarını bir meta-analize sokuyorlar. Sonuç olarak semptomlar
-kendine zarar verme ve intihar değişkenleri beraber ele alındığında,
-psikoterapilerin sınır durum kişilik bozukluğunun tedavisinde g = .32
-civarında, yani düşük ve ortalama arası bir etki büyüklüğüne sahip
-olduğu gözüküyor. Araştırmacılar bu etki büyüklüğünün düşük olduğunu ve
-yayın yanlılığı ve yanlılık riski gibi faktörlerin mevcut etki
-büyüklüğünü olduğundan daha yüksek gösteriyor olabileceğini
-belirtiyorlar.
+Peki kişilik bozuklukları için nasıl bir durum var? Cristea ve arkadaşları (2017), sınır kişilik bozukluğu için diyalektik davranış terapisi ve psikodinamik yaklaşımlı psikoterapilerin etkililik çalışmalarını bir meta 
+
+analize sokuyorlar. Sonuç olarak semptomlar kendine zarar verme ve intihar değişkenleri beraber ele alındığında, psikoterapilerin sınır durum kişilik bozukluğunun tedavisinde g = .32 civarında, yani düşük ve ortalama arası bir etki büyüklüğüne sahip olduğu gözüküyor. Araştırmacılar bu etki büyüklüğünün düşük olduğunu ve yayın yanlılığı ve yanlılık riski gibi faktörlerin mevcut etki büyüklüğünü olduğundan daha yüksek gösteriyor olabileceğini belirtiyorlar.
 
 ## Tüm bu sonuçları nasıl özetleyebiliriz?
 
-Öncelikle psikoterapilerin düşünüldüğü kadar etkili bir tedavi yöntemi olmayabileceğini net bir şekilde görüyoruz. Psikoterapi çalışmalarının etki büyüklüğü, psikoterapinin kendi etkililiği dışındaki pek çok karıştırıcı faktörden ciddi oranda etkileniyor. Geçmişte yapılan düşük katılımcı sayısına sahip ve özensiz araştırma dizaynları içeren psikoterapi etkililik çalışmaları ve bu çalışmaların dahil edilmesi ile yapılan meta-analizler, psikoterapilerin etki büyüklüğünün olduğundan çok daha yüksek gözükmesine sebep olmuştu (Johnsen ve Friborg; 2015; Friborg ve Johnsen, 2017). Bunlara ek olarak yüksek katılımcılı ve kaliteli çalışmaları içeren meta-analizler bile yayın ya da raporlama yanlılığı gibi faktörlerden dolayı gerçekte olduğundan daha yüksek etki büyüklükleri hesaplıyorlardı. Psikoterapilerin etkililiğini gösteren çalışmaların tekrar edilebilirlik açısından düşük istatistiksel güce sahip olduklarını ve bir kısmının sonuçlarının tip I hata sebebiyle olumlu çıkıyor olabileceğini de artık daha net olarak görebiliyoruz. Yine de unutmamamız gerekiyor ki psikoterapi gibi kompleks bir sürecin nicel olarak değerlendirilmeye çalışılması, psikoterapinin etkililiğini gösteren bazı değişkenlerin sayılara çevrilirken nitel anlamda önemli kayıplar yaşamasına neden oluyor olabilir. Ayrıca psikoterapi çalışmalarının etkililiklerinin sadece semptom bazında ölçülmesinin anlamsız olabileceği ve hayat kalitesi, işlevsellik ve hayat anlamı kazanma gibi değişkenlerin de ölçüm kriterlerine dahil edilmesi gerektiğine yönelik eleştiriler de var.
+Öncelikle psikoterapilerin düşünüldüğü kadar etkili bir tedavi yöntemi olmayabileceğini net bir şekilde görüyoruz. Psikoterapi çalışmalarının etki büyüklüğü, psikoterapinin kendi etkililiği dışındaki pek çok karıştırıcı faktörden ciddi oranda etkileniyor. Geçmişte yapılan düşük katılımcı sayısına sahip ve özensiz araştırma dizaynları içeren psikoterapi etkililik çalışmaları ve bu çalışmaların dahil edilmesi ile yapılan meta analizler, psikoterapilerin etki büyüklüğünün olduğundan çok daha yüksek gözükmesine sebep olmuştu (Johnsen ve Friborg; 2015; Friborg ve Johnsen, 2017). Bunlara ek olarak yüksek katılımcılı ve kaliteli çalışmaları içeren meta analizler bile yayın ya da raporlama yanlılığı gibi faktörlerden dolayı gerçekte olduğundan daha yüksek etki büyüklükleri hesaplıyorlardı. Psikoterapilerin etkililiğini gösteren çalışmaların tekrar edilebilirlik açısından düşük istatistiksel güce sahip olduklarını ve bir kısmının sonuçlarının tip I hata sebebiyle olumlu çıkıyor olabileceğini de artık daha net olarak görebiliyoruz. Yine de unutmamamız gerekiyor ki psikoterapi gibi kompleks bir sürecin nicel olarak değerlendirilmeye çalışılması, psikoterapinin etkililiğini gösteren bazı değişkenlerin sayılara çevrilirken nitel anlamda önemli kayıplar yaşamasına neden oluyor olabilir. Ayrıca psikoterapi çalışmalarının etkililiklerinin sadece semptom bazında ölçülmesinin anlamsız olabileceği ve hayat kalitesi, işlevsellik ve hayat anlamı kazanma gibi değişkenlerin de ölçüm kriterlerine dahil edilmesi gerektiğine yönelik eleştiriler de var.
 
-Farklı terapi yöntemleri açısından bir değerlendirme yaparsak, bilişsel
-davranışçı terapiye yönelik yapılan çalışmaların diğer terapi
-yaklaşımlarına kıyasla çok daha fazla sayıda olduğunu görüyoruz. Yani
-psikoterapinin genel etkililiğini değerlendiren meta-analiz
-çalışmalarında, sayısal ağırlık bilişsel davranışçı terapilere yönelik
-etkililik çalışmalarında. Terapi yöntemleri arasındaki kuramsal ve
-uygulamaya yönelik önemli farkları düşünürsek, tüm terapi yöntemlerinin
-etkililiğini tek bir potada eriten çalışmalar, bu farkları görmezden
-geliyor olabilir. Geçmişte psikodinamik psikoterapiler ile ilgili çok az
-sayıda çalışma varken, artık bu çalışmaların sayısı git gide artmakta.
-Çalışmaların kalitesini ve yetkinliğini bir kenara bırakırsak,
-psikodinamik psikoterapilerin bilişsel davranışçı terapiler kadar etkili
-ve yer yer ondan daha etkili bir psikoterapi yöntemi olabileceğine dair
-bazı bulgular mevcut (Driessen ve ark., 2010; Driessen ve ark., 2015;
-Leichsenring ve Rabung, 2008; Leichsenring ve Rabung, 2011; Tolin,
-2010). Ancak meta-analiz çalışmalarının sonuçlarının, farklı tedavi
-yöntemlerinden hangisinin daha tercih edilebilir olduğu konusunda
-bizlere çok fazla yardımı dokunmadığı da aşikar. Bir meta-analiz
-çalışmasının ortaya attığı iddia, 6 ay sonraki başka bir meta-analiz
-çalışması ile yanlışlanabiliyor.
+Farklı terapi yöntemleri açısından bir değerlendirme yaparsak, bilişsel davranışçı terapiye yönelik yapılan çalışmaların diğer terapi yaklaşımlarına kıyasla çok daha fazla sayıda olduğunu görüyoruz. Yani psikoterapinin genel etkililiğini değerlendiren meta analiz çalışmalarında, sayısal ağırlık bilişsel davranışçı terapilere yönelik etkililik çalışmalarında. Terapi yöntemleri arasındaki kuramsal ve uygulamaya yönelik önemli farkları düşünürsek, tüm terapi yöntemlerinin etkililiğini tek bir potada eriten çalışmalar, bu farkları görmezden geliyor olabilir. Geçmişte psikodinamik psikoterapiler ile ilgili çok az sayıda çalışma varken, artık bu çalışmaların sayısı git gide artmakta. Çalışmaların kalitesini ve yetkinliğini bir kenara bırakırsak, psikodinamik psikoterapilerin bilişsel davranışçı terapiler kadar etkili ve yer yer ondan daha etkili bir psikoterapi yöntemi olabileceğine dair bazı bulgular mevcut (Driessen ve ark., 2010; Driessen ve ark., 2015; Leichsenring ve Rabung, 2008; Leichsenring ve Rabung, 2011; Tolin, 2010). Ancak meta analiz çalışmalarının sonuçlarının, farklı tedavi yöntemlerinden hangisinin daha tercih edilebilir olduğu konusunda bizlere çok fazla yardımı dokunmadığı da aşikar. Bir meta analiz çalışmasının ortaya attığı iddia, 6 ay sonraki başka bir meta analiz çalışması ile yanlışlanabiliyor.
 
 İşte tam bu sebeplerden dolayı, klinik psikolojiinin tekrarlama krizinin
 tam ortasında konumlanması gereken bir alan olduğunu söyleyebiliriz.
@@ -275,25 +136,7 @@ yanlış olmasa gerek. Bu etik sorumluluğun bizleri, alanımızın ve
 psikoterapi araştırmalarının da içinde bulunduğu genel krizin çözümüne
 yönelik bir arayış için harekete geçirmesi gerekiyor.
 
-Klinisyenler olarak çoğu zaman psikoterapinin ilaç tedavisine kıyasla
-daha yüksek bir etki gösterdiğini varsaymaya yönelik bir yanlılığımız
-var. Ancak çalışmalar bu durumun sadece belli psikopatolojiler (örn,
-obsesif kompulsif bozukluk) için geçerli olduğunu, genel anlamda bu tarz
-bir kanıya varmanın doğru olmayabileceğini gösteriyor. Öte yandan
-psikoterapinin ilaç tedavisine kıyasla daha uzun vadeli değişimler
-yarattığı ya da ilaç tedavisinin psikoterapiye kıyasla çok daha uygun
-maliyetli bir tedavi şekli olduğu iddia edilebilir. Yani ilaç tedavisi
-kişinin sorunları için sadece geçici bir çözümdür ancak maliyeti
-düşünüldüğünde daha tercih edilebilir olabilir. Bu konuda net bir kanıya
-varmak için çok daha fazla sayıda takip çalışmasına ihtiyacımız var gibi
-gözüküyor. Sonuç olarak en iyi ihtimalle 12, 16 ya da 20 seans süren bir
-psikoterapi, ilaç tedavisine kıyasla daha verimli bir tedavi alternatifi
-sunabilir mi? Bunu zaman ve yapılan yeni çalışmalar gösterecek. Yakın
-zamanda yapılan ve sağlık sektörü ile sosyal maliyetleri değerlendiren
-bir maliyet-fayda modellemesi, anti-depresan ilacın birinci yıl için,
-bilişsel davranışçı terapinin ise beşinci yıl için avantajlı bir tedavi
-tercihi sunabildiğini gösteriyor (Ross, Vijan, Miller, Valenstein ve
-Zivin, 2019).
+Klinisyenler olarak çoğu zaman psikoterapinin ilaç tedavisine kıyasla daha yüksek bir etki gösterdiğini varsaymaya yönelik bir yanlılığımız var. Ancak çalışmalar bu durumun sadece belli psikopatolojiler (örn, obsesif kompulsif bozukluk) için geçerli olduğunu, genel anlamda bu tarz bir kanıya varmanın doğru olmayabileceğini gösteriyor. Öte yandan psikoterapinin ilaç tedavisine kıyasla daha uzun vadeli değişimler yarattığı ya da ilaç tedavisinin psikoterapiye kıyasla çok daha uygun maliyetli bir tedavi şekli olduğu iddia edilebilir. Yani ilaç tedavisi kişinin sorunları için sadece geçici bir çözümdür ancak maliyeti düşünüldüğünde daha tercih edilebilir olabilir. Bu konuda net bir kanıya varmak için çok daha fazla sayıda takip çalışmasına ihtiyacımız var gibi gözüküyor. Sonuç olarak en iyi ihtimalle 12, 16 ya da 20 seans süren bir psikoterapi, ilaç tedavisine kıyasla daha verimli bir tedavi alternatifi sunabilir mi? Bunu zaman ve yapılan yeni çalışmalar gösterecek. Yakın zamanda yapılan ve sağlık sektörü ile sosyal maliyetleri değerlendiren bir maliyet-fayda modellemesi, antidepresan ilacın birinci yıl için, bilişsel davranışçı terapinin ise beşinci yıl için avantajlı bir tedavi tercihi sunabildiğini gösteriyor (Ross, Vijan, Miller, Valenstein ve Zivin, 2019).
 
 Tüm bu bilgilerin ışığında, depresyon için bir şerh koyarak, Hans
 Eysenck'in psikoterapinin etkili bir tedavi yöntemi olmadığı iddiasının
@@ -469,19 +312,19 @@ Tolin, D. F., McKay, D., Forman, E. M., Klonsky, E. D., & Thombs, B. D.
 (2015). Empirically supported treatment: Recommendations for a new
 model. _Clinical Psychology: Science and Practice_, _22_(4), 317-338.
 
-[^1]: Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif
+\[^1\]: Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif
 kompulsif bozukluk gibi psikopatolojileri sınıflandırmak için
 kullanılan bir ifade.
 
-[^2]: Ön kayıt (pre-registration): Yapılacak çalışmanın yürütme, veri toplama ve analiz süreçlerinin önceden belirlenip açık şekilde kayıt altına alınması.
+\[^2\]: Ön kayıt (_pre-registration_): Yapılacak çalışmanın yürütme, veri toplama ve analiz süreçlerinin önceden belirlenip açık şekilde kayıt altına alınması.
 
-[^3]: Tip I hata: Yanlış pozitif. Analizin gerçekte olmayan bir etkiyi varmış gibi göstermesi.
+\[^3\]: Tip I hata: Yanlış pozitif. Analizin gerçekte olmayan bir etkiyi varmış gibi göstermesi.
 
-[^4]: Etki büyüklüğü açısından: düşük etki .20, ortalama etki .50, güçlü
+\[^4\]: Etki büyüklüğü açısından: düşük etki .20, ortalama etki .50, güçlü
 etki .80 (Lakens, 2013).
 
-[^5]: Nocebo etkisi: Placebo etkisinin tersine beklentini olumsuz sonuç
+\[^5\]: Nocebo etkisi: Placebo etkisinin tersine beklentini olumsuz sonuç
 doğurması
 
-[^6]: Hamilton Depresyon Değerlendirme Ölçeği için minimum skor: 0,
+\[^6\]: Hamilton Depresyon Değerlendirme Ölçeği için minimum skor: 0,
 maksimum skor: 52.
