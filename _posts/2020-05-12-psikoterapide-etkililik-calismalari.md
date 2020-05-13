@@ -316,7 +316,7 @@ model. _Clinical Psychology: Science and Practice_, _22_(4), 317-338.
 
 \[^2\]: Ön kayıt (_pre-registration_): Yapılacak çalışmanın yürütme, veri toplama ve analiz süreçlerinin önceden belirlenip açık şekilde kayıt altına alınması.
 
-\[^3\]: Tip I hata: Yanlış pozitif. Analizin gerçekte olmayan bir etkiyi varmış gibi göstermesi.
+\[^3\]: Tip I Hata: Yanlış pozitif. Analizin gerçekte olmayan bir etkiyi varmış gibi göstermesi.
 
 \[^4\]: Etki büyüklüğü açısından: düşük etki .20, ortalama etki .50, güçlü etki .80 (Lakens, 2013).
 
