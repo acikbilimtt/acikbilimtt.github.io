@@ -159,13 +159,13 @@ göstermiştir. Klasik gözlemci etkisi araştırmalarının bulgularının
 aksine, bu çalışmada daha fazla gözlemcinin olduğu durumlarda, kişinin
 yardım alma olasılığı daha yüksek olduğu bulunmuştur.
 
-## Benlik Tükenmesi
+## Ego Tükenmesi
 
 Baumeister ve ekibinin ilk olarak gösterdiği
 [çalışma](https://doi.org/10.1037//0022-3514.74.5.1252)da
-benlik kontrolünün sınırlı bir kaynak olduğu ve bu kaynak çok
-kullanıldığında benlik tükenmesine yol açabileceği görülmüştür. Buna
-göre, benlik kontrolünün bir olay ya da durum karşısında harcanması
+ego kontrolünün sınırlı bir kaynak olduğu ve bu kaynak çok
+kullanıldığında ego tükenmesine yol açabileceği görülmüştür. Buna
+göre, ego kontrolünün bir olay ya da durum karşısında harcanması
 sonucunda başka bir durum ya da olayla karşılaşıldığında harcayacak
 kontrolün kalmaması bir olasılıktır. Bu araştırmanın 3. çalışmasında,
 katılımcılara duygusal (olumlu ya da olumsuz) içerikli bir film
@@ -177,7 +177,7 @@ daha düşük bir performans gösterdikleri gözlemlenmiştir.
 2016 senesinde Psychological Science'da çıkan [bir
 makale](https://doi.org/10.1177/1745691616652873)de, 23
 laboratuvar, bu çalışmayı tekrarlamıştır. Bu çalışmadan önce yapılan
-meta analizlerde, benlik tükenmesinin orta büyüklükte bir etkiye sahip
+meta analizlerde, ego tükenmesinin orta büyüklükte bir etkiye sahip
 olduğu belirtilmiştir fakat bu makalede, çok küçük bir etki büyüklüğü
 bulunmuştur. Bununla birlikte, güven aralığı 0'ı barındırmaktadır.
 Baumeister ve Vohs'un bu konuya yazıyla verdiği [bir cevap
