@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/bilimin-ayiplama-kulturunu-degistirme-cagrisi.md
