@@ -2,11 +2,11 @@
 layout: post
 title: Psikoloji Neden Tekrarlama Krizi İçinde?
 author: Emine Bilgen
-categories: 
+categories:
 tags:
 - tekrarlama krizi
 - açık bilim
-image: 
+image:
 
 ---
 Tekrarlama krizinin _(replication crisis)_ sonuçlarıyla ilgili birçok yazıyı web sitemizde derledik. Sonuçları kadar bu krizin nedenlerine bakmak da önemli. Nitekim bu krize sebebiyet veren etmenleri anlamazsak açık bilim yolunda çok yol katedemeyiz. Birçok yazımızda krizin nedenlerine ufak ufak değinmiş olmamıza karşın, bunların hepsini bir yazıda görmek mevcut durumu daha iyi anlamamıza katkı sağlayacaktır.
@@ -43,7 +43,7 @@ TAU’nun ne kadar yaygın olduğunu anlamak için [John, Loewenstein ve Prelec]
 
 Her ne kadar oransal olarak araştırmacıların, dergilerin gerçek dışı beklentilerini karşılamak için başvurduğu yöntemlerin çok azını oluştursa da sahtekarlık konusuna da değinmek gerekir; zira yayımla ya da yok ol anlayışı ve yayın yanlılığının insanları getirdiği en uç nokta burası. Bu konuda Diederik Stapel, en çok bilinen vakalardan birisi. Tilburg Üniversitesinde görev yaparken veri uydurmak ve değiştirmekten dolayı araştırmaları geri çekilmiş (_retract)_ ve işine son verilmişti. Her ne kadar kendisi sahtekarlık denilince akla gelen ilk isimlerden olsa da [Daniele Fanelli](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738) (2009) meta analiz çalışmasında bilim insanlarının %2’sinin sahtekarlık sayılabilecek uygulamalarda bulunduğunu göstermiştir ([Chambers, 2019](https://press.princeton.edu/books/paperback/9780691192277/the-seven-deadly-sins-of-psychology)).
 
-Görüldüğü üzere şu an içinde bulunulan kriz kaçınılmazdı ve mevcut koşulları iyileştirmeden krizden çıkabilmemiz çok olası görünmemekte. Aslında pek çok ilerleme katedildi _(ön kayıt ve doğrulayıcı çalışmalar kısmına link)_ fakat daha çok yol alınması gerekmekte. Vurguyu bağlama yapmayı önemsiyoruz, zira yanlış uygulamaları benimseyen bilim insanlarını suçlamak kolaya kaçmak olacaktır ve durumu çözmeyecektir. Elbette ki amacımız Stapel’i ya da yanlış uygulamalarda bulunan diğer bilim insanlarını aklamak değil. Ancak dikkatimizi bu insanların neden bu tür uygulamalarda bulunduğuna yöneltirsek ve kişileri bu tür uygulamalara iten nedenleri ortadan kaldırmaya çalışırsak, gelecekte böyle vakaların önüne geçilmesi daha kolay olacaktır.
+Görüldüğü üzere şu an içinde bulunulan kriz kaçınılmazdı ve mevcut koşulları iyileştirmeden krizden çıkabilmemiz çok olası görünmemekte. Aslında (pek çok ilerleme katedildi) [https://acikbilimtt.github.io/onkay%C4%B1t-ve-dogrulayici-calismalar.html] fakat daha çok yol alınması gerekmekte. Vurguyu bağlama yapmayı önemsiyoruz, zira yanlış uygulamaları benimseyen bilim insanlarını suçlamak kolaya kaçmak olacaktır ve durumu çözmeyecektir. Elbette ki amacımız Stapel’i ya da yanlış uygulamalarda bulunan diğer bilim insanlarını aklamak değil. Ancak dikkatimizi bu insanların neden bu tür uygulamalarda bulunduğuna yöneltirsek ve kişileri bu tür uygulamalara iten nedenleri ortadan kaldırmaya çalışırsak, gelecekte böyle vakaların önüne geçilmesi daha kolay olacaktır.
 
 Kaynakça
 
