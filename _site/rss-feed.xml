@@ -7,20 +7,13 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Psikoterapi Etkililik Çalışmaları, Meta-analizler ve Tekrarlama Krizi</title>
+				<title>Psikoterapi Etkililik Çalışmaları, Meta analizler ve Tekrarlama Krizi</title>
 				
 					<dc:creator>Kutlu Kağan Türkaslan</dc:creator>
 				
 				
-					<description>&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (İng. &lt;em&gt;replication crisis&lt;/em&gt;) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayınladığı “Psikoterapinin etkileri: bir değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
+					<description>&lt;p&gt;Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (&lt;em&gt;replication crisis&lt;/em&gt;) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayımladığı “Psikoterapinin etkileri: Bir değerlendirme” makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck’in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Nevrotik: O dönemlerde fobi, kaygı bozuklukları ve obsesif &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
 </description>
 				
 				<pubDate>Tue, 12 May 2020 00:00:00 +0300</pubDate>
@@ -34,13 +27,13 @@
 					<dc:creator>Özge Bozkurt</dc:creator>
 				
 				
-					<description>&lt;p&gt;Ön kayıt (&lt;em&gt;preregistration&lt;/em&gt;), yapılan keşif (&lt;em&gt;exploratory&lt;/em&gt;) çalışmalarını ve doğrulayıcı (&lt;em&gt;confirmatory&lt;/em&gt;) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, &amp;amp; Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: tekrar edilemeyen 10 psikoloji çalışması ve rüzgârın yön değiştirmesi). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (yokluk hipotezi anlamlılık testi/null hypothesis significance testing), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, &amp;amp; Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.&lt;/p&gt;
+					<description>&lt;p&gt;Ön kayıt (&lt;em&gt;preregistration&lt;/em&gt;), yapılan keşif (&lt;em&gt;exploratory&lt;/em&gt;) çalışmalarını ve doğrulayıcı (&lt;em&gt;confirmatory&lt;/em&gt;) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, &amp;amp; Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: &lt;a href=&quot;https://acikbilimtt.github.io/tekrarlanamayan-calismalar.html&quot;&gt;tekrar edilemeyen 10 psikoloji çalışması&lt;/a&gt; ve &lt;a href=&quot;https://acikbilimtt.github.io/burada-olan-sey-ruzgarin-yon-degistirmesi.html&quot;&gt;rüzgârın yön değiştirmesi&lt;/a&gt;). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler [bkz: yokluk hipotezi anlamlılık testi (YHAT) (&lt;em&gt;null hypothesis significance testing&lt;/em&gt;)], keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, &amp;amp; Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.&lt;/p&gt;
 
 </description>
 				
 				<pubDate>Mon, 11 May 2020 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/onkay%C4%B1t-ve-dogrulayici-calismalar.html</link>
-				<guid isPermaLink="true">http://localhost:4000/onkay%C4%B1t-ve-dogrulayici-calismalar.html</guid>
+				<link>http://localhost:4000/onkayit-ve-dogrulayici-calismalar.html</link>
+				<guid isPermaLink="true">http://localhost:4000/onkayit-ve-dogrulayici-calismalar.html</guid>
 			</item>
 		
 			<item>
@@ -50,12 +43,12 @@
 				
 				
 					<description>&lt;p&gt;Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
-krizi (replication crisis), 2011 yılında  başlamıştır. Krizin
+krizi (&lt;em&gt;replication crisis&lt;/em&gt;), 2011 yılında  başlamıştır. Krizin
 oluşumunda, bilimsel çalışmaların basılma ve yayımlanma sistemi, bilim
 alanındaki kariyer basamakları ve tekrar çalışmalarına karşı süregelen
 genel bakış açısı gibi birçok etken vardır fakat bu yazı dizisinde
 odaklanacağımız etken, krizin patlama noktası olan, tekrarlanamayan
-çalışmalar olacak. &lt;/p&gt;
+çalışmalar olacak.&lt;/p&gt;
 
 </description>
 				
