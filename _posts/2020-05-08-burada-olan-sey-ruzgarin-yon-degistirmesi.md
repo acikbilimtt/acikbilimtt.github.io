@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]
-author: Cavit Deniz Pala
+author: Deniz Pala
 categories:
 tags:
 - çeviri
