@@ -6,7 +6,7 @@ tags:
 - çeviri
 layout: post
 author: Uluğhan Ergin
-image:
+image: 
 ---
 
 _Medyanın yeni biçimleri, camiamız içerisindeki araştırmalara tepki göstermemizi ve yorum yapmamızı gitgide kolaylaştırıyor. Her ne kadar serbestçe yapılan yorumlar ve eleştiriler genellikle bir tartışmanın veya araştırmanın gelişimini iyi yönde etkilese de bu yorum ve eleştiriler aynı zamanda süreci rayından çıkarabilir, hatta belki de tehdit edebilir. Yeni medyanın yalnızca bilimimiz üzerinde değil, bilim insanlarımızın da üzerindeki etkisi hakkında düşüncelerini dile getirmesi adına misafir köşe yazarı, eski APS (Association for Psychological Science (Psikolojik Bilimler Derneği,)) başkanı Susan Fiske’i davet ettim. En önemlisi, Fiske’in köşe yazısı hiçbir şekilde açık bilime bir saldırı niyeti taşımamakta, bu yazı daha ziyade psikoloji araştırmacılarının sosyal medyayı yıkıcı şekillerde kullanmaktan muaf olmadıklarını gösteren yerinde bir hatırlatmadır._
