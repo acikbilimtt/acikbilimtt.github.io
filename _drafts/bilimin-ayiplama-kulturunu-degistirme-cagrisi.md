@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Bilimin Ayıplama Kültürünü Değiştirme Çağrısı
-author: Uluğhan Ergin
-categories: []
+date: 2020-05-18 19:33:45.050000000 Z
 tags:
 - tekrarlama krizi
 - çeviri
+layout: post
+author: Uluğhan Ergin
 image: ''
-
 ---
 
 **APS (PBD) Başkanı – Susan Goldin Meadow**
