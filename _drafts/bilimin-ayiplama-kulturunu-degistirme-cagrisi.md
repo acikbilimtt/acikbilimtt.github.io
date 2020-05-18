@@ -1,14 +1,14 @@
 ---
+layout: post
 title: ''
-date: 2020-05-18 19:13:02.156000000 Z
+author: Uluğhan Ergin
+categories: []
 tags:
 - tekrarlama krizi
 - çeviri
-layout: post
-author: Uluğhan Ergin
 image: ''
----
 
+---
 **Bilimin Ayıplama Kültürünü Değiştirme Çağrısı**[**1**](#footnote1)
 
 **_Susan Goldin-Meadow_**
@@ -55,4 +55,4 @@ _Observer’ın gelecek sayılarında, bilimsel söylemin geleceğine ilişkin g
 
 _APS (Psikoloji Bilimi Örgütü) Bu çevirinin doğruluğundan sorumlu değildir._
 
-[2](#footnote2back) Andrew Gelman’ın (_“Burada olan şey rüzgârın yön değiştirmesi”_)[https://acikbilimtt.github.io/burada-olan-sey-ruzgarin-yon-degistirmesi.html] başlıklı yazısı, bu makaleye yönelik bir karşılıktır. Yazının çevirisine buradan ulaşabilirsiniz.
+[2](#footnote2back) Andrew Gelman’ın [_“Burada olan şey rüzgârın yön değiştirmesi”_](https://acikbilimtt.github.io/burada-olan-sey-ruzgarin-yon-degistirmesi.html) başlıklı yazısı, bu makaleye yönelik bir karşılıktır. Yazının çevirisine buradan ulaşabilirsiniz.
