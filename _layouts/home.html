@@ -14,7 +14,7 @@ layout: default
   </div>
   {% endif %}
   <p>
-    {{ post.excerpt | truncate: 400 }} <a href="{{ site.github.url }}{{ post.url }}">Devamını oku...</a>
+    {{ post.excerpt }} <a href="{{ site.github.url }}{{ post.url }}">Devamını oku...</a>
     <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%d/%m/%Y" }} - <i class="fa fa-pencil" aria-hidden="true"></i> {{ post.author}} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>

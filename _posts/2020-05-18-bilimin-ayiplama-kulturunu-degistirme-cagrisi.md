@@ -1,5 +1,5 @@
 ---
-title: Bilimin Ayıplama Kültürünü Değiştirme Çağrısı[Çev.]
+title: Bilimin Ayıplama Kültürünü Değiştirme Çağrısı [Çev.]
 date: 2020-05-18 19:34:08 Z
 tags:
 - tekrarlama krizi
