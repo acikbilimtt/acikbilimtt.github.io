@@ -1,14 +1,14 @@
 ---
-layout: post
 title: ''
-author: Uluğhan Ergin
-categories: []
+date: 2020-05-18 19:13:02.156000000 Z
 tags:
 - tekrarlama krizi
 - çeviri
+layout: post
+author: Uluğhan Ergin
 image: ''
-
 ---
+
 **Bilimin Ayıplama Kültürünü Değiştirme Çağrısı**[**1**](#footnote1)
 
 **_Susan Goldin-Meadow_**
