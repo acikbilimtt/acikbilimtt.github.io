@@ -1,12 +1,13 @@
 ---
+layout: post
 title: Bilimin Ayıplama Kültürünü Değiştirme Çağrısı
-date: 2020-05-18 19:33:45.050000000 Z
+author: Uluğhan Ergin
+categories: []
 tags:
 - tekrarlama krizi
 - çeviri
-layout: post
-author: Uluğhan Ergin
 image: ''
+
 ---
 
 **APS (PBD) Başkanı – Susan Goldin Meadow**
@@ -15,7 +16,7 @@ _Medyanın yeni biçimleri, camiamız içerisindeki araştırmalara tepki göste
 
 **Eski APS (PBD) Başkanı – Susan T. Fiske**
 
-_Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)[**2**](#footnote2)(#footnote2)_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
+_Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)[**1**](#footnote1)(#footnote2)_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
 
 
 
