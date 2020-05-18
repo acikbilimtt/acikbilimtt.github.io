@@ -534,7 +534,7 @@ Neden bilimsel tekrarlama krizinin merkezinde psikoloji var?
 
 [^1]: Yazının başlıkları Randy Newman'ın Louisiana 1927 şarkısının dizeleridir. Şarkı, 1927 yılında Mississippi Nehri'nin taşması sonucu yaşanan ABD tarihinin en büyük sel felaketini anlatmaktadır. Şair burada 2011 yılında başlayan tekrarlama krizini psikoloji biliminin büyük sel felaketi olarak niteliyor.
 
-[^2]: Fiske'in yazısının Türkçe çevirisini yakında sitemizden okuyabilirsiniz.
+[^2]: Bu bağlantıdan Fiske’in makalesinin sonradan gözden geçirilerek üslup ve içerik bakımından oldukça yumuşatılmış versiyonunun çevirisine [ulaşabilirsiniz:](https://acikbilimtt.github.io/bilimin-ayiplama-kulturunu-degistirme-cagrisi.html) Gelman’ın yazısı Fiske’in makalesinin ilk versiyonuna yönelik bir cevap niteliğindedir, dolayısıyla Gelman'ın alıntıladığı birçok ifade çevirimizde mevcut değil.
 
 [^3]: Paylaşılan bağlantıda söz konusu çalışmanın bir diğer yazarının çalışmadaki hatayı kabul ettiğini ve o çalışmadan çıkarılacak sonuçların güvenilir olmadığını belirttiğini görüyoruz. Hatalarını kabul edebilenler de olduğunu göstermek için not düşmek istedim.
 
