@@ -1,11 +1,14 @@
 ---
-title: Bilimin Ayıplama Kültürünü Değiştirme Çağrısı
-date: 2020-05-18 18:52:35.664000000 Z
 layout: post
+title: ''
 author: Uluğhan Ergin
+categories: []
+tags:
+- tekrarlama krizi
+- çeviri
 image: ''
----
 
+---
 **Bilimin Ayıplama Kültürünü Değiştirme Çağrısı**[**1**](#footnote1)
 
 **_Susan Goldin-Meadow_**
@@ -16,7 +19,7 @@ image: ''
 
 **_Susan T. Fiske_**
 
-_Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)[^2]_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
+> _Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)[^2]_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
 
 **Eski APS (PBD) Başkanı – Susan T. Fiske**
 
@@ -52,4 +55,4 @@ _Observer’ın gelecek sayılarında, bilimsel söylemin geleceğine ilişkin g
 
 _APS (Psikoloji Bilimi Örgütü) Bu çevirinin doğruluğundan sorumlu değildir._
 
-[2](#footnote2back) Andrew Gelman’ın _“Burada olan şey rüzgârın yön değiştirmesi”_ başlıklı yazısı, bu makaleye yönelik bir karşılıktır. Yazının çevirisine buradan ulaşabilirsiniz.
+[2](#footnote2back) Andrew Gelman’ın (_“Burada olan şey rüzgârın yön değiştirmesi”_)[https://acikbilimtt.github.io/burada-olan-sey-ruzgarin-yon-degistirmesi.html] başlıklı yazısı, bu makaleye yönelik bir karşılıktır. Yazının çevirisine buradan ulaşabilirsiniz.
