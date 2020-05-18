@@ -1,6 +1,6 @@
 ---
-layout: page
 title: İletişim
+layout: page
 ---
 
 Herhangi bir sorunuz, öneriniz veya şikayetiniz varsa bize e-posta yoluyla [ulaşabilirsiniz.](mailto:acikbilimtt@gmail.com)

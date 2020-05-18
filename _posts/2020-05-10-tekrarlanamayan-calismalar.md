@@ -1,14 +1,14 @@
 ---
-layout: post
 title: Tekrarlanamayan Çalışmalar
-author: Defne Alkan, Hazal Arpacı ve Emine Bilgen
-categories: 
+date: 2020-05-10 00:00:00 Z
 tags:
 - originals
 - replication
+layout: post
+author: Defne Alkan, Hazal Arpacı ve Emine Bilgen
 image: 
-
 ---
+
 Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
 krizi (_replication crisis_), 2011 yılında  başlamıştır. Krizin
 oluşumunda, bilimsel çalışmaların basılma ve yayımlanma sistemi, bilim

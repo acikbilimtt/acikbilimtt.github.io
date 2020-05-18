@@ -1,15 +1,15 @@
 ---
-layout: post
 title: Psikoterapi Etkililik Çalışmaları, Meta analizler ve Tekrarlama Krizi
-author: Kutlu Kağan Türkaslan
-categories: 
+date: 2020-05-12 00:00:00 Z
 tags:
 - clinical-psychology
 - meta-analysis
 - replication
+layout: post
+author: Kutlu Kağan Türkaslan
 image: 
-
 ---
+
 Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (_replication crisis_) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayımladığı "Psikoterapinin etkileri: Bir değerlendirme" makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck'in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.
 
 Hans Eysenck'in 1990'lı yıllarda yaptığı, kişilik ve sağlık davranışları

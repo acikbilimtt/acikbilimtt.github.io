@@ -1,31 +1,21 @@
-# Site Build Settings
-
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
-
-# jekyll-paginate configuration
-paginate:            10
-
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Açık Bilim.Türkiye'
-description:	       'Açık Bilim Topluluğu Türkiye'
-url:                 'acikbilimtt.github.io'
-# author:              ''
-
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+---
+title: Açık Bilim.Türkiye
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+paginate: 10
+markdown: kramdown
+highlighter: rouge
+permalink: none
+plugins:
+- jekyll-paginate
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+description: Açık Bilim Topluluğu Türkiye
+url: acikbilimtt.github.io

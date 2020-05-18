@@ -1,14 +1,14 @@
 ---
-layout: post
 title: Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]
-author: Deniz Pala
-categories:
+date: 2020-05-08 00:00:00 Z
 tags:
 - çeviri
 - tekrarlama-krizi
+layout: post
+author: Deniz Pala
 image: deniz1.png
-
 ---
+
 Bu yazı Andrew Gelman'ın kişisel bloğunda yayımladığı "What has
 happened down here is the winds have changed[^1]" başlıklı yazının
 çevirisidir. Yazının orijinaline şu bağlantıdan ulaşabilirsiniz:

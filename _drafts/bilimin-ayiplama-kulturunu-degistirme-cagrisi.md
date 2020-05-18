@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Bilimin Ayıplama Kültürünü Değiştirme Çağrısı
+date: 2020-05-18 18:52:35.664000000 Z
+layout: post
 author: Uluğhan Ergin
-categories: []
-tags: []
 image: ''
-
 ---
+
 **Bilimin Ayıplama Kültürünü Değiştirme Çağrısı**[**1**](#footnote1)
 
 **_Susan Goldin-Meadow_**
