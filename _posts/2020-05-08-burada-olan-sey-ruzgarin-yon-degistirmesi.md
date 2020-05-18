@@ -2,7 +2,7 @@
 layout: post
 title: Burada Olan Şey Rüzgarın Yön Değiştirmesi [Çev.]
 author: Cavit Deniz Pala
-categories: 
+categories:
 tags:
 - çeviri
 - tekrarlama-krizi
@@ -46,7 +46,7 @@ eleştirileri büyük oranda şeffaf ve alanın önde gelen kişileri bir şey
 yayımladıkları zaman diğerlerinin onları eleştirmeye hakları olduğunu
 düşünmelerini sanki sorun etmiyorlar.)
 
-Fiske'in makalesinin çoğunda bahsettiği psikoloji akademisinin siyasetini bilmediğim için ben çoğunlukla onun, hem içerik hem de ifade açısından nahoş bulduğum tutumunun, psikolojinin yakın tarihinin ve tekrarlama krizinin ışığında nasıl anlaşılabileceği hakkında yazacağım.
+Fiske'in makalesinin çoğunda bahsettiği psikoloji akademisinin siyasetini bilmediğim için ben çoğunlukla onun hem içerik hem de ifade açısından nahoş bulduğum tutumunun psikolojinin yakın tarihinin ve tekrarlama krizinin ışığında nasıl anlaşılabileceği hakkında yazacağım.
 
 Fiske'in yazısını
 [buradan](https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf) okuyabilirsiniz.[^2]
@@ -139,7 +139,7 @@ eleştirilere geçiş yaptı. Neuroskeptic bloğu kendi başına büyük bir ola
 mıydı bilmiyorum ama o bilim-görüş blogculuğunun geleneksel politik
 konulardan içsel eleştiriye doğru kaymasının bir belirtisiydi.
 
-2011: Joseph Simmons, Leif Nelson ve Uri Simonsohn "[False-positive psychology](http://pss.sagepub.com/content/22/11/1359.short)" (Yanlış pozitif psikoloji) isimli bir makale yayımlarlar, makalede "araştırmacı serbestlik derecesi" (_researcher degrees of freedom_) adını verdikleri kullanışlı terimi tanıtırlar. Daha sonra p-hackleme (İng. _p-hacking_) terimini ortaya atarlar ve Eric Loken ve ben [the garden
+2011: Joseph Simmons, Leif Nelson ve Uri Simonsohn "[False-positive psychology](http://pss.sagepub.com/content/22/11/1359.short)" (Yanlış pozitif psikoloji) isimli bir makale yayımlarlar, makalede "araştırmacı serbestlik derecesi" (_researcher degrees of freedom_) adını verdikleri kullanışlı terimi tanıtırlar. Daha sonra p-hackleme (_p-hacking_) terimini ortaya atarlar ve Eric Loken ve ben [the garden
 of forking
 paths](http://www.stat.columbia.edu/\~gelman/research/unpublished/p_hacking.pdf)'te
 (Yolları çatallanan bahçe) araştırmacı serbestlik derecesinin
@@ -152,7 +152,7 @@ yapmak gibi bir niyetlerinin de olmadığı konusunda beni bilgilendiren
 bir e-posta attı.)
 
 Aynı yıl Simohnson bir diğer
-[makalesinde](https://psycnet.apa.org/record/2011-02000-001) "Dennis adındaki dişçi" (_dentist-named-Dennis_) makalesini yerden yere vurur. Psikoloji tarihinde çok önemli bir an değil belki ama benim için önemli çünkü bu, sonuçlarını hiç düşünmeden kabul ettiğim bir makaleydi. Ben de ampirik araştırmaların temel zayıflıklarından habersizdim o zamanlar.
+[makalesinde](https://psycnet.apa.org/record/2011-02000-001) "Dennis adındaki dişçi" (_dentist-named-Dennis_) makalesini yerden yere vurur. Psikoloji tarihinde çok önemli bir an değil belki ama benim için önemli çünkü bu, sonuçlarını hiç düşünmeden kabul ettiğim bir makaleydi. Ben de empirik araştırmaların temel zayıflıklarından habersizdim o zamanlar.
 
 2011: Daryl Bem, "Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect" (Geleceği hissetmek: Bilişte ve duygulanımda anormal retroaktif etkilere dair deneysel kanıt) makalesini psikolojinin üst düzey dergilerinin birinde yayımlar. Çoğu kişi Bem'in duyumötesi algıyı (_extrasensory perception_) keşfettiğini düşünmedi ama genel izlenim, yaptığı çalışmanın sağlam olduğu yönündeydi. Bu da psikoloji araştırmalarına dair bir endişe oluşturdu. Örneğin, New York Times [şöyle
 yazdı](https://www.nytimes.com/2011/01/06/science/06esp.html):
@@ -225,17 +225,17 @@ profilli başarısız tekrar çalışması basılır. Öncelikle Bem'in duyumöt
 algı çalışmasının hiç de sürpriz olmayan başarısız tekrar çalışması,
 (Bem kendisi başarılı tekrar çalışmaları olduğunu iddia ettiği bir
 makale yazdı ama meta analizi tekrar çalışması olmayan
-[birçok](https://statmodeling.stat.columbia.edu/2014/09/24/study-published-2011-followed-successful-replication-2003-cool/) çalışma da içeriyordu) arkasından da bedenleşmiş biliş (_embodied cognition_), [ego tükenmesi](http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html) (İng. _ego depletion_) ve sosyal psikolojinin daha birçok saygın bulgusunun başarısız tekrar çalışmaları geldi.
+[birçok](https://statmodeling.stat.columbia.edu/2014/09/24/study-published-2011-followed-successful-replication-2003-cool/) çalışma da içeriyordu) arkasından da bedenleşmiş biliş (_embodied cognition_), [ego tükenmesi](http://www.slate.com/articles/health_and_science/cover_story/2016/03/ego_depletion_an_influential_theory_in_psychology_may_have_just_been_debunked.html) ( _ego depletion_) ve sosyal psikolojinin daha birçok saygın bulgusunun başarısız tekrar çalışmaları geldi.
 
 2015: Araştırma kalitesi ve bilimsel yayımlama sürecine dair birçok
-kaygı Dana Carney, Amy Cuddy ve Andy Yap'in "[güç pozu](http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html)" (İng. _power pose_) araştırmalarında birleşti. Medya, bu çalışmaya bayıldı ama çalışma artık aşina olduğumuz araştırmacı serbestlik derecesi sorunundan fena halde muzdaripti (Uri Simonsohn'un [şu](http://datacolada.org/37) tartışmasına bakınız) ve
+kaygı Dana Carney, Amy Cuddy ve Andy Yap'in "[güç pozu](http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html)" ( _power pose_) araştırmalarında birleşti. Medya, bu çalışmaya bayıldı ama çalışma artık aşina olduğumuz araştırmacı serbestlik derecesi sorunundan fena halde muzdaripti (Uri Simonsohn'un [şu](http://datacolada.org/37) tartışmasına bakınız) ve
 Eva Ranehill, Anna Dreber, Magnus Johannesson, Susanne Leiberg, Sunhae
 Sul ve Roberto Weber tarafından yapılan [tekrar
 çalışmasında](http://statmodeling.stat.columbia.edu/2015/09/25/low-power-pose/)
 bu etki gözlenmedi.
 
 Bu sırada prestijli dergi Proceedings of the National Academy of
-Sciences (PPNAS) oyuna dahil olur ve [erkek isimli kasırgalar](http://statmodeling.stat.columbia.edu/2016/04/02/himmicanes-and-hurricanes-update/) (İng. _himmicanes_), [uçuş sırasındaki öfke patlamaları](http://statmodeling.stat.columbia.edu/2016/05/03/ahhhh-ppnas/) (İng. _air rage_), ve "[İnsanlar kronolojik yaşlarında yeni onyıla
+Sciences (PPNAS) oyuna dahil olur ve [erkek isimli kasırgalar](http://statmodeling.stat.columbia.edu/2016/04/02/himmicanes-and-hurricanes-update/) ( _himmicanes_), [uçuş sırasındaki öfke patlamaları](http://statmodeling.stat.columbia.edu/2016/05/03/ahhhh-ppnas/) ( _air rage_), ve "[İnsanlar kronolojik yaşlarında yeni onyıla
 yaklaştıklarında anlam arayışına
 girerler](http://statmodeling.stat.columbia.edu/2014/11/24/oh-go/)"
 gibi hakikaten kötü, korkunç derecede hatalı makaleler basar. Bu
@@ -294,7 +294,7 @@ muhakemesi olduğunu söyleyebiliriz.
 
 Ya da şöyle diyelim: 2016'da yaşıyor ama 2006 dönemi düşüncesine
 saplanmış. 10 yıl öncesinde belki ben de erkek isimli kasırgalar ya da
-uçuş öfkeleri makalelerine kanardım. Kanmazdım diye düşünmek istiyorum;
+uçuş öfkeleri makalelerine kanardım. Kanmazdım diye düşünmek istiyorum,
 ama kim bilir? Simonsohn ve diğerlerinin izinde ben de, yayımlanan
 araştırmalar konusunda eskiden olduğumdan çok daha şüpheci olmaya
 başladım. Çoğumuz için Meehl'in elli yıl önce bulunduğu konuma gelmek
@@ -534,7 +534,7 @@ Neden bilimsel tekrarlama krizinin merkezinde psikoloji var?
 
 [^1]: Yazının başlıkları Randy Newman'ın Louisiana 1927 şarkısının dizeleridir. Şarkı, 1927 yılında Mississippi Nehri'nin taşması sonucu yaşanan ABD tarihinin en büyük sel felaketini anlatmaktadır. Şair burada 2011 yılında başlayan tekrarlama krizini psikoloji biliminin büyük sel felaketi olarak niteliyor.
 
-[^2]: Fiske'in yazısının Türkçe çevirisini sitemizden okuyabilirsiniz.
+[^2]: Fiske'in yazısının Türkçe çevirisini yakında sitemizden okuyabilirsiniz.
 
 [^3]: Paylaşılan bağlantıda söz konusu çalışmanın bir diğer yazarının çalışmadaki hatayı kabul ettiğini ve o çalışmadan çıkarılacak sonuçların güvenilir olmadığını belirttiğini görüyoruz. Hatalarını kabul edebilenler de olduğunu göstermek için not düşmek istedim.
 
