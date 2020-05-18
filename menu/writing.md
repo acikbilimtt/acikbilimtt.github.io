@@ -18,7 +18,7 @@ layout: page
 
     <li itemscope>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title | markdownify }}</a>
-      <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%d/%m/%Y" }} - <i class="fa fa-pencil" aria-hidden="true"></i> {% assign author = site.authors | where: 'code_name', post.authors | first %}{% if author %}<a href="{{ author.url }}">{{ author.name }}</a>{% endif %} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
+      <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%d/%m/%Y" }} - <i class="fa fa-pencil" aria-hidden="true"></i> {{ post.author}} } - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
     </li>
 
   {% endfor %}
