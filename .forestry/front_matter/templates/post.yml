@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Post
 hide_body: false
 fields:
@@ -24,4 +21,4 @@ fields:
   name: image
   label: image
 pages:
-- _posts/bilimin-ayiplama-kulturunu-degistirme-cagrisi.md
+- _posts/2020-05-18-bilimin-ayiplama-kulturunu-degistirme-cagrisi.md
