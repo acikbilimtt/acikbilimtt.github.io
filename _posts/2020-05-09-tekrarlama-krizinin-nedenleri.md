@@ -1,14 +1,14 @@
 ---
-layout: post
 title: Psikoloji Neden Tekrarlama Krizi İçinde?
-author: Emine Bilgen
-categories: 
+date: 2020-05-09 00:00:00 Z
 tags:
 - tekrarlama krizi
 - açık bilim
+layout: post
+author: Emine Bilgen
 image: 
-
 ---
+
 Tekrarlama krizinin _(replication crisis)_ sonuçlarıyla ilgili birçok yazıyı web sitemizde derledik. Sonuçları kadar bu krizin nedenlerine bakmak da önemli. Nitekim bu krize sebebiyet veren etmenleri anlamazsak açık bilim yolunda çok yol katedemeyiz. Birçok yazımızda krizin nedenlerine ufak ufak değinmiş olmamıza karşın, bunların hepsini bir yazıda görmek mevcut durumu daha iyi anlamamıza katkı sağlayacaktır.
 
 Tekrarlama krizini kendi içerisinde neden-sonuç ilişkisi açısından inceleyebiliriz. Daha iyi açıklamak gerekirse araştırmacıların bir sabah kalkıp p-hacklemeye (_p-hacking\[^1\]_) veya Sonuçları Öğrenip Hipotez Oluşturmaya (_HARKing\[^2\]_) başladığı söylenemez. Dergiler, yayın yanlılığı (_publication bias_), yani sadece anlamlı sonuçlar bulan araştırmaları yayımlama eğiliminde olmasaydı, Tartışmalı Araştırma Uygulamalarının (TAU) -- _Questionable Research Practices (QRP\[^3\])_ -- kullanımı da muhtemelen bu kadar fazla olmazdı.
