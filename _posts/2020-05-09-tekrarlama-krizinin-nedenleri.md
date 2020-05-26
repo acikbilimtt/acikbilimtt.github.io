@@ -6,9 +6,9 @@ categories:
 tags:
 - tekrarlama krizi
 - açık bilim
-image:
-
+image: emine1.png
 ---
+
 Tekrarlama krizinin _(replication crisis)_ sonuçlarıyla ilgili yazıları web sitemizde derledik ve sunmaya devam edeceğiz. Sonuçları kadar bu krizin nedenlerine bakmak da önemli. Nitekim bu krize sebebiyet veren etmenleri anlamazsak açık bilim yolunda çok yol katedemeyiz. Bu yazıda alanyazında geçen nedenleri derlemeye çalıştım. Elbetteki bütün nedenlere bu yazıda değinmemiş olabilirim. Bunun sebebi, yeni ve henüz üstesinden gelinememiş krizin canlı tartışmalarının takibinin zorluğundan kaynaklanıyor. Bu yazı mevcut tartışmaların uzaktan bir fotoğrafı niteliğindedir diyebiliriz.
 
 Tekrarlama krizini kendi içerisinde neden-sonuç ilişkisi açısından inceleyebiliriz. Daha iyi açıklamak gerekirse araştırmacıların bir sabah kalkıp p-hacklemeye (_p-hacking[^1]_) veya Sonuçları Öğrenip Hipotez Oluşturmaya (_HARKing[^2]_) başladığı söylenemez. Dergiler, yayın yanlılığı (_publication bias_), yani sadece anlamlı sonuçlar bulan araştırmaları yayımlama eğiliminde olmasaydı, Tartışmalı Araştırma Uygulamalarının (TAU) -- _Questionable Research Practices (QRP[^3])_ -- kullanımı da muhtemelen bu kadar fazla olmazdı.
