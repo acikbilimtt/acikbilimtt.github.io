@@ -6,7 +6,7 @@ tags:
 - replication
 layout: post
 author: Defne Alkan, Hazal Arpacı ve Emine Bilgen
-image: eminehazaldefne1.png
+image: defnehazalemine1.png
 ---
 
 Psikoloji alanını derinden sarsan ve giderek büyümekte olan tekrarlama
