@@ -1,21 +1,22 @@
 ---
 title: Bilimin Ayıplama Kültürünü Değiştirme Çağrısı [Çev.]
-date: 2020-05-18 19:34:08 Z
+date: '2020-05-18T19:34:08.000+00:00'
 tags:
 - tekrarlama krizi
 - çeviri
 layout: post
 author: Uluğhan Ergin
-image: 
----
+image: ''
+categories: []
 
-_Medyanın yeni biçimleri, camiamız içerisindeki araştırmalara tepki göstermemizi ve yorum yapmamızı gitgide kolaylaştırıyor. Her ne kadar serbestçe yapılan yorumlar ve eleştiriler genellikle bir tartışmanın veya araştırmanın gelişimini iyi yönde etkilese de bu yorum ve eleştiriler aynı zamanda süreci rayından çıkarabilir, hatta belki de tehdit edebilir. Yeni medyanın yalnızca bilimimiz üzerinde değil, bilim insanlarımızın da üzerindeki etkisi hakkında düşüncelerini dile getirmesi adına misafir köşe yazarı, eski APS (Association for Psychological Science (Psikolojik Bilimler Derneği,)) başkanı Susan Fiske’i davet ettim. En önemlisi, Fiske’in köşe yazısı hiçbir şekilde açık bilime bir saldırı niyeti taşımamakta, bu yazı daha ziyade psikoloji araştırmacılarının sosyal medyayı yıkıcı şekillerde kullanmaktan muaf olmadıklarını gösteren yerinde bir hatırlatmadır._
+---
+_Medyanın yeni biçimleri, camiamız içerisindeki araştırmalara tepki göstermemizi ve yorum yapmamızı gitgide kolaylaştırıyor. Her ne kadar serbestçe yapılan yorumlar ve eleştiriler genellikle bir tartışmanın veya araştırmanın gelişimini iyi yönde etkilese de bu yorum ve eleştiriler aynı zamanda süreci rayından çıkarabilir, hatta belki de tehdit edebilir. Yeni medyanın yalnızca bilimimiz üzerinde değil, bilim insanlarımızın da üzerindeki etkisi hakkında düşüncelerini dile getirmesi adına misafir köşe yazarı, eski APS (_Psikolojik Bilimler Derneği / _Association for Psychological Science) başkanı Susan Fiske’i davet ettim. En önemlisi, Fiske’in köşe yazısı hiçbir şekilde açık bilime bir saldırı niyeti taşımamakta, bu yazı daha ziyade psikoloji araştırmacılarının sosyal medyayı yıkıcı şekillerde kullanmaktan muaf olmadıklarını gösteren yerinde bir hatırlatmadır._
 
 **APS (PBD) Başkanı – Susan Goldin Meadow**
 
 ***
 
-_Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)[^1]_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
+_Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)\[^1\]_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
 
 **Eski APS (PBD) Başkanı – Susan T. Fiske**
 
@@ -43,7 +44,7 @@ Açık ve net söylüyorum: Bu makale, bu tip akran değerlendirmelerini, dolay�
 
 En nihayetinde, bilim bir camiadır ve biz bu camiada birlikteyiz. Bilimsel standartlara, etik kurallara ve karşılıklı saygıya uyma konusunda mutabıkız. Güveniriz, fakat doğrularız ve bu süreçte bilim gelişir. Psikoloji bilimi iş birliğiyle olduğu kadar, saygı çerçevesinde yapıcı eleştirilerde bulunan karşıt görüşteki aleyhtarlara karşılık vererek başarı elde etmiştir. Buradaki anahtar kelime “yapıcı”dır.
 
-_Observer’ın gelecek sayılarında, bilimsel söylemin geleceğine ilişkin görüşlerini, vizyonlarını ve endişelerini paylaşan psikoloji araştırmacılarını takip edin[^2](#footnote2)._
+_Observer’ın gelecek sayılarında, bilimsel söylemin geleceğine ilişkin görüşlerini, vizyonlarını ve endişelerini paylaşan psikoloji araştırmacılarını takip edin_[_^2_](#footnote2)_._
 
 \-
 
