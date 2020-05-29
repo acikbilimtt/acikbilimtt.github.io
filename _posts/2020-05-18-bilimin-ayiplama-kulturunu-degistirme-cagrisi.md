@@ -6,7 +6,7 @@ tags:
 - çeviri
 layout: post
 author: Uluğhan Ergin
-image: ''
+image:
 categories: []
 
 ---
