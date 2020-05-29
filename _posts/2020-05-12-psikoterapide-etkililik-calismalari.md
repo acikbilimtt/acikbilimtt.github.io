@@ -7,7 +7,7 @@ tags:
 - replication
 layout: post
 author: Kutlu Kağan Türkaslan
-image: 
+image:
 ---
 
 Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (_replication crisis_) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayımladığı "Psikoterapinin etkileri: Bir değerlendirme" makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck'in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.
@@ -85,7 +85,7 @@ olduğu ibaresi yer almaktadır). Şimdi isterseniz APD tarafından ampirik
 olarak desteklenmiş kabul edilen çalışmaların tekrarlama krizi
 bağlamında değerlendirildiği başka bir çalışmanın sonuçlarına bakalım.
 
-Sakaluk ve arkadaşları (2019), APD'nin internet sitesinde ampirik olarak desteklendiği belirtilen 79 psikoterapi yöntemini yanlış raporlanma oranları, tahmini istatistiksel güçleri, tekrarlama indeksleri ve Bayes faktörleri (p değeri sonuçlarına alternatif bir değerlendirme yöntemi) açısından analiz ediyorlar. Sonuçlar çok şaşırtıcı olmayarak, ampirik olarak desteklenmiş olduğu belirtilen tedavilerin 4 farklı değerlendirme değeri açısından, homojen olmayan bir dağılım gösterdiğini ortaya çıkarıyor. Çalışmaların ortalama istatistiksel güç değeri, tavsiye edilen .80 standartının (Cohen, 1992) altında kalarak .58 (SD = .21) olarak bulunurken ortalama tekrarlama indeksi .52 (SD = .24) olarak bulunuyor. Bu çalışmanın en önemli bulgusu ise APD'nin güçlü ampirik desteği olduğunu belirttiği pek çok psikoterapi yönteminin bile, güncel standartlar açısından problemli çalışmalar ile destekleniyor olduklarıydı. Örneğin, etkililikleri güçlü bir şekilde desteklenmiş sınıfında olan depresyon için bilişsel terapi çalışmalarının ulaştığı ortalama istatistiksel güç .62 iken, obsesif kompulsif bozukluk için maruz bırakma ve tepki önleme müdahalelerinin ulaştığı ortalama istatistiksel güç .57'idi. Düşük istatistiksel gücü olan bir çalışma, gerçekte olan bir etkiyi bulmak yerine aslında olmayan bir etkiyi varmış gibi gösteren bir sonuç çıkartabilir. Yani istatistiksel olarak anlamlı bulunan bu sonuç, tip I hatadan[^3] dolayı anlamlıymış gibi gözüküyor olabilir. Düşük istatistiksel gücün diğer bir olumsuz sonucu ise hatalı sonucun ortaya gerçekte olandan çok daha büyük bir etki büyüklüğü çıkarmasıdır. Bunlar psikolojinin her alanında olduğu gibi psikoterapi etkililik çalışmaları için de geçerli olan ciddi ve problematik durumlardır.
+Sakaluk ve arkadaşları (2019), APD'nin internet sitesinde ampirik olarak desteklendiği belirtilen 79 psikoterapi yöntemini yanlış raporlanma oranları, tahmini istatistiksel güçleri, tekrarlama indeksleri ve Bayes faktörleri (p değeri sonuçlarına alternatif bir değerlendirme yöntemi) açısından analiz ediyorlar. Sonuçlar çok şaşırtıcı olmayarak, ampirik olarak desteklenmiş olduğu belirtilen tedavilerin 4 farklı değerlendirme değeri açısından, homojen olmayan bir dağılım gösterdiğini ortaya çıkarıyor. Çalışmaların ortalama istatistiksel güç değeri, tavsiye edilen .80 standartının (Cohen, 1992) altında kalarak .58 (SD = .21) olarak bulunurken ortalama tekrarlama indeksi .52 (SD = .24) olarak bulunuyor. Bu çalışmanın en önemli bulgusu ise APD'nin güçlü ampirik desteği olduğunu belirttiği pek çok psikoterapi yönteminin bile, güncel standartlar açısından problemli çalışmalar ile destekleniyor olduklarıydı. Örneğin, etkililikleri güçlü bir şekilde desteklenmiş sınıfında olan depresyon için bilişsel terapi çalışmalarının ulaştığı ortalama istatistiksel güç .62 iken, obsesif kompulsif bozukluk için maruz bırakma ve tepki önleme müdahalelerinin ulaştığı ortalama istatistiksel güç .57'idi. Düşük istatistiksel gücü olan bir çalışma, gerçekte olan bir etkiyi bulmak yerine aslında olmayan bir etkiyi varmış gibi gösteren bir sonuç çıkartabilir. Yani istatistiksel olarak anlamlı bulunan bu sonuç, tip I hatadan[^3] dolayı anlamlıymış gibi gözüküyor olabilir (Button ve ark., 2013; Christley, 2010; Dumas-Mallet, Button, Boraud, Gonon ve Munafò, 2017). Düşük istatistiksel gücün diğer bir olumsuz sonucu ise hatalı sonucun ortaya gerçekte olandan çok daha büyük bir etki büyüklüğü çıkarmasıdır. Bunlar psikolojinin her alanında olduğu gibi psikoterapi etkililik çalışmaları için de geçerli olan ciddi ve problematik durumlardır.
 
 ## Meta Analizler Ne Kadar Güvenilir?
 
@@ -151,8 +151,12 @@ en büyük ders olduğunu söylemek de yanlış olmayacaktır.
 
 ## Kaynaklar
 
+Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365-376.
+
 Chambless, D. L., & Hollon, S. D. (1998). Defining empirically supported
 therapies. _Journal of consulting and clinical psychology_, _66_(1), 7.
+
+Christley, R. M. (2010). Power and error: increased risk of false positive results in underpowered studies. The Open Epidemiology Journal, 3(1).
 
 Cohen, J. (1992). Things I have learned (so far). In _Annual Convention
 of the American Psychological Association, 98th, Aug, 1990, Boston, MA,
@@ -205,6 +209,8 @@ H. (2015). Does publication bias inflate the apparent efficacy of
 psychological treatment for major depressive disorder? A systematic
 review and meta-analysis of US National Institutes of Health-funded
 trials. _PloS one_, _10_(9), e0137864.
+
+Dumas-Mallet, E., Button, K. S., Boraud, T., Gonon, F., & Munafò, M. R. (2017). Low statistical power in biomedical science: a review of three human research domains. Royal Society open science, 4(2), 160254.
 
 Eysenck, H. J. (1952). The effects of psychotherapy: an evaluation.
 _Journal of consulting psychology_, _16_(5), 319.
