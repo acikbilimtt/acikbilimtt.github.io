@@ -1,5 +1,5 @@
 ---
-title: Tekrarlanamayan Çalışmalar
+title: Tekrarlanamayan 10 Popüler Psikoloji Çalışması
 date: 2020-05-10 00:00:00 Z
 tags:
 - originals
