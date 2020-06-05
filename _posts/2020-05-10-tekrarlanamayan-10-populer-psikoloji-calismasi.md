@@ -37,7 +37,7 @@ yayımladıkları
 psikoloji alanında çok yankı uyandırmıştır. Bu makalenin ikinci
 çalışmasında, hazırlama kısmında yaşlılıkla ilgili kelimelere maruz
 kalan katılımcıların, bu kelimelere maruz kalmayan katılımcılara
-kıyasla, laboratuvardan daha yavaş hareket ederek ayrıldığı
+kıyasla laboratuvardan daha yavaş hareket ederek ayrıldığı
 bulunmuştur.
 
 2012 yılında birkaç araştırmacı, bu çalışmayı tekrarlamaya çalışmıştır
@@ -79,9 +79,9 @@ ortamda kalıpyargı tehdidinin olup olmadığını test etmiştir. Bu
 çalışmanın bulguları, gerçek ortamda bu etkinin ihmal edilebilecek kadar
 küçük olduğunu göstermiştir.
 
-## Dehşet Yönetim Kuramı
+## Dehşet Yönetimi Kuramı
 
-[Dehşet yönetim
+[Dehşet yönetimi
 kuramı](https://link.springer.com/chapter/10.1007/978-1-4613-9564-5_10),
 insanların bir gün ölecek olmalarının farkındalığının, onlarda büyük bir
 dehşet uyandırdığını ve bu dehşet duygusunu ortadan kaldırmak için
@@ -93,7 +93,7 @@ birçok etki ve olay bu kuramla açıklanmaya çalışılmıştır. Örneğin,
 önyargıyı da bu kuramla açıklamaya çalışan [bu
 araştırma](https://doi.org/10.1037/0022-3514.77.5.905)da,
 ölümlülüğünü düşünmesi istenen katılımcıların önyargı puanları daha
-yüksek çıkmıştır çünkü kurama göre, kendi iç gruplarının devamlılığı
+yüksek çıkmıştır çünkü kurama göre kendi iç gruplarının devamlılığı
 sayesinde onlar da bir şekilde yeryüzünde kalmaya devam edeceklerdir.
 
 Bütün bu etki ve sebeplendirmelere karşın, yapılan [bir Many Lab
