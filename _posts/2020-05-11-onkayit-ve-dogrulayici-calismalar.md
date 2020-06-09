@@ -9,7 +9,7 @@ tags:
 - open science
 layout: post
 author: Özge Bozkurt
-image: 
+image: ozge1.png
 ---
 
 Ön kayıt (_preregistration_), yapılan keşif (_exploratory_) çalışmalarını ve doğrulayıcı (_confirmatory_) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, & Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: [tekrar edilemeyen 10 psikoloji çalışması](https://acikbilimtt.github.io/tekrarlanamayan-calismalar.html) ve [rüzgârın yön değiştirmesi](https://acikbilimtt.github.io/burada-olan-sey-ruzgarin-yon-degistirmesi.html)). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (bkz: yokluk hipotezi anlamlılık testi / _null hypothesis significance testing_), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, & Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı çalışmalar mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.
