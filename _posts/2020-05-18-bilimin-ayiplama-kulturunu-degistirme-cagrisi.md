@@ -6,7 +6,7 @@ tags:
 - çeviri
 layout: post
 author: Uluğhan Ergin
-image:
+image: ''
 categories: []
 
 ---
@@ -16,7 +16,7 @@ _Medyanın yeni biçimleri, camiamız içerisindeki araştırmalara tepki göste
 
 ***
 
-_Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)[^1]_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
+_Bu makalenin vakitsiz yayımlanan_ [_eski bir taslağı_](http://datacolada.org/wp-content/uploads/2016/09/Fiske-presidential-guest-column_APS-Observer_copy-edited.pdf)\[^1\]_, internet üzerinde alevli bir tartışmaya yol açtı. “Meslektaşların geri bildirimi, çalışmayı geliştirir” ruhuyla, bu düzenleme daha yapıcı olan tepkilerin bazılarını yansıtıyor. Daha az yapıcı olan tepkiler yalnızca benim anlatmaya çalıştığım noktayı örneklendiriyorlar ve burada kabul görmüyorlar. Bu makaleye paralel bir gelişme de_ [_burada_](http://www.ipetitions.com/petition/the-tenor-of-discussions/)_n tıklayarak erişebileceğiniz, insanların endişelerini ifade edebilmek için imzalayabilecekleri bağımsız bir çevrimiçi açıklamadır: “Psikolojide açık, eleştirel, medeni ve kucaklayıcı müzakereyi destekleme”. Bilimimizin karşılıklı saygı çerçevesinde tartışılmasına destek verenlere teşekkür ederim_.
 
 **Eski APS (PBD) Başkanı – Susan T. Fiske**
 
@@ -34,7 +34,7 @@ Aynı zamanda zorba olduğu iddia edilenlerin de ismini vermiyorum çünkü ende
 
 Şüphesiz delile dayalı çürütmeleriyle ve yayın denetimiyle beraber tarz, içerik ve geçerlik için akran değerlendirmesine tabi tutulan 'editöre mektuplarıyla', yapıcı eleştirmenler de bir rol sahibidir. Bazı ölçülü sosyal medya grupları, uygun olduklarına emin olmak için bireysel gönderileri takip etmektedir. Tabii ki, eleştirmenler yazara kişisel bir ileti yazmayı seçerse bu onları ilgilendirir. Eğer orijinal veriyi talep ederlerse, bilimsel ilkeler, bu verilerin mantıklı kısıtlamalar dahilinde paylaşılmasını gerektirir. Tüm bu bahsi geçen durumlar amaca hizmet etmektedir.
 
-Dahası, APS (PBÖ) şeffaflık, çalışmaların tekrar edilmesi, güç analizi, etki boyutunun raporlanması ve veri erişimi. gibi güçlü yöntemlerin teşvik edilmesine liderlik etmektedir. APS (PBÖ), uzman görüş birliği ve belirgin düzenleme politikaları aracılığıyla yenilikler getirdiğinden bu yöntemlerin hepsi alanımızı kuvvetlendirir. Kişilerin araştırmaları, izlenmekte olan kanallar yoluyla, çoğunlukla gizli olarak bir geliştirme fırsatıyla (akran değerlendirmesi) veya en azından denetimli fikir alışverişleriyle (özenle düşünülmüş yorumlar ve delillere dayalı çürütmelerle) değerlendirilmektedir. Bu kanallar devamlı eğitim, açık tartışma ve kalite kontrolü vaat etmektedir. Bu yapıcı girişimler, çoğunluğun iyiliğine hizmet eden ve bireysel araştırmacıya saygı duyan birçok gönüllü yeteneği cezbetmektedir.
+Dahası, APS (PBÖ) şeffaflık, çalışmaların tekrar edilmesi, güç analizi, etki büyüklüğünün raporlanması ve veri erişimi gibi güçlü yöntemlerin teşvik edilmesine liderlik etmektedir. APS (PBÖ), uzman görüş birliği ve belirgin düzenleme politikaları aracılığıyla yenilikler getirdiğinden bu yöntemlerin hepsi alanımızı kuvvetlendirir. Kişilerin araştırmaları, izlenmekte olan kanallar yoluyla, çoğunlukla gizli olarak bir geliştirme fırsatıyla (akran değerlendirmesi) veya en azından denetimli fikir alışverişleriyle (özenle düşünülmüş yorumlar ve delillere dayalı çürütmelerle) değerlendirilmektedir. Bu kanallar devamlı eğitim, açık tartışma ve kalite kontrolü vaat etmektedir. Bu yapıcı girişimler, çoğunluğun iyiliğine hizmet eden ve bireysel araştırmacıya saygı duyan birçok gönüllü yeteneği cezbetmektedir.
 
 Fakat bazı eleştirmenler, çoğu kez hedef alınan kişinin sahtekarlığına ve diğer doğruluğu kontrol edilmemiş varsayımlara dayanan imalara işaret ederek, kamusal aşağılama ve suçlamaya kalkışmaktadırlar. Hedeflenen kişiler çoğunlukla muhalif görüşleri, mesleki şöhretleri veya kariyer evresindeki savunmasızlıkları gibi bilimden alakasız sebeplerden seçilmektedirler.
 
