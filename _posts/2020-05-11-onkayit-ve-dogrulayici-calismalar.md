@@ -1,7 +1,7 @@
 ---
 title: 'Bilimsel Çalışmaların Kalitesini Artırmak için En Etkili Çözüm: Ön Kayıt (_Preregistration_)
   ve Doğrulayıcı (_Confirmatory_) Çalışmalar'
-date: 2020-05-11 00:00:00 Z
+date: 2020-05-11T00:00:00.000+00:00
 tags:
 - ön kayıt
 - preregistration
@@ -10,9 +10,9 @@ tags:
 layout: post
 author: Özge Bozkurt
 image: ozge1.png
----
 
-Ön kayıt (_preregistration_), yapılan keşif (_exploratory_) çalışmalarını ve doğrulayıcı (_confirmatory_) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, & Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: [tekrar edilemeyen 10 psikoloji çalışması](https://acikbilimtt.github.io/tekrarlanamayan-calismalar.html) ve [rüzgârın yön değiştirmesi](https://acikbilimtt.github.io/burada-olan-sey-ruzgarin-yon-degistirmesi.html)). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (bkz: yokluk hipotezi anlamlılık testi / _null hypothesis significance testing_), keşif çalışmalarında değil doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, & Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.
+---
+Ön kayıt (_preregistration_), yapılan keşif (_exploratory_) çalışmalarını ve doğrulayıcı (_confirmatory_) çalışmaları birbirinden ayırt ederek daha şeffaf ve güvenilir bir bilim anlayışı yaratmak için oluşturulmuş bir kayıt sistemidir (Center for Open Science, 2020; Lindsay, Simons, & Lilienfeld, 2016). Son yıllarda psikoloji alanında ortaya çıkan kriz, alanyazında büyük ses uyandıran pek çok bulgunun tekrar edilemediğini göstermiştir (Open Science Colloboration, 2015; ayrıca bkz: [tekrar edilemeyen 10 psikoloji çalışması](https://acikbilimtt.github.io/tekrarlanamayan-calismalar.html) ve [rüzgârın yön değiştirmesi](https://acikbilimtt.github.io/burada-olan-sey-ruzgarin-yon-degistirmesi.html)). Bu durumun pek çok sebebi olmakla birlikte en büyük sebebi, yapılan çalışmaların daha çok keşif çalışması olarak titiz olmayan yöntemlerle yapılmasıdır. Araştırmacıların büyük çoğunluğu tarafından kullanılan geleneksel istatistiki yöntemler (bkz: yokluk hipotezi anlamlılık testi / _null hypothesis significance testing_), keşif çalışmalarında değil, doğrulayıcı çalışmalarda daha güçlü ve doğru sonuçlar vermektedir (Nosek, Ebersole, DeHaven, & Mellor, 2018). Bu sebeple yayımlanan bilimsel araştırmaların keşif mi yoksa doğrulayıcı mı olduğunun rapor edilmesi çok büyük önem arz etmektedir. Ne yazık ki pek çok araştırmacı, yaptığı keşif analizlerini doğrulayıcı analiz gibi rapor etmektedir.
 
 Eğer bir araştırmacı, _Yokluk Hipotezi Anlamlılık Testi (YHAT)_ gibi yöntemlerle verisini analiz edecekse veriyi toplamadan önce belirli bir hipotez ve analiz yöntemi belirlemeli, daha sonra bunlara riayet ederek veri toplamalı ve önceden belirlenen şekilde veriyi analiz etmelidir. YHAT yöntemi ancak bu şekilde istatiksel olarak güvenilir ve güçlü sonuçlar verebilir (Wagenmakers, Wetzels, Borsboom, van der Maas, & Kievit, 2012). Bu şekilde yapılan araştırmalara _doğrulayıcı araştırmalar_ denir. Önceden belirlenmiş analizler dışında yapılan tüm analizler post hoc analiz (_post-hoc analysis_) olarak rapor edilmeli ve gerektiğinde alfa değerlerinde düzeltmeye (örn: Bonferroni Düzeltmesi) gidilmelidir (Maxwell & Delaney, 2004). Bu işlemler yapılmadığında Tip I Hata (gerçek bir etki olmadığı halde etki varmış gibi bir sonuca ulaşmak) oranları astronomik olarak artmakta ve yapılan çalışmaların tekrar edilebilirliği yüksek oranda düşmektedir.
 
