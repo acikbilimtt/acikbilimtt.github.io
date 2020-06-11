@@ -38,7 +38,7 @@ Yukarıdaki paragrafta belirtildiği gibi pek çok araştırmacı temel istatist
 
 ● Çalışmanın bağımlı ve bağımsız değişkenleri
 
-● Çalışmada alınan ölçümler (örn: tepki süresi, doğru cevap oranı vs)
+● Çalışmada alınan ölçümler (örn: tepki süresi, doğru cevap oranı vs.)
 
 ● Analizlerle ilgili ayrıntılar (örn: ortalama mı yoksa medyan analizi mi yapılacak vs. gibi)
 
