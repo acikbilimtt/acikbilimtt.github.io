@@ -116,9 +116,7 @@ iyileşme oranlarının yüksekliğinin, etkili olduğu iddia edilen tedavi
 yöntemlerinin sonuçları açısından ciddi bir kafa karışıklığı yaratıyor
 olduğu.
 
-Peki kişilik bozuklukları için nasıl bir durum var? Cristea ve arkadaşları (2017), sınır kişilik bozukluğu için diyalektik davranış terapisi ve psikodinamik yaklaşımlı psikoterapilerin etkililik çalışmalarını bir meta
-
-analize sokuyorlar. Sonuç olarak semptomlar kendine zarar verme ve intihar değişkenleri beraber ele alındığında, psikoterapilerin sınır durum kişilik bozukluğunun tedavisinde g = .32 civarında, yani düşük ve ortalama arası bir etki büyüklüğüne sahip olduğu gözüküyor. Araştırmacılar bu etki büyüklüğünün düşük olduğunu ve yayın yanlılığı ve yanlılık riski gibi faktörlerin mevcut etki büyüklüğünü olduğundan daha yüksek gösteriyor olabileceğini belirtiyorlar.
+Peki kişilik bozuklukları için nasıl bir durum var? Cristea ve arkadaşları (2017), sınır kişilik bozukluğu için diyalektik davranış terapisi ve psikodinamik yaklaşımlı psikoterapilerin etkililik çalışmalarını bir meta analize sokuyorlar. Sonuç olarak semptomlar kendine zarar verme ve intihar değişkenleri beraber ele alındığında, psikoterapilerin sınır durum kişilik bozukluğunun tedavisinde g = .32 civarında, yani düşük ve ortalama arası bir etki büyüklüğüne sahip olduğu gözüküyor. Araştırmacılar bu etki büyüklüğünün düşük olduğunu ve yayın yanlılığı ve yanlılık riski gibi faktörlerin mevcut etki büyüklüğünü olduğundan daha yüksek gösteriyor olabileceğini belirtiyorlar.
 
 ## Tüm bu sonuçları nasıl özetleyebiliriz?
 
@@ -326,6 +324,6 @@ model. _Clinical Psychology: Science and Practice_, _22_(4), 317-338.
 
 [^4]: Etki büyüklüğü açısından: düşük etki .20, ortalama etki .50, güçlü etki .80 (Lakens, 2013).
 
-[^5]: Nocebo etkisi: Placebo etkisinin tersine beklentini olumsuz sonuç doğurması
+[^5]: Nocebo etkisi: Placebo etkisinin tersine beklentinin olumsuz sonuç doğurması
 
 [^6]: Hamilton Depresyon Değerlendirme Ölçeği için minimum skor: 0, maksimum skor: 52.
