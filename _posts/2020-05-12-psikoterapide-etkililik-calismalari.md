@@ -7,7 +7,7 @@ tags:
 - replication
 layout: post
 author: Kutlu Kağan Türkaslan
-image:
+image: kutlu1.png
 ---
 
 Son on yıldır psikoloji bilimi genel bir tekrarlama krizi (_replication crisis_) ile boğuşurken, klinik psikoloji alanının bundan etkilenmiyormuş gibi gözükmesi pek çok kişiye garip geliyor olmalı. Ama aslında durumun tam olarak öyle olmadığını söyleyebiliriz. Bu kriz, klinik psikoloji için çok ama çok daha eski bir tarihe dayanıyor. Ünlü davranış bilimci Hans Eysenck 1952 yılında yayımladığı "Psikoterapinin etkileri: Bir değerlendirme" makalesinde, o zamana kadar elde edilmiş kısıtlı bulguların ışığında psikoterapinin nevrotik[^1] rahatsızlıklar için etkili bir tedavi yöntemi olmadığını iddia ederek uzun soluklu bir tartışma başlatmıştı. Eysenck'in bulgularına göre nevrotik rahatsızlığı olan kişilerin bir kısmı, kendi hallerine bırakıldıklarında zaten bir süre sonra iyileşiyorlardı. Aslında Hans Eysenck bir davranışçıydı ve onun psikoterapi olarak tanımladığı şey, o dönem için ağırlıklı olarak eklektik psikoterapiler ve psikanalizden ibaretti.
