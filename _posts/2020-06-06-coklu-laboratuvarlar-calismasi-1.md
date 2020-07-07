@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Many Labs 1
-authors:
-- Defne Alkan
-- Hazal Arpacı
-categories:
-tags:
+author: Defne Alkan ve Hazal Arpacı
 image: defnehazal1.jpg
 ---
 
