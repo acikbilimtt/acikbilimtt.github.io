@@ -8,7 +8,7 @@ categories:
 tags:
 image: defnehazal1.jpg
 ---
-s
+
 Tekrar çalışmaları, bilimin doğru şekilde ilerlemesi için büyük bir
 öneme sahiptir, fakat literatürde pek fazla yer almazlar. Yeni
 çalışmalar yapmak her zaman için ilgi çekici ve hatta gereklidir. Ancak,
