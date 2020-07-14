@@ -6,9 +6,6 @@ categories: [originals, introductory]
 tags: [yayın etiği, bilimsel suistimal, veri uydurma, çarpıtma, intihal]
 image: berfin1.jpg
 ---
-
-# Yayın Etiği ve Bilimsel Suistimal
-
 Bu yazıda özellikle son yıllarda oldukça sık duymaya başladığımız ve
 bilim insanlarına, bahsi geçen alana, söz konusu çalışmanın bulgularının
 etkileyebileceği insanlara ciddi zararlar verebilecek bir konuyu
