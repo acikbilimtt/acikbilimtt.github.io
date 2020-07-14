@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yayın Etiği ve Bilimsel Suistimal
-authors: Berfin Acar
+author: Berfin Acar
 categories: [originals, introductory]
 tags: [yayın etiği, bilimsel suistimal, veri uydurma, çarpıtma, intihal]
 image: berfin1.jpg
