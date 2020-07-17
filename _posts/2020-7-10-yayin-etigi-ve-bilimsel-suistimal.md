@@ -134,7 +134,7 @@ yeterli katkısı olmadığı gibi), bazı durumlarda isminin dahil
 edildiğinden haberi bile olmayabilir ve bu ciddi bir ihlaldir.
 
 Tüm bunların yanında, bilimsel suistimal kapsamına nelerin girmediğinden
-de bahsetmekte fayda var. Her ne kadar, sıkça konuşulan tartışmalı
+de bahsetmekte fayda var. Her ne kadar, sıkça konuşulansakıncalı
 araştırma uygulamaları *(questionable research practices*) sorunlara yol
 açsa da, bu uygulamalar bilimsel suistimal olarak değerlendirilmiyor.
 Bunun yanında örneğin; araştırma verilerinin toplanmasında,
@@ -210,11 +210,11 @@ bulabiliyorlar. Bu da veriyi uydurmak ya da toplanan veriden istenen
 sonuçlar elde edilemediğinde onları değiştirmek gibi kabul edilemeyecek
 etik dışı yaklaşımlara sebep olabiliyor.
 
-Fanelli (2009) bilimsel suistimal ve tartışmalı araştırma
-uygulamalarının (TAU) ne kadar yaygın olduğuna dair yaptığı bir
+Fanelli (2009) bilimsel suistimal ve sakıncalı araştırma
+uygulamalarının ne kadar yaygın olduğuna dair yaptığı bir
 meta-analiz çalışmasında, araştırmacıların yaklaşık % 2'sinin veri
 uydurduğunu ya da verileri çarpıttığını kabul ettiğini gösterdi.
-Tartışmalı araştırma uygulamaları konusunda ise araştırmacıların üçte
+Sakıncalı araştırma uygulamaları konusunda ise araştırmacıların üçte
 biri bu uygulamaları gerçekleştirdiklerini kabul etti (Fanelli, 2009).
 Bilimsel suistimal konusundaki sorular araştırmacılara doğrudan
 sorulduğunda (*self-report*), anketler e-posta yerine elden verildiğinde
