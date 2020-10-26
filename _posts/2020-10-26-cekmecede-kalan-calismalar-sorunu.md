@@ -9,7 +9,7 @@ tags:
 - Sıfır Sonuç
 - Yayın Yanlılığı
 - Çekmecede Kalan Çalışmalar Sorunu
-image: "/assets/img/esra1.jpg"
+image: esra1.jpg
 
 ---
 Çekmecede kalan çalışmalar sorunu (_file-drawer problem_), bir çalışmanın bulgularının istatistiksel olarak anlamlı bir sonuç ortaya koymadığı gerekçesiyle halka açık olarak paylaşılması yerine çalışmayı gerçekleştiren yazarın çekmecesinde tozlanmaya terk edilmesi olarak tanımlanabilir (Chambers, 2017). Terim ilk olarak Robert Rosenthal tarafından 1979 yılında alanyazına kazandırılmıştır. Bu noktada, sorunun ciddiyetine değinmeden önce sorunu ortaya çıkaran iki temel olgudan bahsetmek doğru olacaktır. Bunlardan birincisi sıfır sonuçlara (_null results_) karşı oluşan olumsuz tutumdur (Ferguson & Heene, 2012). Sıfır sonuç, çalışmanın başında ortaya koyulan yokluk hipotezinin (kullanılan deneysel durumlar arasında fark çıkmaması ya da uygulanan müdahalenin başarılı olmaması vb.) çalışmanın bulgularıyla çürütülememesi şeklinde tanımlanabilir. Bir başka deyişle sıfır sonucun, istatiksel olarak anlamlı olmayan sonuca karşılık geldiği söylenebilir. Adının sıfır olmasının da getirdiği negatif etkiyle, başta araştırmacının kendisi olmak üzere akademik çevresini oluşturan kişiler tarafından bu tip sonuçlara olumlu bir yaklaşım sergilenmeyebilir. Çünkü yokluk hipotezini çürütememiş olmak bir bakıma oluşturulan deneysel değişimlemenin ya da uygulanan müdahalenin bir işe yaramadığı düşüncesine yol açabilir. Bu düşüncenin doğal bir sonucu olarak araştırmacılar, bilimsel çalışmalarını herhangi bir yayına dönüştürmeme kararı alabilirler ve dolayısıyla buldukları sonuçlar çekmede kalmaya mahkûm olur.
