@@ -9,7 +9,7 @@ tags:
 - akademik yazarlık yazı dizisi
 - yazar sıralaması
 - akademik yazarlık
-image: ''
+image:
 
 ---
 Akademik yazarlık yazı dizimizin ilk bölümünde akademik yazarlığın ne olduğundan ve kimlerin yazar olabileceğinden bahsetmiştik. İkinci bölümünde ise yayınlardaki yazar sırasının önemini ve buna ilişkin sorunları konuşacağız.
