@@ -9,8 +9,7 @@ tags:
 - 'açık bilim '
 - katkı rolleri
 - CRediT
-image: ''
-
+image:
 ---
 Akademik yazarlık yazı dizimizdeki önceki yazılarda geleneksel akademik yazarlık sisteminin ve bu sistemin beraberinde getirdiği sorunların üzerinde durduk. Bu yazılarda bahsettiğimiz yazarlık çatışmaları göz önünde bulundurulduğunda, açık bilim girişiminin, bilimde şeffaflık konusunun altını neden bu kadar çizdiğini anlamak daha da kolaylaşıyor. Akademik çalışmalarda açık bilim pratiklerine (örn., daha şeffaf ya da yeniden üretilebilir olma vb.) yönelimin başlamasıyla birlikte, her konudaki sorunlara olduğu gibi akademik yazarlık konusundaki sıkıntılara yönelik de çözümler geliştirilmeye başlandı. Bu yazıda ise sizlere, bu doğrultuda geliştirilen Katkı Rolleri Taksonomisini (_Contributor Roles Taxonomy, CRediT_) tanıtacağız.
 
