@@ -28,7 +28,7 @@ Aşırı yazarlık (_hyperauthorship_), 50’den fazla yazara sahip makaleler i�
 
 Akademik yazarlık yazı dizimizin devam yazılarında akademik yazarlık içerisinde bulunan bazı sorunlardan (yazar sıralaması, onursal/konuk/hediye yazarlık, hayalet yazarlık, sahte yazarlık ve mahrum yazarlık) ve bu sorunlara çözüm getirebilecek ve araştırmada üstlenilen rolleri içeren detaylı bir taksonomiye sahip olan Katkı Rolleri Taksonomisinden (_Contributor Roles Taxonomy_, CRediT) bahsedeceğiz.
 
-Kaynakça
+### Kaynakça
 
 Aad, G., Abbott, B., Abdallah, J., Aben, R., Abolins, M., AbouZeid, O. S., ... & Acharya, B. S. (2015). Combined Measurement of the Higgs Boson Mass in p p Collisions at s= 7 and 8 TeV with the ATLAS and CMS Experiments_. Physical review letters, 114_(19), 191803.
 
