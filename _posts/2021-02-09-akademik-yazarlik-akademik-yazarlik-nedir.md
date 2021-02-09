@@ -8,8 +8,7 @@ tags:
 - akademik yayın
 - akademik yazarlık yazı dizisi
 - akademik yazarlık
-image: ''
-
+image:
 ---
 Bir makalenin yazarı olarak yer almak yapılan çalışmadan sorumlu olmak ve çalışmaya hakim olmak olarak tanımlanabilir (Huth, 1986). Geleneksel olarak ise bir makalenin basıma hazır metninin yazım ve/veya düzenleme aşamasında katkıda bulunmuş olmak gerekliliği olarak tanımlanır. Araştırmaların tek bir kişi tarafından planlandığı, uygulandığı ve yazıya geçirilerek bilime katkı sağlama aşamasına geldiği erken modern zamanlar için bu tanımlama her ne kadar uygun olsa da modern bilim için artık geçerli değil. Modern akademik yapılanmada araştırmalar genellikle tek bir kişi ya da birkaç kişinin oluşturduğu küçük gruplar tarafından değil, çok daha fazla araştırmacının katkılarını içeren laboratuvarlar, hatta çok disiplinli çalışmalar özelinde birden fazla laboratuvardaki araştırmacılar tarafından yapılıyor. Durum böyle iken esas önemli olan makaledeki kelimeleri kimin bir araya getirdiği değil, bir bütün olarak araştırma sürecine kimin ne kadar katkıda bulunduğu oluyor.
 
