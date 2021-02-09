@@ -9,7 +9,7 @@ tags:
 - 'konuk yazarlık '
 - 'hayalet yazarlık '
 - akademik yazarlık yazı dizisi
-image: ''
+image:
 
 ---
 Yazar listesinde çalışmada yer alan araştırmacıların bulunmaması ya da çalışmada yer almayan araştırmacılara yer verilmesinden oluşan durumların toplamının yazarlık çatışmaları (_authorship disputes_) olarak geçtiğinden akademik yazarlık yazı dizimizin bir önceki yazısında bahsetmiştik. Peki makalede kimin isminin yer aldığı veya yer almadığı neden önem taşıyor? İlk olarak, yazarlık çatışmaları kritik bir yayın etiği ihlali olarak kabul edilir (bu konuda daha detaylı bilgi için Berfin Acar’ın [“_Yayın Etiği ve Bilimsel Suistimal”_](https://acikbilimtt.github.io/originals/introductory/yayin-etigi-ve-bilimsel-suistimal.html) isimli yazısına göz atabilirsiniz). Etiksel sorunları bir kenara bıraktığımızda dahi, bu uygulamaların sebep olduğu pek çok sakıncalı durum bulunuyor. Yazarlık sıralaması ve yayın sayısının hibe başvuruları, akademik pozisyonları elde etme ve o pozisyonlarda yükselmedeki öneminden daha önceki yazımızda bahsetmiştik. Bunlara ek olarak, araştırmacılar daha fazla makalede yazar olarak bulunduklarında akademik tanınırlıkları artıyor, dergi editörleri bu araştırmacıları hakem olarak görevlendirmeye başlıyor ve bazı durumlarda yetkin olmayan kişilerin bilimde etkileri artmış oluyor (Gasparyan, Ayvazyan, & Kitas, 2012). Bütün bunlar da sonuç olarak bilimsel kalitenin düşmesine sebep oluyor.
