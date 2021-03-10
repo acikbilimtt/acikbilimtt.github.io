@@ -3,7 +3,8 @@ layout: post
 title: 'Bir Fikir Yazısı: Tekrarlama Krizi, Sakıncalı Pratikler ve Akademik Sahtekârlık:
   Sanık Koltuğunda Kimler Var'
 author: Göksu Akşam
-categories: []
+categories:
+- originals
 tags:
 - tekrar çalışmaları
 - sakıncalı araştırma pratikleri
