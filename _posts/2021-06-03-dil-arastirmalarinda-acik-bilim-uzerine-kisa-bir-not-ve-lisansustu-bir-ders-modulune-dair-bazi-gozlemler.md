@@ -8,7 +8,7 @@ tags:
 - lisansüstü ders modülü
 - açık bilim
 - dil araştırmaları
-image: ''
+image:
 
 ---
 Bu yazının İngilizcesine Berkeley Initiative for Transparency in the Social Sciences (BITTS) [Blog’dan](https://www.bitss.org/a-note-on-open-science-in-language-research-and-some-observations-from-a-graduate-course-module/) ulaşabilirsiniz.
