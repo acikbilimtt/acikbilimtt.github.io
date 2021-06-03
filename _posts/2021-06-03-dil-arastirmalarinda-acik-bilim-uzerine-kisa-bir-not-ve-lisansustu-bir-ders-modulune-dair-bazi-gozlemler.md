@@ -4,7 +4,10 @@ title: Dil Araştırmalarında Açık Bilim Üzerine Kısa Bir Not ve Lisansüst
   Modülüne Dair Bazı Gözlemler
 author: Esra Ataman, Ozan Can Çağlar, Bilal Kırkıcı
 categories: []
-tags: []
+tags:
+- lisansüstü ders modülü
+- açık bilim
+- dil araştırmaları
 image: ''
 
 ---
